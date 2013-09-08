@@ -1,6 +1,4 @@
-﻿var SnipcartSettings = SnipcartSettings || {};
-SnipcartSettings.locales = SnipcartSettings.locales || {};
-SnipcartSettings.locales['en'] = {
+﻿Snipcart.do('registerLocale', 'en', {
 yes:
 "Yes",
 no:
@@ -247,4 +245,4 @@ payment_required_message:
 "The shopping cart for this website has been disabled. If you are the owner of this website, please login into Snipcart dashboard to resolve the issue.",
 payment_require_title:
 "The shopping cart is disabled."
-};
+});

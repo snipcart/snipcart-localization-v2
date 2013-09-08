@@ -1,6 +1,4 @@
-﻿var SnipcartSettings = SnipcartSettings || {};
-SnipcartSettings.locales = SnipcartSettings.locales || {};
-SnipcartSettings.locales['fr'] = {
+﻿Snipcart.do('registerLocale', 'fr', {
 yes:
 "Oui",
 no:
@@ -247,4 +245,4 @@ payment_required_message:
 "Le panier d'achat de ce site a été désactivé. Si vous êtes le propriétaire du site, veuillez vous connecter à votre compte Snipcart afin de résoudre le problème.",
 payment_require_title:
 "Le panier d'achat est désactivé."
-};
+});
