@@ -66,7 +66,7 @@ confirm_order:
 bill_me_later:
 "Bill me later",
 bill_me_later_explanation:
-"A receipt will be sent to you by email.",
+"An invoice will be sent to you by email.",
 promo_code_applied_successfully:
 "Your promocode has been applied successfully.",
 promo_code_is_invalid:
