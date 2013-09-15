@@ -8,7 +8,7 @@ print:
 download_as_pdf:
 "Als PDF herunterladen",
 checkout:
-"Kasse",
+"Zur Kasse",
 close:
 "Schliessen",
 name:
@@ -134,7 +134,7 @@ cart_empty_text:
 new_account_form_create_new_account:
 "Ein Konto erstellen",
 new_account_form_create_new_account_action:
-"Erstellen",
+"Konto Erstellen",
 login_form_having_an_account:
 "Haben Sie ein Konto?",
 login_form_login_action:
@@ -152,7 +152,7 @@ forgot_password_email_sent_message:
 login_checkout_as_guest:
 "Als Gast bezahlen",
 login_checkout_as_guest_notice:
-"Nach dem Abschliessen der Bestellung haben Sie die Möglichkeit, mit den gemachten Angaben einfach ein Konto zu eröffnen.",
+"Nach dem Abschliessen der Bestellung haben Sie die Möglichkeit, mit den gemachten Angaben einfach ein Konto zu erstellen.",
 shipping_address_same_as_billing:
 "Versandadresse ist mit Rechnungsadresse identisch",
 shipping_method_method_name:
@@ -192,7 +192,7 @@ reset_password_click_here_to_login:
 thankyou_message:
 "Herzlichen Dank für Ihre Bestellung!",
 thankyou_submessage:
-"Wir haben Ihnen eine Bestätigung geschickt.",
+"Wir haben Ihnen eine Bestätigungs-E-Mail geschickt.",
 account_created_successfully:
 "Konto erfolgreich erstellt!",
 account_created_successfully_message:
@@ -220,7 +220,7 @@ error_payment_items_are_invalid:
 error_crawling_failed:
 "Wir konnten Ihre Bestellung nicht abschliessen. Ihre Kreditkarte wurde nicht belastet. Bitte versuchen Sie es in wenigen Augenblicken nochmal.",
 powered_by:
-"Unterstützt durch",
+"Powered by",
 promocode_rate_format:
 "{0}% Rabatt auf Ihre Bestellung",
 promocode_amount_format:
