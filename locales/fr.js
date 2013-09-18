@@ -229,6 +229,8 @@ shipping_method_business_days:
 "{0} jours ouvrables",
 shipping_method_business_day:
 "{0} jour ouvrable",
+shipping_method_delivery_time:
+"D'ici {0}",
 welcome:
 "Bienvenue",
 back:

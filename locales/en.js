@@ -229,6 +229,8 @@ shipping_method_business_days:
 "{0} business days",
 shipping_method_business_day:
 "{0} business day",
+shipping_method_delivery_time:
+"By {0}", // By 2013-11-28
 welcome:
 "Welcome",
 back:

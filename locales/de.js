@@ -229,6 +229,8 @@ shipping_method_business_days:
 "{0} Arbeitstage",
 shipping_method_business_day:
 "{0} Arbeitstag",
+shipping_method_delivery_time:
+"Von {0}",
 welcome:
 "Willkommen",
 back:
