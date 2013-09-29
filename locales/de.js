@@ -144,11 +144,11 @@ login_form_forgot_password_action:
 forgot_password_forgot_your_password:
 "Passwort vergessen?",
 forgot_password_please_enter_email:
-"Geben Sie bite Ihre E-Mail-Adresse ein, wir werden Ihnen eine E-Mail mit einem einmaligen Link senden, mit dem Sie Ihr Passwort zurücksetzen können.",
+"Geben Sie bitte Ihre E-Mail-Adresse ein, wir werden Ihnen eine E-Mail mit einem einmaligen Link senden, mit dem Sie Ihr Passwort zurücksetzen können.",
 forgot_password_success_email_sent:
 "E-Mail versendet",
 forgot_password_email_sent_message:
-"Eine E-Mail mit einer Anleitung zum Zurücksetzen Ihres Passworts wurde an Sie gesendet. Öffen Sie diese und folgen Sie den angegebenen Schritten.",
+"Eine E-Mail mit einer Anleitung zum Zurücksetzen Ihres Passworts wurde an Sie gesendet. Öffen Sie diese, und folgen Sie den angegebenen Schritten.",
 login_checkout_as_guest:
 "Als Gast bezahlen",
 login_checkout_as_guest_notice:
@@ -240,7 +240,7 @@ order_infos:
 generic_error_title:
 "Hoppla, ein Fehler ist aufgetreten!",
 promocode_deleted_at_checkout:
-"Der von Ihnen verwendete Promotionscode hat die Maximalzahl an Einlösungen erreicht während Sie im Bezahlprozess waren. Bitte entschuldigen Sie diese Unanehmlichkeit.",
+"Der von Ihnen verwendete Promotionscode hat die Maximalzahl an Einlösungen erreicht, während Sie im Bezahlprozess waren. Bitte entschuldigen Sie diese Unanehmlichkeit.",
 continue_shopping:
 "Einkauf fortsetzen",
 payment_required_message:
