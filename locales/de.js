@@ -230,7 +230,7 @@ shipping_method_business_days:
 shipping_method_business_day:
 "{0} Arbeitstag",
 shipping_method_delivery_time:
-"Von {0}",
+"Bis {0}",
 welcome:
 "Willkommen",
 back:
