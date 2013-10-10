@@ -154,7 +154,7 @@ login_checkout_as_guest:
 login_checkout_as_guest_notice:
 "À la fin du processus de paiement, nous vous offririons la possiblité de vous créer un compte avec les informations que vous aurez saisi durant le processus de paiement.",
 shipping_address_same_as_billing:
-"Mon adresse de livraison est identique à mon adresse de facturation",
+"Utiliser cette adresse pour la livraison",
 shipping_method_method_name:
 "Méthode de livraison",
 shipping_method_shipping_price:

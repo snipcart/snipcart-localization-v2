@@ -154,7 +154,7 @@ login_checkout_as_guest:
 login_checkout_as_guest_notice:
 "Nach dem Abschliessen der Bestellung haben Sie die Möglichkeit, mit den gemachten Angaben einfach ein Konto zu erstellen.",
 shipping_address_same_as_billing:
-"Versandadresse ist mit Rechnungsadresse identisch",
+"Versandadresse ist mit Rechnungsadresse identisch", // TODO: Needs to be updated
 shipping_method_method_name:
 "Versandart",
 shipping_method_shipping_price:

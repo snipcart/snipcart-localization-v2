@@ -154,7 +154,7 @@ login_checkout_as_guest:
 login_checkout_as_guest_notice:
 "At the end of the checkout process, you will be offered the possibility to create an account using the information you entered during the checkout process.",
 shipping_address_same_as_billing:
-"Same as billing",
+"Use this address for shipping",
 shipping_method_method_name:
 "Shipping method",
 shipping_method_shipping_price:
