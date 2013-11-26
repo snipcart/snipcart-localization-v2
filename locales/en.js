@@ -68,11 +68,11 @@ bill_me_later:
 bill_me_later_explanation:
 "An invoice will be sent to you by email.",
 promo_code_applied_successfully:
-"Your promocode has been applied successfully.",
+"Your Discount has been applied successfully.",
 promo_code_is_invalid:
-"The promocode is invalid.",
+"The Discount is invalid.",
 promo_code_code:
-"Have a promocode?",
+"Have a Discount?",
 promo_code_rate_on_order:
 "discount on the order",
 promo_code_alternate_price:
@@ -89,6 +89,8 @@ payment_informations:
 "Payment information",
 payment_informations_bill_me_later:
 "I will pay later",
+payment_informations_paypalexpress:
+"Payment with Paypal",
 credit_card_type_mastercard:
 "Mastercard",
 credit_card_type_visa:
@@ -220,7 +222,7 @@ error_payment_items_are_invalid:
 error_crawling_failed:
 "We have not been able to validate your order, your credit card has not been charged, please try again in a few moments.",
 powered_by:
-"Powered by",
+"Powered and secured by",
 promocode_rate_format:
 "{0}% discount on your order",
 promocode_amount_format:
@@ -240,11 +242,25 @@ order_infos:
 generic_error_title:
 "Oops, an error occured.",
 promocode_deleted_at_checkout:
-"The promocode you used has reached its usage limit while you were doing your checkout. Sorry for this inconvenience.",
+"The Discount you used has reached its usage limit while you were doing your checkout. Sorry for this inconvenience.",
 continue_shopping:
 "Continue shopping",
 payment_required_message:
 "The shopping cart for this website has been disabled. If you are the owner of this website, please login into Snipcart dashboard to resolve the issue.",
 payment_require_title:
-"The shopping cart is disabled."
+"The shopping cart is disabled.",
+configuration_problem:
+"Configuration problem",
+additionnal_information:
+"Additional information",
+send_error:
+"Send this error to website's owner",
+message_sent:
+"Message sent, thank you",
+paypalexpress_loading:
+"You will be redirected to Paypal to make the payment soon.",
+paypalexpress_cancelled:
+"You cancelled the transaction, you can either click on the button below to try again or simply continue to shop.",
+retry:
+"Try again"
 });

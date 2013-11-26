@@ -89,6 +89,8 @@ payment_informations:
 "Informations de paiement",
 payment_informations_bill_me_later:
 "Je paierai plus tard",
+payment_informations_paypalexpress:
+"Paiement via Paypal",
 credit_card_type_mastercard:
 "Mastercard",
 credit_card_type_visa:
@@ -220,7 +222,7 @@ error_payment_items_are_invalid:
 error_crawling_failed:
 "Nous n'avons pas pu validé votre commande. Votre carte de crédit n'a pas été chargée. Veuillez réessayer dans quelques instants.",
 powered_by:
-"Propulsé par",
+"Propulsé et sécurisé par",
 promocode_rate_format:
 "{0}% de rabais sur votre commande",
 promocode_amount_format:
@@ -246,5 +248,19 @@ continue_shopping:
 payment_required_message:
 "Le panier d'achat de ce site a été désactivé. Si vous êtes le propriétaire du site, veuillez vous connecter à votre compte Snipcart afin de résoudre le problème.",
 payment_require_title:
-"Le panier d'achat est désactivé."
+"Le panier d'achat est désactivé.",
+configuration_problem:
+"Problème de configuration",
+additionnal_information:
+"Information supplémentaire",
+send_error:
+"Envoyer ce message au créateur du site",
+message_sent:
+"Message envoyé, merci",
+paypalexpress_loading:
+"Vous serez redirigé vers Paypal pour effectuer le paiement dans quelques instants.",
+paypalexpress_cancelled:
+"Vous avez annulé la transaction, cliquez sur le bouton ci-dessous afin de la compléter, ou vous pouvez continuer à magasiner.",
+retry:
+"Réessayer"
 });

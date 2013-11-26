@@ -246,5 +246,11 @@ continue_shopping:
 payment_required_message:
 "Der Warenkorb wurde für diese Website deaktiviert. Falls Sie der Besitzer dieser Website sind, loggen Sie sich ins Snipcart Dashboard ein, um das Problem zu beheben.",
 payment_require_title:
-"Der Warenkorb ist deaktiviert."
+"Der Warenkorb ist deaktiviert.",
+paypalexpress_loading:
+"Sie werden auf PayPal weitergeleitet, um die Zahlung innerhalb von wenigen Augenblicken machen.",
+paypalexpress_cancelled:
+"U annuleerde de transactie, kunt u klikken op de onderstaande knop om het opnieuw te proberen of gewoon blijven om te winkelen.",
+retry:
+"Probeer het opnieuw"
 });

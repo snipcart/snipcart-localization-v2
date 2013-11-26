@@ -246,5 +246,11 @@ continue_shopping:
 payment_required_message:
 "Kundvagnen för denna webbplats har inaktiverats. Om du är ägare av denna webbplats, vänligen logga in Snipcart för att lösa problemet.",
 payment_require_title:
-"Kundvagnen är inaktiverad"
+"Kundvagnen är inaktiverad",
+paypalexpress_loading:
+"Du kommer att omdirigeras till PayPal för att göra betalningen inom några ögonblick.",
+paypalexpress_cancelled:
+"Du avbröt affären, kan du antingen klicka på knappen nedan för att försöka igen eller helt enkelt fortsätta att handla.",
+retry:
+"Försök igen"
 });
