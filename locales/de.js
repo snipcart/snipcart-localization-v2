@@ -258,13 +258,13 @@ additionnal_information:
 error_crawlingfailed_title:
 "Er is iets misgegaan bij het valideren van uw bestelling, maak je geen zorgen, heb je niet in rekening zijn gebracht.",
 error_crawling_unreachable:
-"Item <strong>{0}</strong> is unreachable at <strong>{1}</strong>. Make sure the product URL is publicly available.",
+"Item <strong>{0}</strong> is onbereikbaar op <strong>{1}</strong>. Zorg ervoor dat het product URL is openbaar.",
 error_crawling_product_not_found:
-"Item <strong> {0} </ strong> is onbereikbaar op <strong> {1} </ strong>. Zorg ervoor dat het product URL is openbaar.",
+"Item <strong>{0}</strong> is niet gevonden op <strong>{1}</strong>.",
 error_crawling_price_not_found:
-"Item <strong>{0}</strong> does not have any specified price at <strong>{1}</strong>, specify it with data-item-price.",
+"Item <strong> 0}</strong> heeft geen specifieke prijs op <strong>{1}</strong>, geef het met data-item-price.",
 error_crawling_price_doesnot_match:
-"Item <strong> {0} </ strong> heeft geen specifieke prijs op <strong> {1} </ strong>, geef het met data-punt-prijs.",
+"Item <strong>{0}</strong>prijs op <strong>{3}</strong> is <strong>{2}</strong>, maar moet worden <strong>{1}</strong>.",
 error_crawlingfailed_title_test:
 "Er is iets misgegaan bij het valideren van uw bestelling, maak je geen zorgen, heb je niet in rekening zijn gebracht. Deze website is momenteel in testmodus."
 });

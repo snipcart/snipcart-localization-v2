@@ -262,5 +262,17 @@ paypalexpress_loading:
 paypalexpress_cancelled:
 "Siparişi iptal ettiniz. Eğer tekrar alışveriş yapmak istiyorsanız aşağıdaki butona tıklayabilirsiniz.",
 retry:
-"Tekrar deneyin"
+"Tekrar deneyin",
+error_crawlingfailed_title:
+"Bir şey sipariş doğrularken, merak etmeyin yanlış gitti, tahsil edilmemiştir.",
+error_crawling_unreachable:
+"Ürün {0} {1} de erişilemiyor.Ürün URL kamuya olduğundan emin olun.",
+error_crawling_product_not_found:
+"Ürün {0} bulunan olmamıştır {1}.",
+error_crawling_price_not_found:
+"Ürün {0} de belirtilen herhangi bir fiyat yok {1}, data-item-price ile belirtin.",
+error_crawling_price_doesnot_match:
+"At öğenin {0} fiyat {3} {2} fakat edilmelidir {1}.",
+error_crawlingfailed_title_test:
+"Bir şey sipariş doğrularken, merak etmeyin yanlış gitti, tahsil edilmemiştir. Bu web sitesi test modunda şu anda."
 });
