@@ -252,7 +252,7 @@ payment_require_title:
 configuration_problem:
 "Problème de configuration",
 additionnal_information:
-"Information supplémentaire",
+"Vous pouvez saisir un message ci-dessous si vous voulez donner des commentaires ou plus d'information sur le problème.",
 send_error:
 "Envoyer ce message au créateur du site",
 message_sent:
@@ -262,5 +262,17 @@ paypalexpress_loading:
 paypalexpress_cancelled:
 "Vous avez annulé la transaction, cliquez sur le bouton ci-dessous afin de la compléter, ou vous pouvez continuer à magasiner.",
 retry:
-"Réessayer"
+"Réessayer",
+error_crawlingfailed_title:
+"Une erreur est survenue lors de la validation de votre commande, ne vous inquiétez pas, vous n'avez pas été chargé.",
+error_crawling_unreachable:
+"Le produit <strong>{0}</strong> n'est pas accessible à l'adresse <strong>{1}</strong>. Veuillez vous assurer que cette URL est accessible.",
+error_crawling_product_not_found:
+"Nous n'avons pas pu trouvé le produit <strong>{0}</strong> à l'adresse <strong>{1}</strong>",
+error_crawling_price_not_found:
+"Le prix du produit <strong>{0}</strong> n'est pas spécifié à l'adresse <strong>{1}</strong>, veuillez le spécifier avec data-item-price",
+error_crawling_price_doesnot_match:
+"Le prix du produit <strong>{0}</strong> à l'adresse <strong>{3}</strong> est <strong>{2}</strong> mais devrait être <strong>{1}</strong>",
+error_crawlingfailed_title_test:
+"Une erreur est survenue lors de la validation de votre commande, ne vous inquiétez pas, vous n'avez pas été chargé. Ce site est actuellement en mode Test."
 });

@@ -252,5 +252,19 @@ paypalexpress_loading:
 paypalexpress_cancelled:
 "U annuleerde de transactie, kunt u klikken op de onderstaande knop om het opnieuw te proberen of gewoon blijven om te winkelen.",
 retry:
-"Probeer het opnieuw"
+"Probeer het opnieuw",
+additionnal_information:
+"Voer een bericht hieronder als je wilt geven of meer informatie over dit probleem te sturen.",
+error_crawlingfailed_title:
+"Er is iets misgegaan bij het valideren van uw bestelling, maak je geen zorgen, heb je niet in rekening zijn gebracht.",
+error_crawling_unreachable:
+"Item <strong>{0}</strong> is unreachable at <strong>{1}</strong>. Make sure the product URL is publicly available.",
+error_crawling_product_not_found:
+"Item <strong> {0} </ strong> is onbereikbaar op <strong> {1} </ strong>. Zorg ervoor dat het product URL is openbaar.",
+error_crawling_price_not_found:
+"Item <strong>{0}</strong> does not have any specified price at <strong>{1}</strong>, specify it with data-item-price.",
+error_crawling_price_doesnot_match:
+"Item <strong> {0} </ strong> heeft geen specifieke prijs op <strong> {1} </ strong>, geef het met data-punt-prijs.",
+error_crawlingfailed_title_test:
+"Er is iets misgegaan bij het valideren van uw bestelling, maak je geen zorgen, heb je niet in rekening zijn gebracht. Deze website is momenteel in testmodus."
 });

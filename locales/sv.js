@@ -252,5 +252,19 @@ paypalexpress_loading:
 paypalexpress_cancelled:
 "Du avbröt affären, kan du antingen klicka på knappen nedan för att försöka igen eller helt enkelt fortsätta att handla.",
 retry:
-"Försök igen"
+"Försök igen",
+additionnal_information:
+"Skriv ett meddelande nedan om du vill skicka feedback eller mer information om det här problemet.",
+error_crawlingfailed_title:
+"Något gick fel vid validering din beställning, oroa dig inte, du har inte åtalats.",
+error_crawling_unreachable:
+"Punkt <strong> {0} </ strong> är onåbar på <strong> {1} </ strong>. Se till att produkten URL är allmänt tillgänglig.",
+error_crawling_product_not_found:
+"Punkt <strong> {0} </ strong> har inte hittats på <strong> {1} </ strong>.",
+error_crawling_price_not_found:
+"Punkt <strong> {0} </ strong> inte har någon angivet pris vid <strong> {1} </ strong>, ange det med datapost-priset.",
+error_crawling_price_doesnot_match:
+"Punkt <strong> {0} </ strong> pris på <strong> {3} </ strong> är <strong> {2} </ strong> men bör <strong> {1} </ strong>.",
+error_crawlingfailed_title_test:
+"Något gick fel vid validering din beställning, oroa dig inte, du har inte åtalats. Denna webbplats är för närvarande i testläge."
 });

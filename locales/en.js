@@ -252,7 +252,7 @@ payment_require_title:
 configuration_problem:
 "Configuration problem",
 additionnal_information:
-"Additional information",
+"Enter a message below if you want to send feedbacks or more information about this problem.",
 send_error:
 "Send this error to website's owner",
 message_sent:
@@ -262,5 +262,17 @@ paypalexpress_loading:
 paypalexpress_cancelled:
 "You cancelled the transaction, you can either click on the button below to try again or simply continue to shop.",
 retry:
-"Try again"
+"Try again",
+error_crawlingfailed_title:
+"Something went wrong when validating your order, don't worry, you have not been charged.",
+error_crawling_unreachable:
+"Item <strong>{0}</strong> is unreachable at <strong>{1}</strong>. Make sure the product URL is publicly available.",
+error_crawling_product_not_found:
+"Item <strong>{0}</strong> has not been found at <strong>{1}</strong>.",
+error_crawling_price_not_found:
+"Item <strong>{0}</strong> does not have any specified price at <strong>{1}</strong>, specify it with data-item-price.",
+error_crawling_price_doesnot_match:
+"Item <strong>{0}</strong> price at <strong>{3}</strong> is <strong>{2}</strong> but should be <strong>{1}</strong>.",
+error_crawlingfailed_title_test:
+"Something went wrong when validating your order, don't worry, you have not been charged. This website is currently in Test mode."
 });
