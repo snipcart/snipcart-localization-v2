@@ -252,7 +252,7 @@ payment_require_title:
 configuration_problem:
 "Configuration problem",
 additionnal_information:
-"Enter a message below if you want to send feedbacks or more information about this problem.",
+"Enter a message below if you want to send feedback or more information about this problem.",
 send_error:
 "Send this error to website's owner",
 message_sent:
