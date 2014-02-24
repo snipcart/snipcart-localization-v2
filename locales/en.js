@@ -192,7 +192,7 @@ reset_password_changed:
 reset_password_click_here_to_login:
 "Click here to login",
 thankyou_message:
-"Thank you for your order!",
+"Thank you for your order! Your invoice has been sent to you by email, you should receive it soon.",
 thankyou_submessage:
 "You will receive a confirmation email soon",
 account_created_successfully:
@@ -274,5 +274,9 @@ error_crawling_price_not_found:
 error_crawling_price_doesnot_match:
 "Item <strong>{0}</strong> price at <strong>{3}</strong> is <strong>{2}</strong> but should be <strong>{1}</strong>.",
 error_crawlingfailed_title_test:
-"Something went wrong when validating your order, don't worry, you have not been charged. This website is currently in Test mode."
+"Something went wrong when validating your order, don't worry, you have not been charged. This website is currently in Test mode.",
+
+// TO ADD IN OTHER LANGUAGES
+order_completedon:
+"Placed on"
 });
