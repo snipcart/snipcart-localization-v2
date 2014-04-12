@@ -267,4 +267,18 @@ error_crawling_price_doesnot_match:
 "Item <strong>{0}</strong>prijs op <strong>{3}</strong> is <strong>{2}</strong>, maar moet worden <strong>{1}</strong>.",
 error_crawlingfailed_title_test:
 "Er is iets misgegaan bij het valideren van uw bestelling, maak je geen zorgen, heb je niet in rekening zijn gebracht. Deze website is momenteel in testmodus."
+order_completedon:
+"geplaatst op",
+payment_method_status:
+"transactiestatus",
+payment_method_status_approved:
+"aangenomen",
+order_reference_number:
+"referentienummer",
+order_transaction_amount:
+"transactiebedrag",
+order_invoice_number:
+"factuurnummer",
+order_authorization_code:
+"autorisatie code"
 });
