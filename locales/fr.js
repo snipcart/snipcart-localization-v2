@@ -1,4 +1,4 @@
-﻿Snipcart.do('registerLocale', 'fr', {
+﻿Snipcart.execute('registerLocale', 'fr', {
 yes:
 "Oui",
 no:
@@ -274,5 +274,20 @@ error_crawling_price_not_found:
 error_crawling_price_doesnot_match:
 "Le prix du produit <strong>{0}</strong> à l'adresse <strong>{3}</strong> est <strong>{2}</strong> mais devrait être <strong>{1}</strong>",
 error_crawlingfailed_title_test:
-"Une erreur est survenue lors de la validation de votre commande, ne vous inquiétez pas, vous n'avez pas été chargé. Ce site est actuellement en mode Test."
+"Une erreur est survenue lors de la validation de votre commande, ne vous inquiétez pas, vous n'avez pas été chargé. Ce site est actuellement en mode Test.",
+
+order_completedon:
+"Date de la commande",
+payment_method_status:
+"Statut de la transaction",
+payment_method_status_approved:
+"Approuvée",
+order_reference_number:
+"Numéro de référence",
+order_transaction_amount:
+"Montant de la transaction",
+order_invoice_number:
+"Numéro de la facture",
+order_authorization_code:
+"Code d'authorisation"
 });

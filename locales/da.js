@@ -1,4 +1,4 @@
-﻿Snipcart.do('registerLocale', 'da', {
+﻿Snipcart.execute('registerLocale', 'da', {
 yes:
 "Ja",
 no:
@@ -275,8 +275,18 @@ error_crawling_price_doesnot_match:
 "Varens <strong>{0}</strong> pris <strong>{3}</strong> er <strong>{2}</strong> men burde være <strong>{1}</strong>.",
 error_crawlingfailed_title_test:
 "Der gik noget galt med din ordre. Hjemmesiden er pt. i test tilstand, og du er derfor ikke blevet opkrævet beløbet.",
-
-// TO ADD IN OTHER LANGUAGES
 order_completedon:
-"Ordren er gået igennem"
+"Ordren er gået igennem",
+payment_method_status:
+"Transaktion status",
+payment_method_status_approved:
+"Godkendt",
+order_reference_number:
+"Referencenummer",
+order_transaction_amount:
+"Transaktionsbeløbet",
+order_invoice_number:
+"Fakturanummer",
+order_authorization_code:
+"Autorisationskode"
 });

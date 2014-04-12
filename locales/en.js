@@ -1,4 +1,4 @@
-﻿Snipcart.do('registerLocale', 'en', {
+﻿Snipcart.execute('registerLocale', 'en', {
 yes:
 "Yes",
 no:
@@ -70,7 +70,7 @@ bill_me_later_explanation:
 promo_code_applied_successfully:
 "Your Discount has been applied successfully.",
 promo_code_is_invalid:
-"The Discount is invalid.",
+"The promo code is invalid.",
 promo_code_code:
 "Have a Discount?",
 promo_code_rate_on_order:
@@ -166,11 +166,11 @@ shipping_method_failure_message:
 shipping_method_failure_click_here_to_edit:
 "Click here to edit your shipping address",
 payment_method_card_holder:
-"Name on Card",
+"Name on card",
 payment_method_card_type:
-"Card Type",
+"Card type",
 payment_method_card_number:
-"Card Number",
+"Card number",
 payment_method_card_cvc:
 "CSC",
 payment_method_card_exp_month:
@@ -275,8 +275,18 @@ error_crawling_price_doesnot_match:
 "Item <strong>{0}</strong> price at <strong>{3}</strong> is <strong>{2}</strong> but should be <strong>{1}</strong>.",
 error_crawlingfailed_title_test:
 "Something went wrong when validating your order, don't worry, you have not been charged. This website is currently in Test mode.",
-
-// TO ADD IN OTHER LANGUAGES
 order_completedon:
-"Placed on"
+"Placed on",
+payment_method_status:
+"Transaction status",
+payment_method_status_approved:
+"Approved",
+order_reference_number:
+"Reference number",
+order_transaction_amount:
+"Transaction amount",
+order_invoice_number:
+"Invoice number",
+order_authorization_code:
+"Authorization code"
 });

@@ -1,4 +1,4 @@
-﻿Snipcart.do('registerLocale', 'tr', {
+﻿Snipcart.execute('registerLocale', 'tr', {
 yes:
 "Evet",
 no:
@@ -192,7 +192,7 @@ reset_password_changed:
 reset_password_click_here_to_login:
 "Giriş yapmak için tıklayın",
 thankyou_message:
-"Siparişiniz için teşekkür ederiz! Birazdan e-posta adresinize faturanızın bir kopyası gönderilecektir.",
+"Siparişiniz için teşekkür ederiz!",
 thankyou_submessage:
 "Kısa bir süre sonra onay e-postası alacaksınız",
 account_created_successfully:
@@ -254,17 +254,17 @@ configuration_problem:
 additionnal_information:
 "Ek bilgiler",
 send_error:
-"Web sitesine bu hatayı bildir",
+"Web sitesi sahibine bu hatayı ilet",
 message_sent:
 "Mesaj iletilmiştir, teşekkürler",
 paypalexpress_loading:
-"Birazdan ödeme yapmak için Paypal sayfasına yönlendirileceksiniz.",
+"Birazdan ödeme yapmak için Paypal servisine yönlendirileceksiniz.",
 paypalexpress_cancelled:
 "Siparişi iptal ettiniz. Eğer tekrar alışveriş yapmak istiyorsanız aşağıdaki butona tıklayabilirsiniz.",
 retry:
 "Tekrar deneyin",
 error_crawlingfailed_title:
-"Siparişiniz doğrulanırken bir hata oluştu. Endişelenmeyin, ödeme alınmamıştır.",
+"Bir şey sipariş doğrularken, merak etmeyin yanlış gitti, tahsil edilmemiştir.",
 error_crawling_unreachable:
 "Ürün {0} {1} de erişilemiyor.Ürün URL kamuya olduğundan emin olun.",
 error_crawling_product_not_found:
@@ -274,9 +274,19 @@ error_crawling_price_not_found:
 error_crawling_price_doesnot_match:
 "At öğenin {0} fiyat {3} {2} fakat edilmelidir {1}.",
 error_crawlingfailed_title_test:
-"Siparişiniz doğrulanırken bir hata oluştu. Endişelenmeyin, ödeme alınmamıştır. Bu web sitesi şuan Test modunda.",
-
-// TO ADD IN OTHER LANGUAGES
+"Bir şey sipariş doğrularken, merak etmeyin yanlış gitti, tahsil edilmemiştir. Bu web sitesi test modunda şu anda."
 order_completedon:
 "Ödeme alındı:"
+payment_method_status:
+"Islem durumu",
+payment_method_status_approved:
+"onayli",
+order_reference_number:
+"referans numarasi",
+order_transaction_amount:
+"Islem tutari",
+order_invoice_number:
+"fatura numarasi",
+order_authorization_code:
+"yetki kodu",
 });

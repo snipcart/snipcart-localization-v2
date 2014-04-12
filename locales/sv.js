@@ -1,4 +1,4 @@
-Snipcart.do('registerLocale', 'sv', {
+Snipcart.execute('registerLocale', 'sv', {
 yes:
 "Ja",
 no:
@@ -266,5 +266,19 @@ error_crawling_price_not_found:
 error_crawling_price_doesnot_match:
 "Punkt <strong>{0}</strong> pris på <strong>{3}</strong> är <strong>{2}</strong> men bör <strong>{1}</strong>.",
 error_crawlingfailed_title_test:
-"Något gick fel vid validering din beställning, oroa dig inte, du har inte åtalats. Denna webbplats är för närvarande i testläge."
+"Något gick fel vid validering din beställning, oroa dig inte, du har inte åtalats. Denna webbplats är för närvarande i testläge.",
+order_completedon:
+"Placerad på",
+payment_method_status:
+"Transaktions status",
+payment_method_status_approved:
+"Godkänd",
+order_reference_number:
+"Referensnummer",
+order_transaction_amount:
+"Transaktionsbelopp",
+order_invoice_number:
+"Fakturanummer",
+order_authorization_code:
+"behörighetskod"
 });

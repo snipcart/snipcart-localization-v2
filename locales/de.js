@@ -1,4 +1,4 @@
-﻿Snipcart.do('registerLocale', 'de', {
+﻿Snipcart.execute('registerLocale', 'de', {
 yes:
 "Ja",
 no:
