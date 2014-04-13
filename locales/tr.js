@@ -278,15 +278,15 @@ error_crawlingfailed_title_test:
 order_completedon:
 "Ödeme alındı:"
 payment_method_status:
-"Islem durumu",
+"İşlem durumu",
 payment_method_status_approved:
-"onayli",
+"Onaylandı",
 order_reference_number:
-"referans numarasi",
+"Referans numarası",
 order_transaction_amount:
-"Islem tutari",
+"İşlem tutarı",
 order_invoice_number:
-"fatura numarasi",
+"Fatura numarası",
 order_authorization_code:
-"yetki kodu",
+"Yetki kodu",
 });
