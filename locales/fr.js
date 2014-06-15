@@ -14,7 +14,7 @@ close:
 name:
 "Nom",
 company_name:
-"Nom de la compagnie",
+"Nom de la société",
 share_by_email:
 "Partager par courriel",
 email:
@@ -42,7 +42,7 @@ previous:
 next:
 "Étape suivante",
 finalize:
-"Placer la commande",
+"Terminer la commande",
 country:
 "Pays",
 subtotal:
@@ -54,13 +54,13 @@ apply_promo_code:
 my_cart:
 "Mon panier",
 continue_shopping:
-"Continuer à magasiner",
+"Continuer mes achats",
 my_cart_content:
 "Contenu de mon panier",
 shipping_method:
-"Méthode de livraison",
+"Mode de livraison",
 payment_method: 
-"Méthode de paiement",
+"Mode de paiement",
 confirm_order:
 "Confirmation de l'achat",
 bill_me_later:
@@ -158,11 +158,11 @@ login_checkout_as_guest_notice:
 shipping_address_same_as_billing:
 "Utiliser cette adresse pour la livraison",
 shipping_method_method_name:
-"Méthode de livraison",
+"Mode de livraison",
 shipping_method_shipping_price:
 "Prix de la livraison",
 shipping_method_failure_message:
-"Nous n'avons pas été en mesure de trouver une méthode de livraison. Veuillez vous assurer que votre adresse de livraison est correcte et essayez à nouveau.",
+"Nous n'avons pas été en mesure de trouver un mode de livraison. Veuillez vous assurer que votre adresse de livraison est correcte et essayez à nouveau.",
 shipping_method_failure_click_here_to_edit:
 "Cliquez ici pour modifier votre adresse de livraison",
 payment_method_card_holder:
@@ -178,7 +178,7 @@ payment_method_card_exp_month:
 payment_method_card_exp_year:
 "Année d'expiration",
 payment_method_cvc_infos:
-"Le CVC est le code de sécurité à 3 chiffres habituellement en arrière de votre carte à droite de la signature.",
+"Le CVC est le code de sécurité à 3 chiffres habituellement à l'arrière de votre carte à droite de la signature.",
 create_an_account:
 "Créer un compte",
 why_create_account:
@@ -192,11 +192,11 @@ reset_password_changed:
 reset_password_click_here_to_login:
 "Cliquez ici pour vous connecter",
 thankyou_message:
-"Merci pour votre commande! Votre facture vous a été envoyé par courriel.",
+"Merci pour votre commande! Votre facture vous a été envoyée par courriel.",
 thankyou_submessage:
 "Vous recevrez un courriel de confirmation bientôt",
 account_created_successfully:
-"Comtpe créé avec succès",
+"Compte créé avec succès",
 account_created_successfully_message:
 "Votre compte a été créé avec succès, merci beaucoup.",
 errors_required:
@@ -204,7 +204,7 @@ errors_required:
 errors_email_must_be_unique:
 "Un usager avec le même courriel existe déjà",
 errors_both_password_must_match:
-"Les deux mots de passe doivent être identique",
+"Les deux mots de passe doivent être identiques",
 errors_email_must_be_valid:
 "Le courriel doit être valide",
 errors_email_does_not_match_any_existing_user:
@@ -218,9 +218,9 @@ errors_invalid_authentication_infos:
 error_payment_items_empty:
 "Il semble que votre commande est invalide, veuillez rafraîchir la page. Votre carte de crédit n'a pas été chargée.",
 error_payment_items_are_invalid:
-"Nous n'avons pas pu complété votre commande. Il semble qu'un article dans votre panier a un prix invalide.",
+"Nous n'avons pas pu compléter votre commande. Il semble qu'un article dans votre panier a un prix invalide.",
 error_crawling_failed:
-"Nous n'avons pas pu validé votre commande. Votre carte de crédit n'a pas été chargée. Veuillez réessayer dans quelques instants.",
+"Nous n'avons pas pu valider votre commande. Votre carte de crédit n'a pas été débitée. Veuillez réessayer dans quelques instants.",
 powered_by:
 "Propulsé et sécurisé par",
 promocode_rate_format:
@@ -260,21 +260,21 @@ message_sent:
 paypalexpress_loading:
 "Vous serez redirigé vers Paypal pour effectuer le paiement dans quelques instants.",
 paypalexpress_cancelled:
-"Vous avez annulé la transaction, cliquez sur le bouton ci-dessous afin de la compléter, ou vous pouvez continuer à magasiner.",
+"Vous avez annulé la transaction, cliquez sur le bouton ci-dessous afin de la compléter, ou vous pouvez continuer vos achats.",
 retry:
 "Réessayer",
 error_crawlingfailed_title:
-"Une erreur est survenue lors de la validation de votre commande, ne vous inquiétez pas, vous n'avez pas été chargé.",
+"Une erreur est survenue lors de la validation de votre commande, ne vous inquiétez pas, vous n'avez pas été débité.",
 error_crawling_unreachable:
 "Le produit <strong>{0}</strong> n'est pas accessible à l'adresse <strong>{1}</strong>. Veuillez vous assurer que cette URL est accessible.",
 error_crawling_product_not_found:
-"Nous n'avons pas pu trouvé le produit <strong>{0}</strong> à l'adresse <strong>{1}</strong>",
+"Nous n'avons pas pu trouver le produit <strong>{0}</strong> à l'adresse <strong>{1}</strong>",
 error_crawling_price_not_found:
 "Le prix du produit <strong>{0}</strong> n'est pas spécifié à l'adresse <strong>{1}</strong>, veuillez le spécifier avec data-item-price",
 error_crawling_price_doesnot_match:
 "Le prix du produit <strong>{0}</strong> à l'adresse <strong>{3}</strong> est <strong>{2}</strong> mais devrait être <strong>{1}</strong>",
 error_crawlingfailed_title_test:
-"Une erreur est survenue lors de la validation de votre commande, ne vous inquiétez pas, vous n'avez pas été chargé. Ce site est actuellement en mode Test.",
+"Une erreur est survenue lors de la validation de votre commande, ne vous inquiétez pas, vous n'avez pas été débité. Ce site est actuellement en mode Test.",
 
 order_completedon:
 "Date de la commande",
@@ -289,5 +289,5 @@ order_transaction_amount:
 order_invoice_number:
 "Numéro de la facture",
 order_authorization_code:
-"Code d'authorisation"
+"Code d'autorisation"
 });
