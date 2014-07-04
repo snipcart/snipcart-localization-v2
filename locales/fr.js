@@ -243,8 +243,6 @@ generic_error_title:
 "Oops, une erreur est survenue.",
 promocode_deleted_at_checkout:
 "Le code promo que vous avez utilisé a atteint son nombre d'utilisation maximum durant votre paiement. Nous sommes désolés de cet inconvénient.",
-continue_shopping:
-"Continuer à magasiner",
 payment_required_message:
 "Le panier d'achat de ce site a été désactivé. Si vous êtes le propriétaire du site, veuillez vous connecter à votre compte Snipcart afin de résoudre le problème.",
 payment_require_title:
@@ -275,7 +273,6 @@ error_crawling_price_doesnot_match:
 "Le prix du produit <strong>{0}</strong> à l'adresse <strong>{3}</strong> est <strong>{2}</strong> mais devrait être <strong>{1}</strong>",
 error_crawlingfailed_title_test:
 "Une erreur est survenue lors de la validation de votre commande, ne vous inquiétez pas, vous n'avez pas été chargé. Ce site est actuellement en mode Test.",
-
 order_completedon:
 "Date de la commande",
 payment_method_status:
@@ -289,5 +286,15 @@ order_transaction_amount:
 order_invoice_number:
 "Numéro de la facture",
 order_authorization_code:
-"Code d'authorisation"
+"Code d'authorisation",
+item_is_being_added:
+"Ajout de l'item au panier...",
+order_completing_payment:
+"Paiement en cours...",
+calculating_shipping_fees:
+"Calcul des frais de livraison...",
+saving:
+"Sauvegarde...",
+loading:
+"Chargement..."
 });

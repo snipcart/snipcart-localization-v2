@@ -53,8 +53,6 @@ apply_promo_code:
 "Prosmosyon Kodunu Uygula",
 my_cart:
 "Sepetim",
-continue_shopping:
-"Alışverişe Devam Et",
 my_cart_content:
 "Sepetimde ne var?",
 shipping_method:
@@ -274,9 +272,9 @@ error_crawling_price_not_found:
 error_crawling_price_doesnot_match:
 "At öğenin {0} fiyat {3} {2} fakat edilmelidir {1}.",
 error_crawlingfailed_title_test:
-"Bir şey sipariş doğrularken, merak etmeyin yanlış gitti, tahsil edilmemiştir. Bu web sitesi test modunda şu anda."
+"Bir şey sipariş doğrularken, merak etmeyin yanlış gitti, tahsil edilmemiştir. Bu web sitesi test modunda şu anda.",
 order_completedon:
-"Ödeme alındı:"
+"Ödeme alındı:",
 payment_method_status:
 "İşlem durumu",
 payment_method_status_approved:

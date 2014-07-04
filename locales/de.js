@@ -53,8 +53,6 @@ apply_promo_code:
 "Promotionscode einlösen",
 my_cart:
 "Mein Warenkorb",
-continue_shopping:
-"Einkauf forrtsetzen",
 my_cart_content:
 "In meinem Warenkorb",
 shipping_method:
@@ -266,7 +264,7 @@ error_crawling_price_not_found:
 error_crawling_price_doesnot_match:
 "Item <strong>{0}</strong>prijs op <strong>{3}</strong> is <strong>{2}</strong>, maar moet worden <strong>{1}</strong>.",
 error_crawlingfailed_title_test:
-"Er is iets misgegaan bij het valideren van uw bestelling, maak je geen zorgen, heb je niet in rekening zijn gebracht. Deze website is momenteel in testmodus."
+"Er is iets misgegaan bij het valideren van uw bestelling, maak je geen zorgen, heb je niet in rekening zijn gebracht. Deze website is momenteel in testmodus.",
 order_completedon:
 "geplaatst op",
 payment_method_status:

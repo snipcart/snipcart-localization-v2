@@ -53,8 +53,6 @@ apply_promo_code:
 "Apply promo code",
 my_cart:
 "My cart",
-continue_shopping:
-"Continue shopping",
 my_cart_content:
 "My cart's content",
 shipping_method:
@@ -288,5 +286,15 @@ order_transaction_amount:
 order_invoice_number:
 "Invoice number",
 order_authorization_code:
-"Authorization code"
+"Authorization code",
+item_is_being_added:
+"Adding item to the cart...",
+order_completing_payment:
+"Placing order...",
+calculating_shipping_fees:
+"Getting shipping rates...",
+saving:
+"Saving...",
+loading:
+"Loading..."
 });

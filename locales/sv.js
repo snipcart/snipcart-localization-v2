@@ -53,8 +53,6 @@ apply_promo_code:
 "Använd kampanjkod",
 my_cart:
 "Min kundvagn",
-continue_shopping:
-"Fortsätt shoppa",
 my_cart_content:
 "Min kundvagn innehåller",
 shipping_method:
