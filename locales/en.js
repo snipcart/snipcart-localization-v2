@@ -296,5 +296,7 @@ calculating_shipping_fees:
 saving:
 "Saving...",
 loading:
-"Loading..."
+"Loading...",
+free_shipping:
+"Free shipping"
 });

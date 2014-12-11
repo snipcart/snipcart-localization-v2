@@ -10,19 +10,19 @@ download_as_pdf:
 checkout:
 "Till kassan",
 close:
-"Stäng",
+"StÃ¤ng",
 name:
 "Namn",
 company_name:
-"Företagsnamn",
+"FÃ¶retagsnamn",
 share_by_email:
 "Dela via E-mail",
 email:
 "Email",
 password:
-"Lösenord",
+"LÃ¶senord",
 confirm_password:
-"Bekräfta lösenord",
+"BekrÃ¤fta lÃ¶senord",
 ok:
 "Ok",
 send:
@@ -38,9 +38,9 @@ postal_code:
 phone:
 "Telefon",
 previous:
-"Föregående steg",
+"FÃ¶regÃ¥ende steg",
 next:
-"Nästa steg",
+"NÃ¤sta steg",
 finalize:
 "Skicka din order",
 country:
@@ -50,17 +50,17 @@ subtotal:
 rebate:
 "Rabatt",
 apply_promo_code:
-"Använd kampanjkod",
+"AnvÃ¤nd kampanjkod",
 my_cart:
 "Min kundvagn",
 my_cart_content:
-"Min kundvagn innehåller",
+"Min kundvagn innehÃ¥ller",
 shipping_method:
 "Fraktalternativ",
 payment_method:
 "Betalningsalternativ",
 confirm_order:
-"Bekräfta order",
+"BekrÃ¤fta order",
 bill_me_later:
 "Betalning mot faktura",
 bill_me_later_explanation:
@@ -68,17 +68,17 @@ bill_me_later_explanation:
 promo_code_applied_successfully:
 "Din kampanjkod har blivit tillagd",
 promo_code_is_invalid:
-"Kmpanjkoden är ogiltig",
+"Kmpanjkoden Ã¤r ogiltig",
 promo_code_code:
 "Har du en kampanjkod?",
 promo_code_rate_on_order:
-"Rabatt på din order",
+"Rabatt pÃ¥ din order",
 promo_code_alternate_price:
-"Specialpris på produkter",
+"Specialpris pÃ¥ produkter",
 total:
 "Totalt",
 province_state:
-"Län",
+"LÃ¤n",
 billing_address:
 "Faktureringsadress",
 shipping_address:
@@ -128,7 +128,7 @@ cart_items_table_unit_price:
 cart_items_table_total_price:
 "Totalpris",
 cart_empty_text:
-"Kundvagnen är tom, Välj någon produkt innan du går till kassan",
+"Kundvagnen Ã¤r tom, VÃ¤lj nÃ¥gon produkt innan du gÃ¥r till kassan",
 new_account_form_create_new_account:
 "Skapa en inloggning",
 new_account_form_create_new_account_action:
@@ -138,19 +138,19 @@ login_form_having_an_account:
 login_form_login_action:
 "Logga in",
 login_form_forgot_password_action:
-"Jag har glömt mitt lösenord",
+"Jag har glÃ¶mt mitt lÃ¶senord",
 forgot_password_forgot_your_password:
-"Glömt ditt lösenord?",
+"GlÃ¶mt ditt lÃ¶senord?",
 forgot_password_please_enter_email:
-"Ange din e-postadress så skickar vi ett e-postmeddelande med en unik länk för att återställa ditt lösenord.",
+"Ange din e-postadress sÃ¥ skickar vi ett e-postmeddelande med en unik lÃ¤nk fÃ¶r att Ã¥terstÃ¤lla ditt lÃ¶senord.",
 forgot_password_success_email_sent:
 "E-post skickat",
 forgot_password_email_sent_message:
-"Ett e-postmeddelande har skickats till dig med instruktioner om hur du återställer ditt lösenord. Vänligen kolla din e-post och följ anvisningarna.",
+"Ett e-postmeddelande har skickats till dig med instruktioner om hur du Ã¥terstÃ¤ller ditt lÃ¶senord. VÃ¤nligen kolla din e-post och fÃ¶lj anvisningarna.",
 login_checkout_as_guest:
-"Till kassan som en gäst",
+"Till kassan som en gÃ¤st",
 login_checkout_as_guest_notice:
-"Vid slutet av kassan, kommer du att erbjudas möjligheten att skapa ett konto med hjälp av den information du angett tidigare.",
+"Vid slutet av kassan, kommer du att erbjudas mÃ¶jligheten att skapa ett konto med hjÃ¤lp av den information du angett tidigare.",
 shipping_address_same_as_billing:
 "Samma som fakturaadress",
 shipping_method_method_name:
@@ -158,11 +158,11 @@ shipping_method_method_name:
 shipping_method_shipping_price:
 "Frakt pris",
 shipping_method_failure_message:
-"Vi har tyvärr inte kunnat hitta något möjligt fraktalternativ. Vänligen kolla så att din leveransadress är korrekt och försök igen.",
+"Vi har tyvÃ¤rr inte kunnat hitta nÃ¥got mÃ¶jligt fraktalternativ. VÃ¤nligen kolla sÃ¥ att din leveransadress Ã¤r korrekt och fÃ¶rsÃ¶k igen.",
 shipping_method_failure_click_here_to_edit:
-"Klicka här för att ändra din leveransadress",
+"Klicka hÃ¤r fÃ¶r att Ã¤ndra din leveransadress",
 payment_method_card_holder:
-"Namn på kortet",
+"Namn pÃ¥ kortet",
 payment_method_card_type:
 "Korttyp",
 payment_method_card_number:
@@ -170,59 +170,59 @@ payment_method_card_number:
 payment_method_card_cvc:
 "CVC",
 payment_method_card_exp_month:
-"Giltigt till månad / år",
+"Giltigt till mÃ¥nad / Ã¥r",
 payment_method_card_exp_year:
-"Giltigt till år",
+"Giltigt till Ã¥r",
 payment_method_cvc_infos:
-"CVC är ett säkerhetsnummer innehållande 3 siffror och finns bakom ditt kreditkort, oftast till höger om din signatur.",
+"CVC Ã¤r ett sÃ¤kerhetsnummer innehÃ¥llande 3 siffror och finns bakom ditt kreditkort, oftast till hÃ¶ger om din signatur.",
 create_an_account:
 "Skapa en inloggning",
 why_create_account:
-"För en snabbare process vid din nästa beställning, ange bara ett lösenord för att skapa din inloggning.",
+"FÃ¶r en snabbare process vid din nÃ¤sta bestÃ¤llning, ange bara ett lÃ¶senord fÃ¶r att skapa din inloggning.",
 reset_password:
-"Återställ lösenord",
+"Ã…terstÃ¤ll lÃ¶senord",
 reset_password_success:
-"Lösenordet är nu återställt.",
+"LÃ¶senordet Ã¤r nu Ã¥terstÃ¤llt.",
 reset_password_changed:
-"Ditt lösenord har blivit ändrat.",
+"Ditt lÃ¶senord har blivit Ã¤ndrat.",
 reset_password_click_here_to_login:
-"Klicka här för att logga in",
+"Klicka hÃ¤r fÃ¶r att logga in",
 thankyou_message:
-"Tack för din beställning!",
+"Tack fÃ¶r din bestÃ¤llning!",
 thankyou_submessage:
-"Du kommer snart att få ett bekräftelsemail.",
+"Du kommer snart att fÃ¥ ett bekrÃ¤ftelsemail.",
 account_created_successfully:
 "Ditt konto har nu skapats",
 account_created_successfully_message:
-"Ditt konto har nu skapats, Tack så mycket!",
+"Ditt konto har nu skapats, Tack sÃ¥ mycket!",
 errors_required:
-"Detta är ett obligatoriskt fält",
+"Detta Ã¤r ett obligatoriskt fÃ¤lt",
 errors_email_must_be_unique:
-"En användare med samma e-postadress finns redan",
+"En anvÃ¤ndare med samma e-postadress finns redan",
 errors_both_password_must_match:
-"Båda lösenorden måste vara lika",
+"BÃ¥da lÃ¶senorden mÃ¥ste vara lika",
 errors_email_must_be_valid:
-"E-postadressen måste vara giltig",
+"E-postadressen mÃ¥ste vara giltig",
 errors_email_does_not_match_any_existing_user:
-"Det finns ingen användare med denna e-postadress",
+"Det finns ingen anvÃ¤ndare med denna e-postadress",
 errors_email_does_not_match_reset_password_request:
-"För den angivna e-postadressen existerar ingen begäran om återställning av lösenordet.",
+"FÃ¶r den angivna e-postadressen existerar ingen begÃ¤ran om Ã¥terstÃ¤llning av lÃ¶senordet.",
 errors_reset_password_token_expired:
-"Begäran om återställning av lösenordet hat upphört.",
+"BegÃ¤ran om Ã¥terstÃ¤llning av lÃ¶senordet hat upphÃ¶rt.",
 errors_invalid_authentication_infos:
 "Ogiltiga identifieringsuppgifter",
 error_payment_items_empty:
-"Det verkar som att din beställning är ogiltigt, vänligen ladda om sidan. Ditt kreditkort har inte debiterats.",
+"Det verkar som att din bestÃ¤llning Ã¤r ogiltigt, vÃ¤nligen ladda om sidan. Ditt kreditkort har inte debiterats.",
 error_payment_items_are_invalid:
-"Vi har inte kunnat slutföra din beställning. Det verkar som att en av de artiklar i din varukorg har en ogiltig pris.",
+"Vi har inte kunnat slutfÃ¶ra din bestÃ¤llning. Det verkar som att en av de artiklar i din varukorg har en ogiltig pris.",
 error_crawling_failed:
-"Vi har inte kunnat bekräfta din beställning, ditt kreditkort inte har debiterats, vänligen försök igen om en stund.",
+"Vi har inte kunnat bekrÃ¤fta din bestÃ¤llning, ditt kreditkort inte har debiterats, vÃ¤nligen fÃ¶rsÃ¶k igen om en stund.",
 powered_by:
 "Powered by",
 promocode_rate_format:
-"{0}% rabatt på din beställning",
+"{0}% rabatt pÃ¥ din bestÃ¤llning",
 promocode_amount_format:
-"{0} rabatt på din beställning",
+"{0} rabatt pÃ¥ din bestÃ¤llning",
 shipping_method_business_days:
 "{0} arbetsdagar",
 shipping_method_business_day:
@@ -230,47 +230,47 @@ shipping_method_business_day:
 shipping_method_delivery_time:
 "Till {0}", // By 2013-11-28
 welcome:
-"Välkommen",
+"VÃ¤lkommen",
 back:
 "Tillbakak",
 order_infos:
-"Beställningsinformation",
+"BestÃ¤llningsinformation",
 generic_error_title:
-"Oops, ett fel inträffade.",
+"Oops, ett fel intrÃ¤ffade.",
 promocode_deleted_at_checkout:
-"Den kampanjkod du använder har tyvärr nått det maximala antalet medan du var kvar i kassan. Vi ber om ursäkt för besväret.",
+"Den kampanjkod du anvÃ¤nder har tyvÃ¤rr nÃ¥tt det maximala antalet medan du var kvar i kassan. Vi ber om ursÃ¤kt fÃ¶r besvÃ¤ret.",
 continue_shopping:
-"Fortsätt shoppa",
+"FortsÃ¤tt shoppa",
 payment_required_message:
-"Kundvagnen för denna webbplats har inaktiverats. Om du är ägare av denna webbplats, vänligen logga in Snipcart för att lösa problemet.",
+"Kundvagnen fÃ¶r denna webbplats har inaktiverats. Om du Ã¤r Ã¤gare av denna webbplats, vÃ¤nligen logga in Snipcart fÃ¶r att lÃ¶sa problemet.",
 payment_require_title:
-"Kundvagnen är inaktiverad",
+"Kundvagnen Ã¤r inaktiverad",
 paypalexpress_loading:
-"Du kommer att omdirigeras till PayPal för att göra betalningen inom några ögonblick.",
+"Du kommer att omdirigeras till PayPal fÃ¶r att gÃ¶ra betalningen inom nÃ¥gra Ã¶gonblick.",
 paypalexpress_cancelled:
-"Du avbröt affären, kan du antingen klicka på knappen nedan för att försöka igen eller helt enkelt fortsätta att handla.",
+"Du avbrÃ¶t affÃ¤ren, kan du antingen klicka pÃ¥ knappen nedan fÃ¶r att fÃ¶rsÃ¶ka igen eller helt enkelt fortsÃ¤tta att handla.",
 retry:
-"Försök igen",
+"FÃ¶rsÃ¶k igen",
 additionnal_information:
-"Skriv ett meddelande nedan om du vill skicka feedback eller mer information om det här problemet.",
+"Skriv ett meddelande nedan om du vill skicka feedback eller mer information om det hÃ¤r problemet.",
 error_crawlingfailed_title:
-"Något gick fel vid validering din beställning, oroa dig inte, du har inte åtalats.",
+"NÃ¥got gick fel vid validering din bestÃ¤llning, oroa dig inte, du har inte Ã¥talats.",
 error_crawling_unreachable:
-"Punkt <strong>{0}</strong> är onåbar på <strong>{1}</strong>. Se till att produkten URL är allmänt tillgänglig.",
+"Punkt <strong>{0}</strong> Ã¤r onÃ¥bar pÃ¥ <strong>{1}</strong>. Se till att produkten URL Ã¤r allmÃ¤nt tillgÃ¤nglig.",
 error_crawling_product_not_found:
-"Punkt <strong>{0}</strong> har inte hittats på <strong>{1}</strong>.",
+"Punkt <strong>{0}</strong> har inte hittats pÃ¥ <strong>{1}</strong>.",
 error_crawling_price_not_found:
-"Punkt <strong>{0}</strong> inte har någon angivet pris vid <strong>{1}</strong>, ange det med data-item-price.",
+"Punkt <strong>{0}</strong> inte har nÃ¥gon angivet pris vid <strong>{1}</strong>, ange det med data-item-price.",
 error_crawling_price_doesnot_match:
-"Punkt <strong>{0}</strong> pris på <strong>{3}</strong> är <strong>{2}</strong> men bör <strong>{1}</strong>.",
+"Punkt <strong>{0}</strong> pris pÃ¥ <strong>{3}</strong> Ã¤r <strong>{2}</strong> men bÃ¶r <strong>{1}</strong>.",
 error_crawlingfailed_title_test:
-"Något gick fel vid validering din beställning, oroa dig inte, du har inte åtalats. Denna webbplats är för närvarande i testläge.",
+"NÃ¥got gick fel vid validering din bestÃ¤llning, oroa dig inte, du har inte Ã¥talats. Denna webbplats Ã¤r fÃ¶r nÃ¤rvarande i testlÃ¤ge.",
 order_completedon:
-"Placerad på",
+"Placerad pÃ¥",
 payment_method_status:
 "Transaktions status",
 payment_method_status_approved:
-"Godkänd",
+"GodkÃ¤nd",
 order_reference_number:
 "Referensnummer",
 order_transaction_amount:
@@ -278,5 +278,5 @@ order_transaction_amount:
 order_invoice_number:
 "Fakturanummer",
 order_authorization_code:
-"behörighetskod"
+"behÃ¶righetskod"
 });
