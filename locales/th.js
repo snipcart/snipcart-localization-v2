@@ -275,8 +275,7 @@
  retry:
 "ลองอีกครั้ง",
  error_crawlingfailed_title:
-"อะไรบางอย่างผิดพลาดไปเมื่อตรวจสอบการสั่งซื้อสินค้าของคุณ", don't worry:
-"you have not been charged.",
+"อะไรบางอย่างผิดพลาดไปเมื่อตรวจสอบการสั่งซื้อสินค้าของคุณ",
  error_crawling_unreachable:
 "รายการ <strong> {0} </ strong> เป็นที่ไม่สามารถเข้าถึง <strong> {1} </ strong>. ให้แน่ใจว่า URL ของผลิตภัณฑ์ที่เป็นที่เปิดเผยต่อสาธารณชน.",
  error_crawling_product_not_found:
@@ -287,8 +286,7 @@
  error_crawling_price_doesnot_match:
 "รายการ <strong> {0} </ strong> ราคาที่ <strong> {3} </ strong> <strong> {2} </ strong> แต่ควรจะ <strong> {1} </ strong>.",
  error_crawlingfailed_title_test:
-"อะไรบางอย่างผิดพลาดไปเมื่อตรวจสอบการสั่งซื้อสินค้าของคุณ", don't worry:
-"you have not been charged. This website is currently in Test mode.",
+"อะไรบางอย่างผิดพลาดไปเมื่อตรวจสอบการสั่งซื้อสินค้าของคุณ",
  order_completedon:
 "วางบน",
  payment_method_status:
