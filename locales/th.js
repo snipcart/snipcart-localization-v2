@@ -144,8 +144,7 @@
  forgot_password_forgot_your_password:
 "ลืมรหัสผ่านของคุณ?",
  forgot_password_please_enter_email:
-"กรุณากรอกอีเมลของคุณ":
-"we will send you an email containing a unique link to reset your password.",
+"กรุณากรอกอีเมลของคุณ",
  forgot_password_success_email_sent:
 "ส่งอีเมล",
  forgot_password_email_sent_message:
@@ -153,8 +152,7 @@
  login_checkout_as_guest:
 "การชำระเงินเป็นแขกรับเชิญ",
  login_checkout_as_guest_notice:
-"ในตอนท้ายของกระบวนการเช็คเอาต์":
-"you will be offered the possibility to create an account using the information you entered during the checkout process.",
+"ในตอนท้ายของกระบวนการเช็คเอาต์",
  shipping_address_same_as_billing:
 "ใช้อยู่นี้สำหรับการขนส่งสินค้า",
  shipping_method_method_name:
@@ -178,13 +176,11 @@
  payment_method_card_exp_year:
 "ปีหมดอายุ",
  payment_method_cvc_infos:
-"CVC เป็นจำนวนการรักษาความปลอดภัย 3 หลักหลังบัตรเครดิตของคุณ":
-"usually at the right of your signature.",
+"CVC เป็นจำนวนการรักษาความปลอดภัย 3 หลักหลังบัตรเครดิตของคุณ",
  create_an_account:
 "สร้างการเข้าสู่ระบบ",
  why_create_account:
-"สำหรับการชำระเงินได้เร็วขึ้นในการสั่งซื้อต่อไปของคุณ":
-"just enter a password to create a login.",
+"สำหรับการชำระเงินได้เร็วขึ้นในการสั่งซื้อต่อไปของคุณ",
  reset_password:
 "รีเซ็ตรหัสผ่าน",
  reset_password_success:
@@ -194,15 +190,13 @@
  reset_password_click_here_to_login:
 "คลิกที่นี่เพื่อเข้าสู่ระบบ",
  thankyou_message:
-"ขอบคุณสำหรับการสั่งซื้อของคุณ! ใบแจ้งหนี้ของคุณถูกส่งไปให้ทางอีเมล์":
-"you should receive it soon.",
+"ขอบคุณสำหรับการสั่งซื้อของคุณ! ใบแจ้งหนี้ของคุณถูกส่งไปให้ทางอีเมล์",
  thankyou_submessage:
 "คุณจะได้รับอีเมลยืนยันการเร็ว ๆ นี้",
  account_created_successfully:
 "บัญชีสร้างเสร็จเรียบร้อยแล้ว",
  account_created_successfully_message:
-"บัญชีของคุณได้รับการสร้างเสร็จเรียบร้อยแล้ว":
-"thank you.",
+"บัญชีของคุณได้รับการสร้างเสร็จเรียบร้อยแล้ว",
  errors_required:
 "ฟิลด์นี้จะต้อง",
  errors_email_must_be_unique:
@@ -220,13 +214,11 @@
  errors_invalid_authentication_infos:
 "ข้อมูลการตรวจสอบไม่ถูกต้อง",
  error_payment_items_empty:
-"มันดูเหมือนว่าคำสั่งของคุณไม่ถูกต้อง":
-"please reload the page. Your credit card has not been charged.",
+"มันดูเหมือนว่าคำสั่งของคุณไม่ถูกต้อง",
  error_payment_items_are_invalid:
 "เรายังไม่ได้รับสามารถที่จะดำเนินการสั่งซื้อของคุณ. ดูเหมือนว่าหนึ่งในรายการที่อยู่ในรถเข็นของคุณมีราคาที่ไม่ถูกต้อง.",
  error_crawling_failed:
-"เรายังไม่ได้รับสามารถที่จะตรวจสอบการสั่งซื้อของคุณ", your credit card has not been charged:
-"please try again in a few moments.",
+"เรายังไม่ได้รับสามารถที่จะตรวจสอบการสั่งซื้อของคุณ",
  powered_by:
 "Powered และปลอดภัยด้วย",
  promocode_rate_format:
@@ -247,15 +239,13 @@
  order_infos:
 "ข่าวสารการสั่งซื้อ",
  generic_error_title:
-"โอ๊ะ":
-"an error occured.",
+"โอ๊ะ",
  promocode_deleted_at_checkout:
 "ส่วนลดที่คุณใช้มีถึงขีด จำกัด ของการใช้งานในขณะที่คุณกำลังทำการชำระเงินของคุณ. ขออภัยในความไม่สะดวก.",
  continue_shopping:
 "ดำเนินการต่อการช้อปปิ้ง",
  payment_required_message:
-"ตะกร้าช้อปปิ้งสำหรับเว็บไซต์นี้ได้รับการปิดการใช้งาน. หากคุณเป็นเจ้าของของเว็บไซต์นี้":
-"please login into Snipcart dashboard to resolve the issue.",
+"ตะกร้าช้อปปิ้งสำหรับเว็บไซต์นี้ได้รับการปิดการใช้งาน. หากคุณเป็นเจ้าของของเว็บไซต์นี้",
  payment_require_title:
 "รถเข็นคนพิการเป็น.",
  configuration_problem:
@@ -265,13 +255,11 @@
  send_error:
 "ส่งข้อผิดพลาดนี้ให้กับเจ้าของเว็บไซต์",
  message_sent:
-"ข้อความที่ส่ง":
-"thank you",
+"ข้อความที่ส่ง",
  paypalexpress_loading:
 "คุณจะถูกนำไป Paypal ที่จะทำให้การชำระเงินเร็ว ๆ นี้.",
  paypalexpress_cancelled:
-"คุณได้ยกเลิกการทำธุรกรรม":
-"you can either click on the button below to try again or simply continue to shop.",
+"คุณได้ยกเลิกการทำธุรกรรม",
  retry:
 "ลองอีกครั้ง",
  error_crawlingfailed_title:
@@ -281,8 +269,7 @@
  error_crawling_product_not_found:
 "รายการ <strong> {0} </ strong> ไม่ได้รับการได้พบได้ที่ <strong> {1} </ strong>.",
  error_crawling_price_not_found:
-"รายการ <strong> {0} </ strong> ไม่ได้มีราคาที่กำหนดใด ๆ ที่ <strong> {1} </ strong>":
-"specify it with data-item-price.",
+"รายการ <strong> {0} </ strong> ไม่ได้มีราคาที่กำหนดใด ๆ ที่ <strong> {1} </ strong>",
  error_crawling_price_doesnot_match:
 "รายการ <strong> {0} </ strong> ราคาที่ <strong> {3} </ strong> <strong> {2} </ strong> แต่ควรจะ <strong> {1} </ strong>.",
  error_crawlingfailed_title_test:
