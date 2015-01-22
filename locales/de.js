@@ -1,10 +1,4 @@
-﻿Snipcart.execute('registerLocale', 'de', {
-yes:
-"Ja",
-no:
-"Nein",
-print:
-"Drucken",
+Snipcart.execute('registerLocale', 'de', {
 download_as_pdf:
 "Als PDF herunterladen",
 checkout:
@@ -52,7 +46,7 @@ rebate:
 apply_promo_code:
 "Promotionscode einlösen",
 my_cart:
-"Mein Warenkorb",
+"Mein Warenkorb 2",
 my_cart_content:
 "In meinem Warenkorb",
 shipping_method:
@@ -76,7 +70,7 @@ promo_code_rate_on_order:
 promo_code_alternate_price:
 "Sonderpreis auf gewissen Produkten",
 total:
-"Total",
+"Summe",
 province_state:
 "BundesLand / Kanton",
 billing_address:
@@ -87,6 +81,8 @@ payment_informations:
 "Zahlungsangaben",
 payment_informations_bill_me_later:
 "Ich bezahle später",
+payment_informations_paypalexpress:
+"Zahlung mit Paypal",
 credit_card_type_mastercard:
 "Mastercard",
 credit_card_type_visa:
@@ -152,7 +148,7 @@ login_checkout_as_guest:
 login_checkout_as_guest_notice:
 "Nach dem Abschliessen der Bestellung haben Sie die Möglichkeit, mit den gemachten Angaben einfach ein Konto zu erstellen.",
 shipping_address_same_as_billing:
-"Versandadresse ist mit Rechnungsadresse identisch", // TODO: Needs to be updated
+"Diese Adresse für den Versand verwenden", // TODO: Needs to be updated -- Is this better? Doesn't say that it is identical to billing adress, but to USE THIS ADRESS
 shipping_method_method_name:
 "Versandart",
 shipping_method_shipping_price:
@@ -245,38 +241,56 @@ payment_required_message:
 "Der Warenkorb wurde für diese Website deaktiviert. Falls Sie der Besitzer dieser Website sind, loggen Sie sich ins Snipcart Dashboard ein, um das Problem zu beheben.",
 payment_require_title:
 "Der Warenkorb ist deaktiviert.",
-paypalexpress_loading:
-"Sie werden auf PayPal weitergeleitet, um die Zahlung innerhalb von wenigen Augenblicken machen.",
-paypalexpress_cancelled:
-"U annuleerde de transactie, kunt u klikken op de onderstaande knop om het opnieuw te proberen of gewoon blijven om te winkelen.",
-retry:
-"Probeer het opnieuw",
+configuration_problem:
+"Konfigurationsfehler",
 additionnal_information:
-"Voer een bericht hieronder als je wilt geven of meer informatie over dit probleem te sturen.",
+"Schreiben Sie uns hier, wenn Sie uns Feedback bzw. mehr Information zu diesem Problem schicken wollen.",
+send_error:
+"Diesen Fehler an den Webseiten Administrator schicken.",
+message_sent:
+"Die Nachricht wurde geschickt. Danke!",
+paypalexpress_loading:
+"Sie werden für die Zahlung zu Paypal weitergeleitet.",
+paypalexpress_cancelled:
+"Sie haben die Transaktion abgebrochen. Wenn Sie es nochmals versuchen wollen, klicken Sie auf den Knopf.",
+retry:
+"Nochmals versuchen",
 error_crawlingfailed_title:
-"Er is iets misgegaan bij het valideren van uw bestelling, maak je geen zorgen, heb je niet in rekening zijn gebracht.",
+"Es gab einene Fehler bei der Validierung Ihrer Bestellung. Es wurde kein Geld abgebucht.",
 error_crawling_unreachable:
-"Item <strong>{0}</strong> is onbereikbaar op <strong>{1}</strong>. Zorg ervoor dat het product URL is openbaar.",
+"Artikel <strong>{0}</strong> kann unter <strong>{1}</strong> nicht aufgerufen werden. Bitte stellen Sie sicher, dass die URL öffentlich erreichbar ist.",
 error_crawling_product_not_found:
-"Item <strong>{0}</strong> is niet gevonden op <strong>{1}</strong>.",
+"Artikel <strong>{0}</strong> wurde unter <strong>{1}</strong> nicht gefunden.",
 error_crawling_price_not_found:
-"Item <strong> 0}</strong> heeft geen specifieke prijs op <strong>{1}</strong>, geef het met data-item-price.",
+"Artikel <strong>{0}</strong> hat keinen definierten Preis unter <strong>{1}</strong>. Definiere den Preis mit data-item-price.",
 error_crawling_price_doesnot_match:
-"Item <strong>{0}</strong>prijs op <strong>{3}</strong> is <strong>{2}</strong>, maar moet worden <strong>{1}</strong>.",
+"Artikel <strong>{0}</strong> Preis unter <strong>{3}</strong> ist <strong>{2}</strong> , sollte aber <strong>{1}</strong> sein.",
 error_crawlingfailed_title_test:
-"Er is iets misgegaan bij het valideren van uw bestelling, maak je geen zorgen, heb je niet in rekening zijn gebracht. Deze website is momenteel in testmodus.",
+"Es gab einene Fehler bei der Validierung Ihrer Bestellung. Es wurde kein Geld abgebucht. Diese Webseite ist derzeit im Testmodus.",
 order_completedon:
-"geplaatst op",
+"Bestellt am",
 payment_method_status:
-"transactiestatus",
+"Transaktionsstatus",
 payment_method_status_approved:
-"aangenomen",
+"Bestätigt",
 order_reference_number:
-"referentienummer",
+"Referenznummer",
 order_transaction_amount:
-"transactiebedrag",
+"Bestellsumme",
 order_invoice_number:
-"factuurnummer",
+"Rechnungsnummer",
 order_authorization_code:
-"autorisatie code"
+"Authorisierungscode",
+item_is_being_added:
+"Artikel wird zum Warenkorb hinzugefügt...",
+order_completing_payment:
+"Bestellung wird durchgeführt...",
+calculating_shipping_fees:
+"Versandkosten werden geholt...",
+saving:
+"Speichern...",
+loading:
+"Laden...",
+free_shipping:
+"Gratis Versand"
 });
