@@ -298,5 +298,15 @@ saving:
 loading:
 "Loading...",
 free_shipping:
-"Free shipping"
+"Free shipping",
+cart_plans_name:
+"Plan",
+cart_plans_interval:
+"Interval",
+cart_plans_quantity:
+"Quantity",
+cart_plans_amount:
+"Amount",
+cart_plans_total:
+"Total"
 });
