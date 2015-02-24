@@ -308,5 +308,41 @@ cart_plans_quantity:
 cart_plans_amount:
 "Amount",
 cart_plans_total:
+"Total",
+payable_now:
+"Payable now",
+upcoming_payment_for:
+"Subscription",
+upcoming_payment_date:
+"Date",
+upcoming_payment_amount:
+"Total",
+upcoming_payment_subtotal:
+"Subtotal",
+order_date:
+"Date",
+order_status:
+"Status",
+order_total:
+"Total",
+orders_history:
+"My orders",
+orders_history_no_orders:
+"You don't actually have any orders.",
+orders_fetching_orders:
+"Loading your orders...",
+user_nav_orders:
+"My orders",
+user_nav_subscriptions:
+"My subscriptions",
+subscriptions_history:
+"My subscriptions",
+subscription_name:
+"Name",
+subscription_amount:
+"Amount",
+subscription_quantity:
+"Quantity",
+subscription_total_amount:
 "Total"
 });
