@@ -344,5 +344,19 @@ subscription_amount:
 subscription_quantity:
 "Quantity",
 subscription_total_amount:
-"Total"
+"Total",
+subscriptions_fetching_details:
+"Loading subscrition details...",
+subscription_no_invoices:
+"This subscription does not have any invoices yet.",
+subscription_invoice_number:
+"Number",
+subscription_invoice_date:
+"Date",
+subscription_invoice_amount:
+"Amount",
+subscription_invoices_loading:
+"Loading subscription invoices...",
+subscription_invoices_list:
+"Invoices history"
 });
