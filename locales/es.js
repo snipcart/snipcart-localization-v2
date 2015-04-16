@@ -14,7 +14,7 @@ close:
 name:
 "Nombre y Apellidos",
 company_name:
-"Empresa [Dejar vacío si particular]",
+"Empresa [Dejar vacÃ­o si particular]",
 share_by_email:
 "Compartir por email",
 email:
@@ -28,15 +28,15 @@ ok:
 send:
 "Enviar",
 address_1:
-"Dirección",
+"DirecciÃ³n",
 address_2:
-"NIF [Dejar vacío si particular]",
+"NIF [Dejar vacÃ­o si particular]",
 city:
 "Ciudad",
 postal_code:
-"Código postal",
+"CÃ³digo postal",
 phone:
-"Teléfono",
+"TelÃ©fono",
 previous:
 "Paso anterior",
 next:
@@ -44,33 +44,33 @@ next:
 finalize:
 "Finalizar",
 country:
-"País",
+"PaÃ­s",
 subtotal:
 "Subtotal IVA inc",
 rebate:
 "Descuento",
 apply_promo_code:
-"Aplicar código de promoción",
+"Aplicar cÃ³digo de promociÃ³n",
 my_cart:
 "Tu carrito",
 my_cart_content:
 "Contenido de mi carrito",
 shipping_method:
-"Método del envío",
+"MÃ©todo del envÃ­o",
 payment_method:
-"Método de pago",
+"MÃ©todo de pago",
 confirm_order:
 "Confirme la orden",
 bill_me_later:
 "Bill me later",
 bill_me_later_explanation:
-"La factura se enviará por correo electrónico.",
+"La factura se enviarÃ¡ por correo electrÃ³nico.",
 promo_code_applied_successfully:
-"El descuento se ha aplicado con éxito.",
+"El descuento se ha aplicado con Ã©xito.",
 promo_code_is_invalid:
-"El código promocional es válido.",
+"El cÃ³digo promocional es vÃ¡lido.",
 promo_code_code:
-"¿Tienes un descuento?",
+"Â¿Tienes un descuento?",
 promo_code_rate_on_order:
 "descuento en la orden",
 promo_code_alternate_price:
@@ -80,13 +80,13 @@ total:
 province_state:
 "Estado / Provincia",
 billing_address:
-"Dirección de envío",
+"DirecciÃ³n de envÃ­o",
 shipping_address:
-"Dirección de facturación",
+"DirecciÃ³n de facturaciÃ³n",
 payment_informations:
-"Información de pago",
+"InformaciÃ³n de pago",
 payment_informations_bill_me_later:
-"Voy a pagar más tarde",
+"Voy a pagar mÃ¡s tarde",
 payment_informations_paypalexpress:
 "Pago con Paypal",
 credit_card_type_mastercard:
@@ -120,9 +120,9 @@ months_november:
 months_december:
 "Diciembre",
 cart_items_table_item:
-"Artículo",
+"ArtÃ­culo",
 cart_items_table_description:
-"Descripción",
+"DescripciÃ³n",
 cart_items_table_quantity:
 "Cantidad",
 cart_items_table_unit_price:
@@ -130,95 +130,95 @@ cart_items_table_unit_price:
 cart_items_table_total_price:
 "Precio total",
 cart_empty_text:
-"El carrito está vacío. Regala/te un Bukkis!",
+"El carrito estÃ¡ vacÃ­o. Regala/te un Bukkis!",
 new_account_form_create_new_account:
 "Crear una cuenta",
 new_account_form_create_new_account_action:
 "Crear una cuenta",
 login_form_having_an_account:
-"Iniciar sesión",
+"Iniciar sesiÃ³n",
 login_form_login_action:
-"Iniciar sesión",
+"Iniciar sesiÃ³n",
 login_form_forgot_password_action:
-"He olvidado mi contraseña",
+"He olvidado mi contraseÃ±a",
 forgot_password_forgot_your_password:
-"¿Olvidaste tu contraseña?",
+"Â¿Olvidaste tu contraseÃ±a?",
 forgot_password_please_enter_email:
-"Ingresa tu email, te enviaremos un correo electrónico con un enlace único para restablecer tu contraseña.",
+"Ingresa tu email, te enviaremos un correo electrÃ³nico con un enlace Ãºnico para restablecer tu contraseÃ±a.",
 forgot_password_success_email_sent:
-"Correo electrónico enviado",
+"Correo electrÃ³nico enviado",
 forgot_password_email_sent_message:
-"Te hemos enviado un correo electrónico con las instrucciones sobre cómo restablecer la contraseña. Consulta el correo y sigues los pasos.",
+"Te hemos enviado un correo electrÃ³nico con las instrucciones sobre cÃ³mo restablecer la contraseÃ±a. Consulta el correo y sigues los pasos.",
 login_checkout_as_guest:
 "Checkout como invitado",
 login_checkout_as_guest_notice:
-"Al final del proceso de verificación, se te ofrecerá la posibilidad de crear una cuenta utilizando la información que introdujo durante el proceso de pago.",
+"Al final del proceso de verificaciÃ³n, se te ofrecerÃ¡ la posibilidad de crear una cuenta utilizando la informaciÃ³n que introdujo durante el proceso de pago.",
 shipping_address_same_as_billing:
-"Use esta dirección para la facturación",
+"Use esta direcciÃ³n para la facturaciÃ³n",
 shipping_method_method_name:
-"Método de envío",
+"MÃ©todo de envÃ­o",
 shipping_method_shipping_price:
-"Precio de envío",
+"Precio de envÃ­o",
 shipping_method_failure_message:
-"No hemos sido capaces de encontrar un método de envío posible. Por favor, asegúrese de que su dirección de envío es correcta y vuelva a intentarlo.",
+"No hemos sido capaces de encontrar un mÃ©todo de envÃ­o posible. Por favor, asegÃºrese de que su direcciÃ³n de envÃ­o es correcta y vuelva a intentarlo.",
 shipping_method_failure_click_here_to_edit:
-"Haga clic aquí para editar su dirección del envío",
+"Haga clic aquÃ­ para editar su direcciÃ³n del envÃ­o",
 payment_method_card_holder:
 "Nombre en la tarjeta",
 payment_method_card_type:
 "Tipo de tarjeta",
 payment_method_card_number:
-"Número de tarjeta",
+"NÃºmero de tarjeta",
 payment_method_card_cvc:
 "CSC",
 payment_method_card_exp_month:
-"Vencimiento Mes / Año",
+"Vencimiento Mes / AÃ±o",
 payment_method_card_exp_year:
-"Año de vencimiento",
+"AÃ±o de vencimiento",
 payment_method_cvc_infos:
-"El CVC es el número de seguridad de 3 dígitos detrás de su tarjeta de crédito.",
+"El CVC es el nÃºmero de seguridad de 3 dÃ­gitos detrÃ¡s de su tarjeta de crÃ©dito.",
 create_an_account:
 "Crear una cuenta",
 why_create_account:
-"Para una comprobación más rápida en tu próximo pedido, simplemente introduces la contraseña y inicia la sesión.",
+"Para una comprobaciÃ³n mÃ¡s rÃ¡pida en tu prÃ³ximo pedido, simplemente introduces la contraseÃ±a y inicia la sesiÃ³n.",
 reset_password:
-"Restablecer contraseña",
+"Restablecer contraseÃ±a",
 reset_password_success:
-"Restablecer contraseña completado",
+"Restablecer contraseÃ±a completado",
 reset_password_changed:
-"Tu contraseña ha sido cambiada.",
+"Tu contraseÃ±a ha sido cambiada.",
 reset_password_click_here_to_login:
-"Click aquí para iniciar sesión",
+"Click aquÃ­ para iniciar sesiÃ³n",
 thankyou_message:
-"Gracias por tu pedido! La factura ha sido enviada por correo electrónico, lo recibirá pronto. Todavía gracias y hasta el próximo Bukkis!",
+"Gracias por tu pedido! La factura ha sido enviada por correo electrÃ³nico, lo recibirÃ¡ pronto. TodavÃ­a gracias y hasta el prÃ³ximo Bukkis!",
 thankyou_submessage:
-"Pronto recibirás un email de confirmación.",
+"Pronto recibirÃ¡s un email de confirmaciÃ³n.",
 account_created_successfully:
-"Cuenta creada con éxito",
+"Cuenta creada con Ã©xito",
 account_created_successfully_message:
 "Tu cuenta ha sido creada correctamente, gracias.",
 errors_required:
 "Este campo es obligatorio",
 errors_email_must_be_unique:
-"Ya existe un usuario con el mismo correo electrónico",
+"Ya existe un usuario con el mismo correo electrÃ³nico",
 errors_both_password_must_match:
-"Ambas contraseñas deben coincidir.",
+"Ambas contraseÃ±as deben coincidir.",
 errors_email_must_be_valid:
-"El email debe ser válido",
+"El email debe ser vÃ¡lido",
 errors_email_does_not_match_any_existing_user:
-"No existe ningún usuario con este correo electrónico",
+"No existe ningÃºn usuario con este correo electrÃ³nico",
 errors_email_does_not_match_reset_password_request:
-"La email del usuario no coincide con ninguna solicitud de reajuste de contraseña.",
+"La email del usuario no coincide con ninguna solicitud de reajuste de contraseÃ±a.",
 errors_reset_password_token_expired:
-"El tiempo para restablecer la contraseña ha caducado.",
+"El tiempo para restablecer la contraseÃ±a ha caducado.",
 errors_invalid_authentication_infos:
-"Informaciones de autenticación no válidas",
+"Informaciones de autenticaciÃ³n no vÃ¡lidas",
 error_payment_items_empty:
-"Parece que su orden es inválido, por favor, vuelva a cargar la página. Ningún importe ha sido debitado en su tarjeta.",
+"Parece que su orden es invÃ¡lido, por favor, vuelva a cargar la pÃ¡gina. NingÃºn importe ha sido debitado en su tarjeta.",
 error_payment_items_are_invalid:
-"No hemos podidos completar su orden. Parece que uno de los artículos en su carrito tiene un precio inválido.",
+"No hemos podidos completar su orden. Parece que uno de los artÃ­culos en su carrito tiene un precio invÃ¡lido.",
 error_crawling_failed:
-"No hemos sido capaces de validar tu pedido, ningún importe ha sido debitado en su tarjeta, por favor intenta nuevamente en unos momentos.",
+"No hemos sido capaces de validar tu pedido, ningÃºn importe ha sido debitado en su tarjeta, por favor intenta nuevamente en unos momentos.",
 powered_by:
 "Powered and secured by",
 promocode_rate_format:
@@ -226,21 +226,21 @@ promocode_rate_format:
 promocode_amount_format:
 "{0} descuento en tu pedido",
 shipping_method_business_days:
-"{0} días laborales",
+"{0} dÃ­as laborales",
 shipping_method_business_day:
-"{0} días laborales",
+"{0} dÃ­as laborales",
 shipping_method_delivery_time:
 "By {0}", // By 2013-11-28
 welcome:
 "Bienvenido",
 back:
-"Atrás",
+"AtrÃ¡s",
 order_infos:
 "Orden info",
 generic_error_title:
 "Oops, hubo un error.",
 promocode_deleted_at_checkout:
-"El descuento que utilizas ha alcanzado su límite de uso mientras estabas haciendo tu pedido. Disculpas las molestias.",
+"El descuento que utilizas ha alcanzado su lÃ­mite de uso mientras estabas haciendo tu pedido. Disculpas las molestias.",
 continue_shopping:
 "Continuar las compras",
 payment_required_message:
@@ -250,49 +250,49 @@ payment_require_title:
 configuration_problem:
 "Configuration problem",
 additionnal_information:
-"Introduzca un mensaje abajo si desea enviar comentarios o más información sobre este problema.",
+"Introduzca un mensaje abajo si desea enviar comentarios o mÃ¡s informaciÃ³n sobre este problema.",
 send_error:
 "Enviar este error al propietario del sitio web",
 message_sent:
 "Mensaje enviado, gracias",
 paypalexpress_loading:
-"Será redirigido a Paypal para hacer el pago pronto.",
+"SerÃ¡ redirigido a Paypal para hacer el pago pronto.",
 paypalexpress_cancelled:
-"Transacción cancelada. Puede hacer clic en el botón de abajo para intentarlo de nuevo o simplemente seguir en la tienda.",
+"TransacciÃ³n cancelada. Puede hacer clic en el botÃ³n de abajo para intentarlo de nuevo o simplemente seguir en la tienda.",
 retry:
 "Vuelves a intentarlo",
 error_crawlingfailed_title:
-"Algo salió mal en la validación de tu pedido, no te preocupes, ningún importe ha sido debitado.",
+"Algo saliÃ³ mal en la validaciÃ³n de tu pedido, no te preocupes, ningÃºn importe ha sido debitado.",
 error_crawling_unreachable:
-"Artículo <strong>{0}</strong> no está disponible en <strong>{1}</strong>. Asegúrese de que la URL del producto está disponible.",
+"ArtÃ­culo <strong>{0}</strong> no estÃ¡ disponible en <strong>{1}</strong>. AsegÃºrese de que la URL del producto estÃ¡ disponible.",
 error_crawling_product_not_found:
-"Artículo <strong>{0}</strong> no está disponible en <strong>{1}</strong>.",
+"ArtÃ­culo <strong>{0}</strong> no estÃ¡ disponible en <strong>{1}</strong>.",
 error_crawling_price_not_found:
-"Artículo <strong>{0}</strong> no tiene ningún precio especificado en <strong>{1}</strong>, especificarlo con data-item-price.",
+"ArtÃ­culo <strong>{0}</strong> no tiene ningÃºn precio especificado en <strong>{1}</strong>, especificarlo con data-item-price.",
 error_crawling_price_doesnot_match:
-"Artículo <strong>{0}</strong> price at <strong>{3}</strong> is <strong>{2}</strong> but should be <strong>{1}</strong>.",
+"ArtÃ­culo <strong>{0}</strong> price at <strong>{3}</strong> is <strong>{2}</strong> but should be <strong>{1}</strong>.",
 error_crawlingfailed_title_test:
 "Something went wrong when validating your order, don't worry, you have not been charged. This website is currently in Test mode.",
 order_completedon:
 "Colocado en",
 payment_method_status:
-"Estado de transacción",
+"Estado de transacciÃ³n",
 payment_method_status_approved:
 "Aprobado",
 order_reference_number:
-"Número de referencia",
+"NÃºmero de referencia",
 order_transaction_amount:
-"Transacción",
+"TransacciÃ³n",
 order_invoice_number:
-"Número de factura",
+"NÃºmero de factura",
 order_authorization_code:
-"Código de autorización",
+"CÃ³digo de autorizaciÃ³n",
 item_is_being_added:
-"Adición del artículo a la cesta...",
+"AdiciÃ³n del artÃ­culo a la cesta...",
 order_completing_payment:
 "Ejecutando orden...",
 calculating_shipping_fees:
-"Consiguiendo tarifas de envío...",
+"Consiguiendo tarifas de envÃ­o...",
 saving:
 "Guardando...",
 loading:
