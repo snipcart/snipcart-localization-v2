@@ -335,6 +335,8 @@ user_nav_orders:
 "My orders",
 user_nav_subscriptions:
 "My subscriptions",
+user_nav_cart:
+"My cart",
 subscriptions_history:
 "My subscriptions",
 subscription_name:
