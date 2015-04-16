@@ -1,6 +1,6 @@
 ﻿Snipcart.execute('registerLocale', 'es', {
 yes:
-"Si",
+"Sí",
 no:
 "No",
 print:
@@ -20,9 +20,9 @@ share_by_email:
 email:
 "Email",
 password:
-"Password",
+"Contraseña",
 confirm_password:
-"Confirmar password",
+"Confirmar contraseña",
 ok:
 "OK",
 send:
@@ -30,7 +30,7 @@ send:
 address_1:
 "Dirección",
 address_2:
-"NIF [Dejar vacío si particular]",
+"Dirección 2",
 city:
 "Ciudad",
 postal_code:
@@ -62,7 +62,7 @@ payment_method:
 confirm_order:
 "Confirme la orden",
 bill_me_later:
-"Bill me later",
+"Factúrame más tarde",
 bill_me_later_explanation:
 "La factura se enviará por correo electrónico.",
 promo_code_applied_successfully:
@@ -80,9 +80,9 @@ total:
 province_state:
 "Estado / Provincia",
 billing_address:
-"Dirección de envío",
-shipping_address:
 "Dirección de facturación",
+shipping_address:
+"Dirección de envío",
 payment_informations:
 "Información de pago",
 payment_informations_bill_me_later:
@@ -130,7 +130,7 @@ cart_items_table_unit_price:
 cart_items_table_total_price:
 "Precio total",
 cart_empty_text:
-"El carrito está vacío. Regala/te un Bukkis!",
+"El carrito está vacío. Seleccione algun producto antes de pasar por caja.",
 new_account_form_create_new_account:
 "Crear una cuenta",
 new_account_form_create_new_account_action:
@@ -150,9 +150,9 @@ forgot_password_success_email_sent:
 forgot_password_email_sent_message:
 "Te hemos enviado un correo electrónico con las instrucciones sobre cómo restablecer la contraseña. Consulta el correo y sigues los pasos.",
 login_checkout_as_guest:
-"Checkout como invitado",
+"Pagar como invitado",
 login_checkout_as_guest_notice:
-"Al final del proceso de verificación, se te ofrecerá la posibilidad de crear una cuenta utilizando la información que introdujo durante el proceso de pago.",
+"Al final del proceso de verificación se te ofrecerá la posibilidad de crear una cuenta utilizando la información que introdujo durante el proceso de pago.",
 shipping_address_same_as_billing:
 "Use esta dirección para la facturación",
 shipping_method_method_name:
@@ -180,7 +180,7 @@ payment_method_cvc_infos:
 create_an_account:
 "Crear una cuenta",
 why_create_account:
-"Para una comprobación más rápida en tu próximo pedido, simplemente introduces la contraseña y inicia la sesión.",
+"Para una comprobación más rápida en tu próximo pedido, simplemente introduces la contraseña e inicia la sesión.",
 reset_password:
 "Restablecer contraseña",
 reset_password_success:
@@ -190,7 +190,7 @@ reset_password_changed:
 reset_password_click_here_to_login:
 "Click aquí para iniciar sesión",
 thankyou_message:
-"Gracias por tu pedido! La factura ha sido enviada por correo electrónico, lo recibirá pronto. Todavía gracias y hasta el próximo Bukkis!",
+"Gracias por tu pedido! La factura ha sido enviada por correo electrónico, lo recibirá pronto. Muchas gracias y hasta la próxima compra!",
 thankyou_submessage:
 "Pronto recibirás un email de confirmación.",
 account_created_successfully:
@@ -222,21 +222,21 @@ error_crawling_failed:
 powered_by:
 "Powered and secured by",
 promocode_rate_format:
-"{0}% descuento en tu pedido",
+"{0}% de descuento en tu pedido",
 promocode_amount_format:
-"{0} descuento en tu pedido",
+"{0} de descuento en tu pedido",
 shipping_method_business_days:
 "{0} días laborales",
 shipping_method_business_day:
-"{0} días laborales",
+"{0} día laboral",
 shipping_method_delivery_time:
-"By {0}", // By 2013-11-28
+"Para el {0}", // By 2013-11-28
 welcome:
 "Bienvenido",
 back:
 "Atrás",
 order_infos:
-"Orden info",
+"Informacion del pedido",
 generic_error_title:
 "Oops, hubo un error.",
 promocode_deleted_at_checkout:
@@ -244,11 +244,11 @@ promocode_deleted_at_checkout:
 continue_shopping:
 "Continuar las compras",
 payment_required_message:
-"The shopping cart for this website has been disabled. If you are the owner of this website, please login into Snipcart dashboard to resolve the issue.",
+"El carrito ha sido desactivada para esta web. Si eres el administrador, por favor accede a Snipcart y resuelve el problema.",
 payment_require_title:
-"The shopping cart is disabled.",
+"El carrito está desactivado.",
 configuration_problem:
-"Configuration problem",
+"Problema en la configuración ",
 additionnal_information:
 "Introduzca un mensaje abajo si desea enviar comentarios o más información sobre este problema.",
 send_error:
@@ -272,7 +272,7 @@ error_crawling_price_not_found:
 error_crawling_price_doesnot_match:
 "Artículo <strong>{0}</strong> price at <strong>{3}</strong> is <strong>{2}</strong> but should be <strong>{1}</strong>.",
 error_crawlingfailed_title_test:
-"Something went wrong when validating your order, don't worry, you have not been charged. This website is currently in Test mode.",
+"Algo salió mal cuando validabamos el pedido, no te preocupes, tu tarjeta no ha sido cargada. Esta página esta en Test mode.",
 order_completedon:
 "Colocado en",
 payment_method_status:
@@ -288,9 +288,9 @@ order_invoice_number:
 order_authorization_code:
 "Código de autorización",
 item_is_being_added:
-"Adición del artículo a la cesta...",
+"Añadiendo el artículo a la cesta...",
 order_completing_payment:
-"Ejecutando orden...",
+"Ejecutando pedido...",
 calculating_shipping_fees:
 "Consiguiendo tarifas de envío...",
 saving:
