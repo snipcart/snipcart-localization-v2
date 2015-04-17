@@ -360,5 +360,11 @@ subscription_invoice_amount:
 subscription_invoices_loading:
 "Loading subscription invoices...",
 subscription_invoices_list:
-"Invoices history"
+"Invoices history",
+item_out_of_stock:
+"We are sorry, this item is now out of stock.",
+click_here_to_remove_it:
+"Click here to remove it from your cart.",
+outofstock_notification:
+"We are sorry, some of the items in your cart went out of stock during your checkout. Please review your order. Don't worry, your card has not been charged."
 });
