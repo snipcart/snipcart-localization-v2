@@ -347,16 +347,30 @@ subscription_quantity:
 "Quantity",
 subscription_total_amount:
 "Total",
+subscriptions_fetching_subscriptions:
+"Loading subscriptions...",
 subscriptions_fetching_details:
 "Loading subscrition details...",
 subscription_no_invoices:
 "This subscription does not have any invoices yet.",
+subscription_plan_name:
+"Plan name",
+subscription_plan_interval:
+"Plan interval",
 subscription_invoice_number:
 "Number",
 subscription_invoice_date:
 "Date",
 subscription_invoice_amount:
 "Amount",
+subscription_invoice_item:
+"Item",
+subscription_invoice_info:
+"Invoice information",
+subscription_invoice_details:
+"Invoice details",
+subscription_invoice_fetching_details:
+"Loading invoice details...",
 subscription_invoices_loading:
 "Loading subscription invoices...",
 subscription_invoices_list:
