@@ -380,5 +380,13 @@ item_out_of_stock:
 click_here_to_remove_it:
 "Click here to remove it from your cart.",
 outofstock_notification:
-"We are sorry, some of the items in your cart went out of stock during your checkout. Please review your order. Don't worry, your card has not been charged."
+"We are sorry, some of the items in your cart went out of stock during your checkout. Please review your order. Don't worry, your card has not been charged.",
+plan_amount_per_day:
+"{0} / day",
+plan_amount_per_week:
+"{0} / week",
+plan_amount_per_month:
+"{0} / month",
+plan_amount_per_year:
+"{0} / year"
 });
