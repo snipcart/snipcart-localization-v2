@@ -388,5 +388,7 @@ plan_amount_per_week:
 plan_amount_per_month:
 "{0} / month",
 plan_amount_per_year:
-"{0} / year"
+"{0} / year",
+plan_days_of_trial:
+"{0} days trial"
 });
