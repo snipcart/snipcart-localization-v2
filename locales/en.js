@@ -139,6 +139,8 @@ login_form_having_an_account:
 "Sign in",
 login_form_login_action:
 "Log in",
+login_title:
+"Login",
 login_form_forgot_password_action:
 "I forgot my password",
 forgot_password_forgot_your_password:
