@@ -77,6 +77,8 @@ promo_code_alternate_price:
 "special price on products",
 total:
 "Total",
+total_paid:
+"Total paid",
 province_state:
 "State / Province",
 billing_address:
@@ -321,6 +323,8 @@ upcoming_payment_amount:
 "Total",
 upcoming_payment_subtotal:
 "Subtotal",
+upcoming_payments:
+"Next payments",
 order_date:
 "Date",
 order_status:
