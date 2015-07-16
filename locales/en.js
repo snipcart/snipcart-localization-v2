@@ -396,5 +396,15 @@ plan_amount_per_month:
 plan_amount_per_year:
 "{0} / year",
 plan_days_of_trial:
-"{0} days trial"
+"{0} days trial",
+subscription_cancel_button:
+"Cancel this subscription",
+subscription_cancel_confirmation:
+"Are you sure you want to cancel your subscription ?",
+subscription_cancel_success:
+"Your subscription has been cancelled successfully.",
+subscription_cancelled_notice:
+"This subscription is no longer active, it has been cancelled on {0}.",
+subscription_cancelledon:
+"Cancelled on"
 });
