@@ -406,5 +406,11 @@ subscription_cancel_success:
 subscription_cancelled_notice:
 "This subscription is no longer active, it has been cancelled on {0}.",
 subscription_cancelledon:
-"Cancelled on"
+"Cancelled on",
+paypal_express_checkout_link:
+"Pay with Paypal",
+paypal_express_checkout_title:
+"Pay with PayPal",
+paypal_express_checkout_explanation:
+"Click on this button if you prefer to process your payment directly through PayPal."
 });
