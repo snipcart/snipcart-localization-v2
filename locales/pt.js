@@ -1,4 +1,4 @@
-Snipcart.execute('registerLocale', 'pt', {
+﻿Snipcart.execute('registerLocale', 'pt', {
 yes:
 "Sim",
 no:
@@ -8,7 +8,7 @@ print:
 download_as_pdf:
 "Download como PDF",
 checkout:
-"Checkout",
+"Confira",
 close:
 "Close",
 name:
