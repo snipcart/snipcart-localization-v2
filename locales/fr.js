@@ -298,5 +298,7 @@ saving:
 loading:
 "Chargement...",
 free_shipping:
-"Livraison gratuite"
+"Livraison gratuite",
+notifications_item_not_added_due_to_max_quantity:
+"Le produit n'a pas pu être ajouté, vous avez déjà le nombre maximal dans votre panier."
 });

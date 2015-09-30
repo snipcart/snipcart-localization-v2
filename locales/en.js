@@ -412,5 +412,7 @@ paypal_express_checkout_link:
 paypal_express_checkout_title:
 "Pay with PayPal",
 paypal_express_checkout_explanation:
-"Click on this button if you prefer to process your payment directly through PayPal."
+"Click on this button if you prefer to process your payment directly through PayPal.",
+notifications_item_not_added_due_to_max_quantity:
+"The product has not been added, you already have the maximum quantity in your cart."
 });
