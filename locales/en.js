@@ -414,5 +414,7 @@ paypal_express_checkout_title:
 paypal_express_checkout_explanation:
 "Click on this button if you prefer to process your payment directly through PayPal.",
 notifications_item_not_added_due_to_max_quantity:
-"The product has not been added, you already have the maximum quantity in your cart."
+"The product has not been added, you already have the maximum quantity in your cart.",
+error_impossible_to_calculate_taxes:
+"We have not been able to calculate taxes for the order, it might be due to an invalid address, please ensure you entered a valid address with a 5 digits ZIP code."
 });
