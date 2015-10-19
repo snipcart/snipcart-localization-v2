@@ -286,7 +286,7 @@ order_transaction_amount:
 order_invoice_number:
 "Numéro de la facture",
 order_authorization_code:
-"Code d'authorisation",
+"Code d'autorisation",
 item_is_being_added:
 "Ajout de l'item au panier...",
 order_completing_payment:
