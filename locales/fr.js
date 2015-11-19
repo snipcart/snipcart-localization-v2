@@ -308,7 +308,7 @@ cart_plans_name:
 cart_plans_interval:
 "Récurrence",
 cart_plans_quantity:
-"Quanttité",
+"Quantité",
 cart_plans_amount:
 "Montant",
 cart_plans_total:
@@ -344,7 +344,7 @@ user_nav_subscriptions:
 user_nav_cart:
 "Mon panier",
 subscriptions_history:
-"Mes abonnemnts",
+"Mes abonnements",
 subscription_name:
 "Nom",
 subscription_amount:
