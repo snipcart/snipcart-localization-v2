@@ -79,6 +79,8 @@ promo_code_alternate_price:
 "prix spécial sur certains articles",
 total:
 "Total",
+total_paid:
+"Total payé",
 province_state:
 "Province / État",
 billing_address:
@@ -140,6 +142,8 @@ new_account_form_create_new_account_action:
 login_form_having_an_account:
 "Vous avez un compte ?",
 login_form_login_action:
+"Connexion",
+login_title:
 "Connexion",
 login_form_forgot_password_action:
 "J'ai oublié mon mot de passe",
@@ -299,6 +303,118 @@ loading:
 "Chargement...",
 free_shipping:
 "Livraison gratuite",
+cart_plans_name:
+"Forfait",
+cart_plans_interval:
+"Récurrence",
+cart_plans_quantity:
+"Quantité",
+cart_plans_amount:
+"Montant",
+cart_plans_total:
+"Total",
+payable_now:
+"Payable maintenant",
+upcoming_payment_for:
+"Abonnement",
+upcoming_payment_date:
+"Date",
+upcoming_payment_amount:
+"Total",
+upcoming_payment_subtotal:
+"Sous-total",
+upcoming_payments:
+"Prochain paiement",
+order_date:
+"Date",
+order_status:
+"Statut",
+order_total:
+"Total",
+orders_history:
+"Mes commandes",
+orders_history_no_orders:
+"Vous n'avez aucune commande.",
+orders_fetching_orders:
+"Chargement de vos commandes...",
+user_nav_orders:
+"Mes commandes",
+user_nav_subscriptions:
+"Mes abonnements",
+user_nav_cart:
+"Mon panier",
+subscriptions_history:
+"Mes abonnements",
+subscription_name:
+"Nom",
+subscription_amount:
+"Montant",
+subscription_quantity:
+"Quantité",
+subscription_total_amount:
+"Total",
+subscriptions_fetching_subscriptions:
+"Chargement des abonnements...",
+subscriptions_fetching_details:
+"Chargement du détail de l'abonnement...",
+subscription_no_invoices:
+"Cet abonnement n'a aucune facture présentement.",
+subscription_plan_name:
+"Nom de l'abonnement",
+subscription_plan_interval:
+"Fréquence",
+subscription_invoice_number:
+"No. de facture de l'abonnement",
+subscription_invoice_date:
+"Date",
+subscription_invoice_amount:
+"Montant",
+subscription_invoice_item:
+"Item",
+subscription_invoice_info:
+"Information de la facture",
+subscription_invoice_details:
+"Détail de la facture",
+subscription_invoice_fetching_details:
+"Chargement du détail de la facture...",
+subscription_invoices_loading:
+"Chargement des factures de l'abonnement...",
+subscription_invoices_list:
+"Historique des factures",
+item_out_of_stock:
+"Nous somme désolés, cet item est en rupture de stock.",
+click_here_to_remove_it:
+"Cliquez ici pour le retirer de votre panier.",
+outofstock_notification:
+"Nous sommes désolés, certains items de votre panier sont tombés en rupture de stock pendant votre transaction. Veuillez revoir votre commande. Pas de souci, aucun montant n'a été prélevé sur votre carte.",
+plan_amount_per_day:
+"{0} / jour",
+plan_amount_per_week:
+"{0} / semaine",
+plan_amount_per_month:
+"{0} / mois",
+plan_amount_per_year:
+"{0} / année",
+plan_days_of_trial:
+"{0} jour(s) d'essai",
+subscription_cancel_button:
+"Annuler cet abonnement",
+subscription_cancel_confirmation:
+"Êtes-vous sûr de vouloir annuler cet abonnement ?",
+subscription_cancel_success:
+"Votre abonnement à été annulé avec succès.",
+subscription_cancelled_notice:
+"Cet abonnement n'est plus actif, il a été annulé en date du {0}.",
+subscription_cancelledon:
+"Annulé le",
+paypal_express_checkout_link:
+"Payer avec Paypal",
+paypal_express_checkout_title:
+"Payer avec PayPal",
+paypal_express_checkout_explanation:
+"Cliquez sur ce bouton si vous désirez procéder au paiement directement avec Paypal.",
 notifications_item_not_added_due_to_max_quantity:
-"Le produit n'a pas pu être ajouté, vous avez déjà le nombre maximal dans votre panier."
+"Le produit n'a pas pu être ajouté, vous avez déjà le nombre maximal dans votre panier.",
+error_impossible_to_calculate_taxes:
+"Impossible de calculer la taxe pour cette commande, cela peut être causé par une adresse invalide, svp assurez-vous d'avoir entré une adresse et un code postal valide."
 });
