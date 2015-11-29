@@ -22,9 +22,9 @@ ok:
 send:
 "Senden",
 address_1:
-"Strasse",
+"Straße",
 address_2:
-"Strasse 2",
+"Straße 2",
 city:
 "Ort",
 postal_code:
@@ -44,9 +44,9 @@ subtotal:
 rebate:
 "Rabatt",
 apply_promo_code:
-"Promotionscode einlösen",
+"Gutschein einlösen",
 my_cart:
-"Mein Warenkorb 2",
+"Mein Warenkorb",
 my_cart_content:
 "In meinem Warenkorb",
 shipping_method:
@@ -60,11 +60,11 @@ bill_me_later:
 bill_me_later_explanation:
 "Eine Rechnung wird Ihnen via E-Mail zugestellt.",
 promo_code_applied_successfully:
-"Ihr Promotionscode wurde erfolgreich eingelöst.",
+"Ihr Gutschein wurde erfolgreich eingelöst.",
 promo_code_is_invalid:
-"Ihr Promotionscode ist ungültig.",
+"Ihr Gutschein ist ungültig.",
 promo_code_code:
-"Haben Sie einen Promotionscode?",
+"Haben Sie einen Gutschein?",
 promo_code_rate_on_order:
 "Rabatt auf Ihre Bestellung",
 promo_code_alternate_price:
@@ -72,7 +72,7 @@ promo_code_alternate_price:
 total:
 "Summe",
 province_state:
-"BundesLand / Kanton",
+"Bundesland / Kanton",
 billing_address:
 "Rechnungsadresse",
 shipping_address:
@@ -234,7 +234,7 @@ order_infos:
 generic_error_title:
 "Hoppla, ein Fehler ist aufgetreten!",
 promocode_deleted_at_checkout:
-"Der von Ihnen verwendete Promotionscode hat die Maximalzahl an Einlösungen erreicht, während Sie im Bezahlprozess waren. Bitte entschuldigen Sie diese Unanehmlichkeit.",
+"Der von Ihnen verwendete Gutschein hat die Maximalzahl an Einlösungen erreicht, während Sie im Bezahlprozess waren. Bitte entschuldigen Sie diese Unanehmlichkeit.",
 continue_shopping:
 "Einkauf fortsetzen",
 payment_required_message:
@@ -286,7 +286,7 @@ item_is_being_added:
 order_completing_payment:
 "Bestellung wird durchgeführt...",
 calculating_shipping_fees:
-"Versandkosten werden geholt...",
+"Versandkosten werden berechnet...",
 saving:
 "Speichern...",
 loading:
