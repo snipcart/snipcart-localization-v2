@@ -196,7 +196,7 @@ reset_password_changed:
 reset_password_click_here_to_login:
 "Cliquez ici pour vous connecter",
 thankyou_message:
-"Merci pour votre commande! Votre facture vous a été envoyé par courriel.",
+"Merci pour votre commande! Votre facture vous a été envoyée par courriel.",
 thankyou_submessage:
 "Vous recevrez un courriel de confirmation bientôt",
 account_created_successfully:
