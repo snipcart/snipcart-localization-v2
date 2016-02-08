@@ -15,83 +15,83 @@ close:
 name:
 "Όνομα",
 company_name:
-"Company name",
+"Όνομα εταιρίας",
 share_by_email:
 "Share by email",
 email:
 "Email",
 password:
-"Password",
+"Κωδικός",
 confirm_password:
-"Confirm password",
+"Επιβεβαίωση Κωδικού",
 ok:
 "OK",
 send:
-"Send",
+"Αποστολή",
 address_1:
-"Street Address",
+"Διεύθυνση",
 address_2:
-"Street Address 2",
+"Αριθμός Διεύθυνσης",
 city:
-"City",
+"Πόλη",
 postal_code:
-"ZIP / Postal code",
+"Ταχυδρομικός Κώδικας",
 phone:
-"Phone",
+"Τηλέφωνο",
 previous:
-"Previous step",
+"Προηγούμενο Βήμα",
 next:
-"Next step",
+"Επόμενο Βήμα",
 finalize:
-"Place Order",
+"Αποστολή Παραγγελίας",
 country:
-"Country",
+"Χώρα",
 subtotal:
-"Subtotal",
+"Υποσύνολο",
 rebate:
-"Rebate",
+"Έκπτωση",
 apply_promo_code:
-"Apply promo code",
+"Εισαγωγή Εκπτωτικού Κωδικού",
 my_cart:
-"My cart",
+"Καλάθι",
 my_cart_content:
-"My cart's content",
+"Περιεχόμενο Καλαθιού",
 shipping_method:
-"Shipping method",
+"Τρόπος Αποστολής",
 payment_method:
-"Payment method",
+"Τρόπος Πληρωμής",
 confirm_order:
-"Confirm order",
+"Επιβεβαίωση Παραγγελίας",
 bill_me_later:
-"Bill me later",
+"Χρεώστε με Αργότερα",
 bill_me_later_explanation:
-"An invoice will be sent to you by email.",
+"Θα σταλεί τιμολόγιο στο email σας.",
 promo_code_applied_successfully:
-"Your Discount has been applied successfully.",
+"Η έκπτωση εισήχθη επιτυχώς.",
 promo_code_is_invalid:
-"The promo code is invalid.",
+"Ο εκπτωτικός κωδικός δεν είναι σωστός.",
 promo_code_code:
-"Have a Discount?",
+"Έχετε κάποια έκπωση?",
 promo_code_rate_on_order:
-"discount on the order",
+"Έκπτωση στην παραγγελία",
 promo_code_alternate_price:
-"special price on products",
+"Ειδική τιμή στα προϊόντα",
 total:
-"Total",
+"Σύνολο",
 total_paid:
-"Total paid",
+"Σύνολο Κατεβεβλημένου",
 province_state:
-"State / Province",
+"Πολητεία",
 billing_address:
-"Billing address",
+"Διεύθυνση Χρέωσης",
 shipping_address:
-"Shipping address",
+"Διεύθυνση Αποστολής",
 payment_informations:
-"Payment information",
+"Πληροφορίες Πληρωμής",
 payment_informations_bill_me_later:
-"I will pay later",
+"Θα πληρώσω αργότερα",
 payment_informations_paypalexpress:
-"Payment with Paypal",
+"Πληρωμή με Paypal",
 credit_card_type_mastercard:
 "Mastercard",
 credit_card_type_visa:
@@ -99,328 +99,323 @@ credit_card_type_visa:
 credit_card_type_amex:
 "American Express",
 months_january:
-"January",
+"Ιανουάριος",
 months_february:
-"February",
+"Φεβρουάριος",
 months_march:
-"March",
+"Μάρτιος",
 months_april:
-"April",
+"Απρίλιος",
 months_may:
-"May",
+"Μάιος",
 months_june:
-"June",
+"Ιούνιος",
 months_july:
-"July",
+"Ιούλιος",
 months_august:
-"August",
+"Αύγουστος",
 months_september:
-"September",
+"Σεπτέμβριος",
 months_october:
-"October",
+"Οκτώβριος",
 months_november:
-"November",
+"Νοέμβριος",
 months_december:
-"December",
+"Δεκέμβριος",
 cart_items_table_item:
-"Item",
+"Είδος",
 cart_items_table_description:
-"Description",
+"Περιγραφή",
 cart_items_table_quantity:
-"Quantity",
+"Ποσότητα",
 cart_items_table_unit_price:
-"Unit Price",
+"Τιμή Μονάδας",
 cart_items_table_total_price:
-"Total Price",
+"Συνολική τιμή",
 cart_empty_text:
-"The cart is now empty. Select some products to buy before checking out.",
+"Το καλάθι σας είναι άδειο,προσθέστε προϊόντα πρωτού ολοκληρώσετε την παραγγελία σας.",
 new_account_form_create_new_account:
-"Create a login",
+"Δημιουργία Λογαριασμού",
 new_account_form_create_new_account_action:
-"Create a login",
+"Δημιουργία Λογαριασμού",
 login_form_having_an_account:
-"Sign in",
+"Συνδεθείτε",
 login_form_login_action:
-"Log in",
+"Συνδεθείτε",
 login_title:
-"Login",
+"Σύνδεση",
 login_form_forgot_password_action:
-"I forgot my password",
+"Ξέχασα τον κωδικό μου",
 forgot_password_forgot_your_password:
-"Forgot your password?",
+"Ξεχάσατε τον κωδικό σας?",
 forgot_password_please_enter_email:
-"Please enter your email, we will send you an email containing a unique link to reset your password.",
+"Εισάγετε παρακαλώ το email σας και θα σας αποστείλουμε email που θα περιέχει ένα μοναδικό σύνδεσμο για να κάνετε επαναφορά του κωδικού σας.",
 forgot_password_success_email_sent:
-"Email sent",
+"Το email στάλθηκε",
 forgot_password_email_sent_message:
-"An email has been sent to you with instructions about how to reset your password. Go check the email and follow the steps.",
+"Σας αποστάλθηκε email που περιέχει οδηγίες για το πως να επαναφέρετε τον κωδικό σας.Ελέγξτε το email σας και ακολουθήστε τα βήματα.",
 login_checkout_as_guest:
-"Checkout as a guest",
+"Αγορά σαν επισκέπτης",
 login_checkout_as_guest_notice:
-"At the end of the checkout process, you will be offered the possibility to create an account using the information you entered during the checkout process.",
+"Στο τέλος της αγοράς, θα σας δωθεί η δυνατότητα λογαριασμού, χρησιμοποιόντας τις πληροφορίες που εισάγατε κατά την διαδικασία της αγοράς.",
 shipping_address_same_as_billing:
-"Use this address for shipping",
+"Χρησιμοποιείστε αυτήν την διεύθυνση",
 shipping_method_method_name:
-"Shipping method",
+"Τρόπος Αποστολής",
 shipping_method_shipping_price:
-"Shipping price",
+"Κώστος Αποστολής",
 shipping_method_failure_message:
-"We have not been able to find any possible shipping method. Please make sure your shipping address is correct and try again.",
+"Δεν μπορέσαμε να βρούμε κάποιο πιθανό τρόπο αποστολής.Παρακαλώ ελέγξτε αν η διεύθυνση αποστολής είναι σωστή και προσπαθήστε ξανά.",
 shipping_method_failure_click_here_to_edit:
-"Click here to edit your shipping address",
+"Πατήστε εδώ για να επεξεργαστήτε την διεύθυνση αποστολής",
 payment_method_card_holder:
-"Name on card",
+"Όνομα στην κάρτα",
 payment_method_card_type:
-"Card type",
+"Τύπος Κάρτας",
 payment_method_card_number:
-"Card number",
+"Αριθμός Κάρτας",
 payment_method_card_cvc:
 "CSC",
 payment_method_card_exp_month:
-"Expiration month / year",
+"Ημερομηνία Λήξης Χρόνος/Μήνας",
 payment_method_card_exp_year:
-"Expiration year",
+"Έτος λήξης",
 payment_method_cvc_infos:
-"The CVC is the 3 digits security number behind your credit card, usually at the right of your signature.",
+"Ο αριθμός CVC είναι τα 3 ψηφία ασφαλείας στο πίσω μέρος της κάρτας σας, συνήθως δεξιά της υπογραφής σας.",
 create_an_account:
-"Create a login",
+"Δημιουργία Λογαριασμού",
 why_create_account:
-"For a faster checkout on your next order, just enter a password to create a login.",
+"Για γρηγορότερη αγορά στην επόμενη παραγγελία σας , απλά προσθέστε έναν κωδικό για την δημιουργία λογαριασμού.",
 reset_password:
-"Reset password",
+"Επαναφορά Κωδικού",
 reset_password_success:
-"Reset password completed",
+"Η επαναφορά κωδικού ολοκληρώθηκε",
 reset_password_changed:
-"Your passsword has been changed.",
+"Ο κωδικός σας άλλαξε",
 reset_password_click_here_to_login:
-"Click here to login",
+"Πατήστε εδώ για να συνδεθείτε",
 thankyou_message:
-"Thank you for your order! Your invoice has been sent to you by email, you should receive it soon.",
+"Ευχαριστούμε για την παραγγελία σας!Το τιμολόγιο σας έχει αποσταλέι στο email, θα το λάβετε σύντομα.",
 thankyou_submessage:
-"You will receive a confirmation email soon",
+"Θα λάβετε ένα email επιβεβαίωσης σύντομα",
 account_created_successfully:
-"Account created successfully",
+"Ο λογαριασμός σας δημιουργήθηκε επιτυχώς",
 account_created_successfully_message:
-"Your account has been successfully created, thank you.",
+"YΟ λογαριασμός σας δημιουργήθηκε επιτυχώς,ευχαριστούμε.",
 errors_required:
-"This field is required",
+"Υποχρεωτικό πεδίο",
 errors_email_must_be_unique:
-"An user with the same email already exists",
+"Ένας χρήστης με το ίδιο email υπάρχει ήδη.",
 errors_both_password_must_match:
-"Both passwords must match",
+"Οι δύο κωδικοί θα πρέπει να είναι πανομοιότυποι",
 errors_email_must_be_valid:
-"The email must be valid",
+"Το email πρέπει να είναι έγκυρο",
 errors_email_does_not_match_any_existing_user:
-"No user with this email exists",
+"Δεν υπάρχει χρήστης με το συγκεκριμένο email",
 errors_email_does_not_match_reset_password_request:
-"User email does not match any existing reset password request.",
+"Το email του χρήστη δεν τεριάζει με οποιαδήποτε αίτηση επαναφοράς κωδικού.",
 errors_reset_password_token_expired:
-"The reset password token has expired.",
+"Το διακριτικό του κωδικό επαναφοράς έχει λήξει.",
 errors_invalid_authentication_infos:
-"Invalid authentication informations",
+"Άκυρες πληροφορίες ταυτοποίησης",
 error_payment_items_empty:
-"It seems that your order is invalid, please reload the page. Your credit card has not been charged.",
+"Φαίνεται ότι η παραγγελία σας δεν είναι έγκυρη, παρακαλούμε ανανεώστε τηω σελίδας. Η πιστωτική σας κάρτα δεν έχει χρεωθεί.",
 error_payment_items_are_invalid:
-"We have not been able to complete your order. It seems that one of the items in your cart has an invalid price.",
+"Δεν ήμασταν σε θέση να ολοκληρώσουμε την παραγγελία σας. Φαίνεται ότι ένα από τα αντικείμενα στο καλάθι σας έχει μια μη έγκυρη τιμή.",
 error_crawling_failed:
-"We have not been able to validate your order, your credit card has not been charged, please try again in a few moments.",
+"Δεν ήμασταν σε θέση να ολοκληρώσουμε την παραγγελία σας, η πιστωτική σας κάρτα δεν έχει χρεωθεί, δοκιμάστε ξανά σε μερικά λεπτά.",
 powered_by:
 "Powered and secured by",
 promocode_rate_format:
-"{0}% discount on your order",
+"{0}% έκπτωση στην παραγγελίας σας",
 promocode_amount_format:
-"{0} discount on your order",
+"{0} έκπτωση στην παραγγελίας σας",
 shipping_method_business_days:
-"{0} business days",
+"{0} εργάσιμες μέρες",
 shipping_method_business_day:
-"{0} business day",
+"{0} εργάσιμη ημέρα",
 shipping_method_delivery_time:
-"By {0}", // By 2013-11-28
+"Από {0}", // By 2013-11-28
 welcome:
-"Welcome",
+"Καλωσήρθατε",
 back:
-"Back",
+"Πίσω",
 order_infos:
-"Order infos",
+"Πληροφορίες παραγγελίας",
 generic_error_title:
-"Oops, an error occured.",
+"Οουπς, συνέβη ένα σφάλμα.",
 promocode_deleted_at_checkout:
-"The Discount you used has reached its usage limit while you were doing your checkout. Sorry for this inconvenience.",
+"Η έκπτωση που χρησιμοποιείται έφτασε στο όριο χρήσης της, ενώ κάνατε την ολοκλήρωση της παραγγελίας σας. Συγγνώμη για την ταλαιπωρία.",
 continue_shopping:
-"Continue shopping",
+"Συνέχεια Αγορών",
 payment_required_message:
-"The shopping cart for this website has been disabled. If you are the owner of this website, please login into Snipcart dashboard to resolve the issue.",
+"Το καλάθι αγορών για αυτή την ιστοσελίδα έχει απενεργοποιηθεί. Αν είστε ο ιδιοκτήτης αυτής της ιστοσελίδας, παρακαλούμε συνδεθείτε στο Snipcart Dashboard για να επιλύσετε το ζήτημα.",
 payment_require_title:
-"The shopping cart is disabled.",
+"Το καλάθι αγορών είναι απενεργοποιημένο",
 configuration_problem:
-"Configuration problem",
+"Σφάλμα Διαμόρφωσης",
 additionnal_information:
-"Enter a message below if you want to send feedback or more information about this problem.",
+"Πληκτρολογήστε ένα μήνυμα παρακάτω αν θέλετε να στείλετε τα σχόλιά σας ή για περισσότερες πληροφορίες σχετικά με αυτό το πρόβλημα.",
 send_error:
-"Send this error to website's owner",
+"Στείλτέ αυτό το πρόβλημα στον ιδιοκτήτη της ιστοσελίδας",
 message_sent:
-"Message sent, thank you",
+"Το μήνυμα στάλθηκε, σας ευχαριστούμε",
 paypalexpress_loading:
-"You will be redirected to Paypal to make the payment soon.",
+"Θα μεταβείτε στο paypal για την πληρωμή σύντομα.",
 paypalexpress_cancelled:
-"You cancelled the transaction, you can either click on the button below to try again or simply continue to shop.",
+"Ακυρώσατε τη συναλλαγή, μπορείτε είτε να κάνετε κλικ στο κουμπί παρακάτω για να ξαναπροσπαθήσετε  ή απλώς να συνεχίσετε στο κατάστημα.",
 retry:
-"Try again",
+"Προσπαθήστε ξανά",
 error_crawlingfailed_title:
-"Something went wrong when validating your order, don't worry, you have not been charged.",
+"Κάτι πήγε στραβά κατά την επικύρωση της παραγγελίας σας, μην ανησυχείτε, δεν έχετε χρεωθεί.",
 error_crawling_unreachable:
-"Item <strong>{0}</strong> is unreachable at <strong>{1}</strong>. Make sure the product URL is publicly available.",
+"Το προϊόν <strong>{0}</strong> δεν βρέθηκε στο <strong>{1}</strong>. Βεβαιωθείτε ότι η διεύθυνση URL του προϊόντος είναι διαθέσιμη.",
 error_crawling_product_not_found:
-"Item <strong>{0}</strong> has not been found at <strong>{1}</strong>.",
+"Το προϊόν  <strong>{0}</strong> δεν βρέθηκε στο <strong>{1}</strong>.",
 error_crawling_price_not_found:
-"Item <strong>{0}</strong> does not have any specified price at <strong>{1}</strong>, specify it with data-item-price.",
+"Το προϊόν <strong>{0}</strong>δεν έχει καμία καθορισμένη τιμή στο <strong>{1}</strong>, προσδιορίστε την στο data-item-price.",
 error_crawling_price_doesnot_match:
-"Item <strong>{0}</strong> price at <strong>{3}</strong> is <strong>{2}</strong> but should be <strong>{1}</strong>.",
+"Η τιμή του προϊόντος <strong>{0}</strong> στο <strong>{3}</strong> είναι <strong>{2}</strong> άλλα θα έπρεπε να είναι <strong>{1}</strong>.",
 error_crawlingfailed_title_test:
-"Something went wrong when validating your order, don't worry, you have not been charged. This website is currently in Test mode.",
+"Κάτι πήγε στραβά κατά την επικύρωση της παραγγελίας σας, μην ανησυχείτε, δεν έχετε χρεωθεί. Αυτή η ιστοσελίδα είναι προς το παρόν σε δοκιμαστική λειτουργία",
 order_completedon:
-"Placed on",
+"Διατίθενται στον",
 payment_method_status:
-"Transaction status",
+"Κάτασταση Συναλλαγής",
 payment_method_status_approved:
-"Approved",
+"Εγκρύθηκε",
 order_reference_number:
-"Reference number",
+"Αριθμός Παραπομπής",
 order_transaction_amount:
-"Transaction amount",
+"Ποσό Συναλλαγήςt",
 order_invoice_number:
-"Invoice number",
+"Αριθμός Τιμολογίου",
 order_authorization_code:
-"Authorization code",
+"Κωδικός Εξουσιοδότησης",
 item_is_being_added:
-"Adding item to the cart...",
+"Προσθήκη προϊόντος στο καλάθι...",
 order_completing_payment:
-"Placing order...",
+"Ολοκλήρωση Παραγγελίας...",
 calculating_shipping_fees:
-"Getting shipping rates...",
+"Υπολογισμός εξόδων αποστολής...",
 saving:
-"Saving...",
+"Αποθήκευση...",
 loading:
-"Loading...",
+"Φόρτωση...",
 free_shipping:
-"Free shipping",
+"Δωρεάν Αποστολή",
 cart_plans_name:
-"Plan",
+"Σχέδιο",
 cart_plans_interval:
-"Interval",
+"Διάστημα",
 cart_plans_quantity:
-"Quantity",
+"Ποσότητα",
 cart_plans_amount:
-"Amount",
+"Ποσό",
 cart_plans_total:
-"Total",
+"Σύνολο",
 payable_now:
-"Payable now",
+"Πληρωτέο",
 upcoming_payment_for:
-"Subscription",
+"Συνδρομή",
 upcoming_payment_date:
-"Date",
+"Ημερομηνία",
 upcoming_payment_amount:
-"Total",
+"Σύνολο",
 upcoming_payment_subtotal:
-"Subtotal",
+"Υποσύνολο",
 upcoming_payments:
-"Next payments",
+"Έπόμενες Πληρωμές",
 order_date:
-"Date",
+"Ημερομηνία",
 order_status:
-"Status",
+"Κατάσταση",
 order_total:
 "Total",
 orders_history:
-"My orders",
+"Οι παραγγελίες μου",
 orders_history_no_orders:
-"You don't actually have any orders.",
+"Δεν έχεις κάποια παραγγελια.",
 orders_fetching_orders:
-"Loading your orders...",
+"Φόρτωση των παραγγελίων σας...",
 user_nav_orders:
-"My orders",
+"Οι παραγγελίες μου",
 user_nav_subscriptions:
-"My subscriptions",
+"Οι Συνδρομές μου",
 user_nav_cart:
-"My cart",
+"καλάθι",
 subscriptions_history:
-"My subscriptions",
+"Οι συνδρομές μου",
 subscription_name:
-"Name",
+"Όνομα",
 subscription_amount:
-"Amount",
+"Ποσό",
 subscription_quantity:
-"Quantity",
+"Ποσότητα",
 subscription_total_amount:
-"Total",
+"Σύνολο",
 subscriptions_fetching_subscriptions:
-"Loading subscriptions...",
+"Φόρτωση Συνδρομών...",
 subscriptions_fetching_details:
-"Loading subscrition details...",
+"Φόρτωση λεπτομεριών συνδρομών...",
 subscription_no_invoices:
-"This subscription does not have any invoices yet.",
+"Η συνδρομή αυτή δεν έχει κάποιο τιμολόγιο ακόμη.",
 subscription_plan_name:
-"Plan name",
+"Όνομα Σχεδίου",
 subscription_plan_interval:
-"Plan interval",
+"Διάστημα Σχεδίου",
 subscription_invoice_number:
-"Number",
+"Αριθμός",
 subscription_invoice_date:
-"Date",
+"Ημερομηνία",
 subscription_invoice_amount:
-"Amount",
+"Ποσό",
 subscription_invoice_item:
-"Item",
+"Προϊόν",
 subscription_invoice_info:
-"Invoice information",
+"Πληροφορίες τιμολογίου",
 subscription_invoice_details:
-"Invoice details",
+"Λεπτομέριες τιμολογίου",
 subscription_invoice_fetching_details:
-"Loading invoice details...",
+"Φόρτωση λεπτομεριών τιμολογίου...",
 subscription_invoices_loading:
-"Loading subscription invoices...",
+"Φόρτωση τιμολογιών συνδρομής...",
 subscription_invoices_list:
-"Invoices history",
+"Ιστορικό Τιμολογιών",
 item_out_of_stock:
-"We are sorry, this item is now out of stock.",
+"Λυπούμαστε, το συγκεκριμένο προϊον έχει εξαντληθεί",
 click_here_to_remove_it:
-"Click here to remove it from your cart.",
+"Πατήστε εδώ για να το αφαιρέσετε από το καλάθι.",
 outofstock_notification:
-"We are sorry, some of the items in your cart went out of stock during your checkout. Please review your order. Don't worry, your card has not been charged.",
+"Λυπούμαστε, μερικά από τα προϊόντα στο καλάθι σας , εξαντλήθηκαν κατά την διαδικασία της πληρωμής.Παρακαλούμε επιθεωρίστε την παραγγελία σας. Μην ανησυχείτε, η κάρτα σας δεν έχει χρεωθεί",
 plan_amount_per_day:
-"{0} / day",
+"{0} / ημέρα",
 plan_amount_per_week:
-"{0} / week",
+"{0} / βδομάδα",
 plan_amount_per_month:
-"{0} / month",
+"{0} / μήνα",
 plan_amount_per_year:
-"{0} / year",
+"{0} / χρόνο",
 plan_days_of_trial:
-"{0} days trial",
+"{0} ημέρες δοκιμαστικού",
 subscription_cancel_button:
-"Cancel this subscription",
+"Ακύρωση αυτής της συνδρομής",
 subscription_cancel_confirmation:
-"Are you sure you want to cancel your subscription ?",
+"Είστε σίγουροι ότι θέλετε να ακυρώσετε τη συνδρομή σας;",
 subscription_cancel_success:
-"Your subscription has been cancelled successfully.",
+"Η συνδρομή σας ακυρώθηκε με επιτυχία.",
 subscription_cancelled_notice:
-"This subscription is no longer active, it has been cancelled on {0}.",
+"Η συνδρομή αυτή δεν είναι πλέον ενεργή, έχει ακυρωθεί στις {0}.",
 subscription_cancelledon:
-"Cancelled on",
+"Ακυρώθηκε στις",
 paypal_express_checkout_link:
-"Pay with Paypal",
+"Πληρώστε με Paypal",
 paypal_express_checkout_title:
-"Pay with PayPal",
+"Πληρώστε με PayPal",
 paypal_express_checkout_explanation:
-"Click on this button if you prefer to process your payment directly through PayPal.",
+"Κάντε κλικ σε αυτό το κουμπί αν προτιμάτε να επεξεργαστείτε την πληρωμή σας απευθείας μέσω PayPal.",
 notifications_item_not_added_due_to_max_quantity:
-"The product has not been added, you already have the maximum quantity in your cart.",
+"Το προϊόν δεν έχει προστεθεί, έχετε ήδη τη μέγιστη ποσότητα προϊόντων στο καλάθι σας",
 error_impossible_to_calculate_taxes:
-"We have not been able to calculate taxes for the order, it might be due to an invalid address, please ensure you entered a valid address with a 5 digits ZIP code."
+"Δεν μπορέσαμε να υπολογίσουμε τους φόρους για την παραγγελία σας, ίσως έχετε εισάγει λανθασμένη διεύθυνση,παρακαλώ βεβαιωθείτε ότι έχετε πληκτρολογήσει έγκυρη διεύθυνση και ταχυδρομικό κώδικα."
 });
-
-    Status API Training Shop Blog About Pricing 
-
-    © 2016 GitHub, Inc. Terms Privacy Security Contact Help 
-
