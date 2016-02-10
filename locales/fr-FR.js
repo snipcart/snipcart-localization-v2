@@ -53,8 +53,6 @@
     "Appliquer un code promo",
     my_cart:
     "Mon panier",
-    continue_shopping:
-    "Continuer mes achats",
     my_cart_content:
     "Contenu de mon panier",
     shipping_method:
@@ -79,6 +77,8 @@
     "prix spécial sur certains articles",
     total:
     "Total",
+    total_paid:
+    "Total payé",
     province_state:
     "Province / État",
     billing_address:
@@ -141,6 +141,8 @@
     "Vous avez un compte ?",
     login_form_login_action:
     "Connexion",
+    login_title:
+    "Connexion",
     login_form_forgot_password_action:
     "J'ai oublié mon mot de passe",
     forgot_password_forgot_your_password:
@@ -192,7 +194,7 @@
     reset_password_click_here_to_login:
     "Cliquez ici pour vous connecter",
     thankyou_message:
-    "Merci pour votre commande! Votre facture vous a été envoyée par courriel.",
+    "Merci pour votre commande ! Votre facture vous a été envoyée par courriel.",
     thankyou_submessage:
     "Vous recevrez un courriel de confirmation bientôt",
     account_created_successfully:
@@ -240,9 +242,11 @@
     order_infos:
     "Infos sur la commande",
     generic_error_title:
-    "Oops, une erreur est survenue.",
+    "Oups, une erreur est survenue.",
     promocode_deleted_at_checkout:
     "Le code promo que vous avez utilisé a atteint son nombre d'utilisation maximum durant votre paiement. Nous sommes désolés de cet inconvénient.",
+    continue_shopping:
+    "Continuer les achats",
     payment_required_message:
     "Le panier d'achat de ce site a été désactivé. Si vous êtes le propriétaire du site, veuillez vous connecter à votre compte Snipcart afin de résoudre le problème.",
     payment_require_title:
@@ -299,6 +303,36 @@
     "Chargement...",
     free_shipping:
     "Livraison gratuite",
+    cart_plans_name:
+    "Plan",
+    cart_plans_interval:
+    "Intervalle",
+    cart_plans_quantity:
+    "Quantité",
+    cart_plans_amount:
+    "Montant",
+    cart_plans_total:
+    "Total",
+    payable_now:
+    "Payable maintenant",
+    upcoming_payment_for:
+    "Abonnement",
+    upcoming_payment_date:
+    "Date",
+    upcoming_payment_amount:
+    "Total",
+    upcoming_payment_subtotal:
+    "Sous-total",
+    upcoming_payments:
+    "Prochains paiements",
+    order_date:
+    "Date",
+    order_status:
+    "Statut",
+    order_total:
+    "Total",
+    orders_history:
+    "Mes commandes",
     notifications_item_not_added_due_to_max_quantity:
     "Le produit n'a pas pu être ajouté, vous avez déjà le nombre maximal dans votre panier."
 });
