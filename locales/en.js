@@ -416,5 +416,7 @@ paypal_express_checkout_explanation:
 notifications_item_not_added_due_to_max_quantity:
 "The product has not been added, you already have the maximum quantity in your cart.",
 error_impossible_to_calculate_taxes:
-"We have not been able to calculate taxes for the order, it might be due to an invalid address, please ensure you entered a valid address with a 5 digits ZIP code."
+"We have not been able to calculate taxes for the order, it might be due to an invalid address, please ensure you entered a valid address with a 5 digits ZIP code.",
+have_a_promocode_question:
+"Promo code ?"
 });
