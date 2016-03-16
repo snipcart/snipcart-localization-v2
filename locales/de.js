@@ -1,4 +1,10 @@
-Snipcart.execute('registerLocale', 'de', {
+Snipcart.execute('registerLocale', 'en', {
+yes:
+"Ja",
+no:
+"Nein",
+print:
+"Drucken",
 download_as_pdf:
 "Als PDF herunterladen",
 checkout:
@@ -71,6 +77,8 @@ promo_code_alternate_price:
 "Sonderpreis auf gewissen Produkten",
 total:
 "Summe",
+total_paid:
+"Summe bezahlt",
 province_state:
 "Bundesland / Kanton",
 billing_address:
@@ -132,6 +140,8 @@ new_account_form_create_new_account_action:
 login_form_having_an_account:
 "Haben Sie ein Konto?",
 login_form_login_action:
+"Einloggen",
+login_title:
 "Einloggen",
 login_form_forgot_password_action:
 "Ich habe mein Passwort vergessen.",
@@ -292,5 +302,119 @@ saving:
 loading:
 "Laden...",
 free_shipping:
-"Gratis Versand"
+"Gratis Versand",
+cart_plans_name:
+"Plan",
+cart_plans_interval:
+"Interval",
+cart_plans_quantity:
+"Anzahl",
+cart_plans_amount:
+"Betrag",
+cart_plans_total:
+"Summe",
+payable_now:
+"Jetzt fällig",
+upcoming_payment_for:
+"Abonnement",
+upcoming_payment_date:
+"Datum",
+upcoming_payment_amount:
+"Summe",
+upcoming_payment_subtotal:
+"Zwischensumme",
+upcoming_payments:
+"Nächste Zahlungen",
+order_date:
+"Datum",
+order_status:
+"Status",
+order_total:
+"Summe",
+orders_history:
+"Bestell-Historie",
+orders_history_no_orders:
+"Es wurden bisher keine Bestellungen durchgeführt.",
+orders_fetching_orders:
+"Lade Bestellungen...",
+user_nav_orders:
+"Meine Bestellungen",
+user_nav_subscriptions:
+"Meine Abonnements",
+user_nav_cart:
+"Mein Warenkorb",
+subscriptions_history:
+"Abonnement-Historie",
+subscription_name:
+"Name",
+subscription_amount:
+"Betrag",
+subscription_quantity:
+"Anzahl",
+subscription_total_amount:
+"Summe",
+subscriptions_fetching_subscriptions:
+"Lade Abonnements...",
+subscriptions_fetching_details:
+"Lade Abonnement Details...",
+subscription_no_invoices:
+"Für dieses Abonnement liegen nich keine Rechnungen vor.",
+subscription_plan_name:
+"Plan Name",
+subscription_plan_interval:
+"Plan Interval",
+subscription_invoice_number:
+"Nummer",
+subscription_invoice_date:
+"Datum",
+subscription_invoice_amount:
+"Betrag",
+subscription_invoice_item:
+"Position",
+subscription_invoice_info:
+"Rechnungsdaten",
+subscription_invoice_details:
+"Rechnungdetails",
+subscription_invoice_fetching_details:
+"Lade Rechnungdetails...",
+subscription_invoices_loading:
+"Lade Abonnement-Rechnungen...",
+subscription_invoices_list:
+"Rechnungs-Historie",
+item_out_of_stock:
+"Es tut uns leid, dieser Artikel ist momentan nicht vorrätig.",
+click_here_to_remove_it:
+"Klicken Sie hier um den Artikel vom Warenkorb zu entfernen.",
+outofstock_notification:
+"Es tut uns leid, Artikel in Ihrem Warenkorb sind nicht vorrätig. Bitte überprüfen Sie Ihre Bestellung. Keine Angst, es wurde noch nichts berechnet.",
+plan_amount_per_day:
+"{0} / Tag",
+plan_amount_per_week:
+"{0} / Woche",
+plan_amount_per_month:
+"{0} / Monat",
+plan_amount_per_year:
+"{0} / Jahr",
+plan_days_of_trial:
+"{0} Tage Probe",
+subscription_cancel_button:
+"Dieses Abonnement kündigen",
+subscription_cancel_confirmation:
+"Sind Sie sicher, dass Sie Ihr Abonnement kündigen wollen?",
+subscription_cancel_success:
+"Ihr Abonnement wurde erfolgreich gekündigt.",
+subscription_cancelled_notice:
+"Dieses Abonnement ist inaktiv. Es wurde am {0} gekündigt.",
+subscription_cancelledon:
+"Gekündigt am",
+paypal_express_checkout_link:
+"Mit Paypal bezahlen",
+paypal_express_checkout_title:
+"Mit Paypal bezahlen",
+paypal_express_checkout_explanation:
+"Klicken Sie auf diesen Button, wenn Sie die Bezahlung direkt über PayPal abwickeln möchten.",
+notifications_item_not_added_due_to_max_quantity:
+"Der Artikel wurde nicht hinzugefügt, weil Sie die maximal zulässige Anzahl übersteigen.",
+error_impossible_to_calculate_taxes:
+"Wir konnten keine Steuer für diese Bestellung berechnen. Das kann an einer ungültigen Adresse liegen. Bitte stellen Sie sicher, dass Ihre Adresse eine gültige Postleitzahl enthält."
 });
