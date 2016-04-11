@@ -89,6 +89,8 @@ payment_informations:
 "Payment information",
 payment_informations_bill_me_later:
 "I will pay later",
+payment_informations_no_payment_required:
+"No payment required",
 payment_informations_paypalexpress:
 "Payment with Paypal",
 credit_card_type_mastercard:
