@@ -11,6 +11,8 @@ checkout:
 "Checkout",
 close:
 "Close",
+first_name:
+"First name",
 name:
 "Name",
 company_name:
