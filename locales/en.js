@@ -424,5 +424,11 @@ error_impossible_to_calculate_taxes:
 have_a_promocode_question:
 "Promo code ?",
 order_totals_computing:
-"Calculating taxes..."
+"Calculating taxes...",
+order_validation_failed:
+"We have not been able to validate your order. Looks like some product prices might have changed since you added them to the cart. Please review your order and try again.",
+item_invalid_must_remove:
+"It looks like this item is not available anymore. You may need to contact the merchant to get this resolved as it may be a configuration problem. By continuing this item will be removed from your cart.",
+accept_cart_changes:
+"Accept changes and continue"
 });
