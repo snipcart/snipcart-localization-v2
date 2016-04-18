@@ -58,7 +58,7 @@ continue_shopping:
 my_cart_content: 
 "Handlekurv", 
 shipping_method:
-"Fraktalternativ",
+"Frakt",
 payment_method:
 "Betaling",
 confirm_order:
@@ -128,7 +128,7 @@ cart_items_table_description:
 cart_items_table_quantity:
 "Antall",
 cart_items_table_unit_price:
-"Enhetspris",
+"Pris",
 cart_items_table_total_price:
 "Totalt",
 cart_empty_text:
@@ -158,7 +158,7 @@ login_checkout_as_guest_notice:
 shipping_address_same_as_billing:
 "Bruk samme adresse til levering",
 shipping_method_method_name:
-"Leveringsmetode",
+"Leveringsmåte",
 shipping_method_shipping_price:
 "Fraktkostnad",
 shipping_method_failure_message:
@@ -170,7 +170,7 @@ payment_method_card_holder:
 payment_method_card_type:
 "Korttype",
 payment_method_card_number:
-"Kort nummer",
+"Kortnummer",
 payment_method_card_cvc:
 "CVC", 
 payment_method_card_exp_month:

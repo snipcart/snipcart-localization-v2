@@ -178,7 +178,7 @@ payment_method_card_type:
 payment_method_card_number:
 "Card number",
 payment_method_card_cvc:
-"CSC",
+"CVC",
 payment_method_card_exp_month:
 "Expiration month / year",
 payment_method_card_exp_year:
