@@ -13,6 +13,8 @@ close:
 "Fermer",
 name:
 "Nom",
+first_name:
+"Prénom",
 company_name:
 "Nom de la compagnie",
 share_by_email:

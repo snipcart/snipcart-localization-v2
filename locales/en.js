@@ -15,6 +15,8 @@ first_name:
 "First name",
 name:
 "Name",
+last_name:
+"Last name",
 company_name:
 "Company name",
 share_by_email:
