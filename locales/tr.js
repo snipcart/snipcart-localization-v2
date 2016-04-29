@@ -152,7 +152,7 @@ forgot_password_email_sent_message:
 login_checkout_as_guest:
 "Misafir olarak Satın Al",
 login_checkout_as_guest_notice:
-"At the end of the checkout process, you will be offered the possibility to create an account using the information you entered during the checkout process.",
+"Checkout as a guest if you don't want to create an account for this purchase. Please note that your information won't be saved for your next orders.",
 shipping_address_same_as_billing:
 "Bu adresi taşıma adresi olarak kullan",
 shipping_method_method_name:
