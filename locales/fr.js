@@ -13,6 +13,8 @@ close:
 "Fermer",
 name:
 "Nom",
+first_name:
+"Prénom",
 company_name:
 "Nom de la compagnie",
 share_by_email:
@@ -59,7 +61,7 @@ my_cart_content:
 "Contenu de mon panier",
 shipping_method:
 "Méthode de livraison",
-payment_method: 
+payment_method:
 "Méthode de paiement",
 confirm_order:
 "Confirmation de l'achat",
@@ -416,5 +418,13 @@ paypal_express_checkout_explanation:
 notifications_item_not_added_due_to_max_quantity:
 "Le produit n'a pas pu être ajouté, vous avez déjà le nombre maximal dans votre panier.",
 error_impossible_to_calculate_taxes:
-"Impossible de calculer la taxe pour cette commande, cela peut être causé par une adresse invalide, svp assurez-vous d'avoir entré une adresse et un code postal valide."
+"Impossible de calculer la taxe pour cette commande, cela peut être causé par une adresse invalide, svp assurez-vous d'avoir entré une adresse et un code postal valide.",
+order_totals_computing:
+"Calcul des taxes...",
+order_validation_failed:
+"Nous n'avons pas réussi à valider votre commande. Veuillez vérifier votre panier et réessayer de nouveau.",
+item_invalid_must_remove:
+"Ce produit ne semble plus être disponible. Il peut s'agir d'un problème de configuration. En continuant, cet item sera enlevé de votre panier.",
+accept_cart_changes:
+"Accepter les changement et continuer"
 });
