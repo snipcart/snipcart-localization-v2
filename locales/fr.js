@@ -59,7 +59,7 @@ my_cart_content:
 "Contenu de mon panier",
 shipping_method:
 "Méthode de livraison",
-payment_method: 
+payment_method:
 "Méthode de paiement",
 confirm_order:
 "Confirmation de l'achat",
@@ -416,5 +416,7 @@ paypal_express_checkout_explanation:
 notifications_item_not_added_due_to_max_quantity:
 "Le produit n'a pas pu être ajouté, vous avez déjà le nombre maximal dans votre panier.",
 error_impossible_to_calculate_taxes:
-"Impossible de calculer la taxe pour cette commande, cela peut être causé par une adresse invalide, svp assurez-vous d'avoir entré une adresse et un code postal valide."
+"Impossible de calculer la taxe pour cette commande, cela peut être causé par une adresse invalide, svp assurez-vous d'avoir entré une adresse et un code postal valide.",
+order_totals_computing:
+"Calcul des taxes..."
 });
