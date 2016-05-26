@@ -11,8 +11,12 @@ checkout:
 "Checkout",
 close:
 "Close",
+first_name:
+"First name",
 name:
 "Name",
+last_name:
+"Last name",
 company_name:
 "Company name",
 share_by_email:
@@ -89,6 +93,8 @@ payment_informations:
 "Payment information",
 payment_informations_bill_me_later:
 "I will pay later",
+payment_informations_no_payment_required:
+"No payment required",
 payment_informations_paypalexpress:
 "Payment with Paypal",
 credit_card_type_mastercard:
@@ -156,7 +162,7 @@ forgot_password_email_sent_message:
 login_checkout_as_guest:
 "Checkout as a guest",
 login_checkout_as_guest_notice:
-"At the end of the checkout process, you will be offered the possibility to create an account using the information you entered during the checkout process.",
+"Checkout as a guest if you don't want to create an account for this purchase. Please note that your information won't be saved for your next orders.",
 shipping_address_same_as_billing:
 "Use this address for shipping",
 shipping_method_method_name:
@@ -417,6 +423,14 @@ notifications_item_not_added_due_to_max_quantity:
 "The product has not been added, you already have the maximum quantity in your cart.",
 error_impossible_to_calculate_taxes:
 "We have not been able to calculate taxes for the order, it might be due to an invalid address, please ensure you entered a valid address with a 5 digits ZIP code.",
+have_a_promocode_question:
+"Promo code?",
 order_totals_computing:
-"Calculating taxes..."
+"Calculating taxes...",
+order_validation_failed:
+"We have not been able to validate your order. Looks like some product prices might have changed since you added them to the cart. Please review your order and try again.",
+item_invalid_must_remove:
+"It looks like this item is not available anymore. You may need to contact the merchant to get this resolved as it may be a configuration problem. By continuing this item will be removed from your cart.",
+accept_cart_changes:
+"Accept changes and continue"
 });

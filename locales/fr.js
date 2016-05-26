@@ -13,6 +13,8 @@ close:
 "Fermer",
 name:
 "Nom",
+first_name:
+"Prénom",
 company_name:
 "Nom de la compagnie",
 share_by_email:
@@ -418,5 +420,11 @@ notifications_item_not_added_due_to_max_quantity:
 error_impossible_to_calculate_taxes:
 "Impossible de calculer la taxe pour cette commande, cela peut être causé par une adresse invalide, svp assurez-vous d'avoir entré une adresse et un code postal valide.",
 order_totals_computing:
-"Calcul des taxes..."
+"Calcul des taxes...",
+order_validation_failed:
+"Nous n'avons pas réussi à valider votre commande. Veuillez vérifier votre panier et réessayer de nouveau.",
+item_invalid_must_remove:
+"Ce produit ne semble plus être disponible. Il peut s'agir d'un problème de configuration. En continuant, cet item sera enlevé de votre panier.",
+accept_cart_changes:
+"Accepter les changement et continuer"
 });
