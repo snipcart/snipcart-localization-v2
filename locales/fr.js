@@ -15,6 +15,8 @@ name:
 "Nom",
 first_name:
 "Prénom",
+last_name:
+"Nom",
 company_name:
 "Nom de la compagnie",
 share_by_email:
@@ -93,6 +95,8 @@ payment_informations:
 "Informations de paiement",
 payment_informations_bill_me_later:
 "Je paierai plus tard",
+payment_informations_no_payment_required:
+"Aucun paiement requis",
 payment_informations_paypalexpress:
 "Paiement via Paypal",
 credit_card_type_mastercard:
@@ -419,6 +423,8 @@ notifications_item_not_added_due_to_max_quantity:
 "Le produit n'a pas pu être ajouté, vous avez déjà le nombre maximal dans votre panier.",
 error_impossible_to_calculate_taxes:
 "Impossible de calculer la taxe pour cette commande, cela peut être causé par une adresse invalide, svp assurez-vous d'avoir entré une adresse et un code postal valide.",
+have_a_promocode_question:
+"Code promo?",
 order_totals_computing:
 "Calcul des taxes...",
 order_validation_failed:
