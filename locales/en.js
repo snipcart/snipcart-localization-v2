@@ -187,6 +187,8 @@ payment_method_card_exp_year:
 "Expiration year",
 payment_method_cvc_infos:
 "The CVC is the 3 digits security number behind your credit card, usually at the right of your signature.",
+payment_status:
+"Payment status",
 create_an_account:
 "Create a login",
 why_create_account:
@@ -434,5 +436,35 @@ order_validation_failed:
 item_invalid_must_remove:
 "It looks like this item is not available anymore. You may need to contact the merchant to get this resolved as it may be a configuration problem. By continuing this item will be removed from your cart.",
 accept_cart_changes:
-"Accept changes and continue"
+"Accept changes and continue",
+payment_failed_text:
+"Sorry; we haven’t been able to process your payment. You can continue shopping or try again using the buttons below.",
+payment_method_willbepaidlater:
+"Deferred",
+payment_method_paypal:
+"Paypal",
+payment_method_none:
+"None",
+payment_method_sofort:
+"Sofort",
+payment_method_ideal:
+"Ideal",
+payment_method_mistercash:
+"Mister Cash",
+payment_method_banktransfer:
+"Bank transfer",
+payment_method_directdebit:
+"Direct debit",
+payment_method_belfius:
+"Belfius",
+payment_method_bitcoin:
+"Bitcoin",
+payment_method_podiumcadeaukaart:
+"Podium Cadeau Kaart",
+payment_method_paysafecard:
+"PaySafe card",
+payment_method_bancontact:
+"Bancontact",
+payment_method_creditcard:
+"Credit card"
 });
