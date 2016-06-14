@@ -67,8 +67,16 @@ confirm_order:
 "Confirm order",
 bill_me_later:
 "Bill me later",
+bill_me_later_action:
+"Pay later",
 bill_me_later_explanation:
 "An invoice will be sent to you by email.",
+pay_via_mollie:
+"Choose payment method",
+pay_now_via_mollie:
+"Pay now",
+pay_via_mollie_explanation:
+"You'll be redirected to a list of available payment options.",
 promo_code_applied_successfully:
 "Your Discount has been applied successfully.",
 promo_code_is_invalid:
@@ -270,7 +278,7 @@ send_error:
 message_sent:
 "Message sent, thank you",
 paypalexpress_loading:
-"You will be redirected to Paypal to make the payment soon.",
+"Just a few seconds...",
 paypalexpress_cancelled:
 "You cancelled the transaction, you can either click on the button below to try again or simply continue to shop.",
 retry:
