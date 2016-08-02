@@ -32,7 +32,7 @@ address_1:
 address_2:
 "Adresse 2",
 city:
-"By",
+"Poststed",
 postal_code:
 "Postnummer",
 phone:
@@ -60,9 +60,9 @@ my_cart_content:
 shipping_method:
 "Frakt",
 payment_method:
-"Betaling",
+"Bestill og betal",
 confirm_order:
-"BESTILL OG BETAL",
+"BETAL OG FULLFØR",
 bill_me_later:
 "Betal senere",
 bill_me_later_explanation:
@@ -258,7 +258,7 @@ send_error:
 message_sent:
 "Takk for beskjeden",
 paypalexpress_loading:
-"du blir nå omdirigert til paypal, for å gennemføre betalingen.",
+"Du blir nå omdirigert til paypal, for å gennemføre betalingen.",
 paypalexpress_cancelled:
 "ordren er annullert.",
 retry:
