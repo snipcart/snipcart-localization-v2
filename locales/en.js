@@ -474,5 +474,11 @@ payment_method_paysafecard:
 payment_method_bancontact:
 "Bancontact",
 payment_method_creditcard:
-"Credit card"
+"Credit card",
+error_item_stock_exceeded:
+"Sorry! Your request exceeds the available stock for this item.",
+error_item_out_of_stock_text:
+"Sorry! Looks like this product is not available anymore. We suggest you check out later.",
+item_out_of_stock_with_variant:
+"Sorry! Looks like this variation of the product isn't available anymore. Please select another variation or this item will be removed from the cart."
 });
