@@ -58,9 +58,9 @@ my_cart_content:
 shipping_method:
 "Método de envío",
 payment_method:
-“Forma de pago",
+"Forma de pago",
 confirm_order:
-"Confirmar pedido”,
+"Confirmar pedido",
 bill_me_later:
 "Facturar más tarde",
 bill_me_later_explanation:
@@ -72,7 +72,7 @@ promo_code_is_invalid:
 promo_code_code:
 "¿Tiene código promocional?",
 promo_code_rate_on_order:
-"descuento en el pedido”,
+"descuento en el pedido",
 promo_code_alternate_price:
 "precio especial en productos",
 total:
@@ -172,7 +172,7 @@ payment_method_card_number:
 payment_method_card_cvc:
 "CVC",
 payment_method_card_exp_month:
-“Mes de vencimiento",
+"Mes de vencimiento",
 payment_method_card_exp_year:
 "Año de vencimiento",
 payment_method_cvc_infos:
