@@ -206,7 +206,7 @@ thankyou_message:
 thankyou_submessage:
 "Vous recevrez un courriel de confirmation bientôt",
 account_created_successfully:
-"Comtpe créé avec succès",
+"Compte créé avec succès",
 account_created_successfully_message:
 "Votre compte a été créé avec succès, merci beaucoup.",
 errors_required:
