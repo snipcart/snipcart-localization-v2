@@ -232,7 +232,7 @@ errors_email_does_not_match_reset_password_request:
 errors_reset_password_token_expired:
 "The reset password token has expired.",
 errors_invalid_authentication_infos:
-"Invalid authentication informations",
+"Invalid authentication information",
 error_payment_items_empty:
 "It seems that your order is invalid, please reload the page. Your credit card has not been charged.",
 error_payment_items_are_invalid:
@@ -258,7 +258,7 @@ welcome:
 back:
 "Back",
 order_infos:
-"Order infos",
+"Order info",
 generic_error_title:
 "Oops, an error occured.",
 promocode_deleted_at_checkout:
