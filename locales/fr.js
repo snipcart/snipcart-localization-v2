@@ -432,5 +432,17 @@ order_validation_failed:
 item_invalid_must_remove:
 "Ce produit ne semble plus être disponible. Il peut s'agir d'un problème de configuration. En continuant, cet item sera enlevé de votre panier.",
 accept_cart_changes:
-"Accepter les changement et continuer"
+"Accepter les changement et continuer",
+order_status_processed:
+"Traitée",
+order_status_disputed:
+"Disputée",
+order_status_shipped:
+"Expédiée",
+order_status_delivered:
+"Reçue",
+order_status_pending:
+"En attente",
+order_status_cancelled:
+"Annulée"
 });

@@ -480,5 +480,17 @@ error_item_stock_exceeded:
 error_item_out_of_stock_text:
 "Sorry! Looks like this product is not available anymore. We suggest you check out later.",
 item_out_of_stock_with_variant:
-"Sorry! Looks like this variation of the product isn't available anymore. Please select another variation or this item will be removed from the cart."
+"Sorry! Looks like this variation of the product isn't available anymore. Please select another variation or this item will be removed from the cart.",
+order_status_processed:
+"Processed",
+order_status_disputed:
+"Disputed",
+order_status_shipped:
+"Shipped",
+order_status_delivered:
+"Delivered",
+order_status_pending:
+"Pending",
+order_status_cancelled:
+"Canceled"
 });
