@@ -334,5 +334,9 @@
     orders_history:
     "Mes commandes",
     notifications_item_not_added_due_to_max_quantity:
-    "Le produit n'a pas pu être ajouté, vous avez déjà le nombre maximal dans votre panier."
+    "Le produit n'a pas pu être ajouté, vous avez déjà le nombre maximal dans votre panier.",
+    items_outofstock_cart_notempty:
+    "Certains produits ne sont plus en stock, veuillez valider votre commande avant de continuer.",
+    items_outofstock_cart_empty:
+    "Désolé, il semble que les produits ne soient plus en stock."
 });

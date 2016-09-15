@@ -418,5 +418,9 @@ notifications_item_not_added_due_to_max_quantity:
 error_impossible_to_calculate_taxes:
 "Impossible de calculer la taxe pour cette commande, cela peut être causé par une adresse invalide, svp assurez-vous d'avoir entré une adresse et un code postal valide.",
 order_totals_computing:
-"Calcul des taxes..."
+"Calcul des taxes...",
+items_outofstock_cart_notempty:
+"Certains produits ne sont plus en stock, veuillez valider votre commande avant de continuer.",
+items_outofstock_cart_empty:
+"Désolé, il semble que les produits ne soient plus en stock."
 });
