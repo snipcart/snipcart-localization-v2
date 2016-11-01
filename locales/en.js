@@ -494,7 +494,7 @@ order_status_pending:
 order_status_cancelled:
 "Canceled",
 something_went_wrong_while_fetching_rates:
-"Something went wront while getting shipping rates for your order, the error is: ",
+"Something went wront while getting shipping rates for your order. Please make sure you entered a valid shipping address. The error is: ",
 error_must_select_shipping_rate:
 "You must select shipping method to continue."
 });
