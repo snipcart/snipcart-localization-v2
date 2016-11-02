@@ -81,6 +81,8 @@ promo_code_applied_successfully:
 "Uw korting is toegevoegd.",
 promo_code_is_invalid:
 "De kortingscode is ongeldig.",
+promo_code_is_expired:
+"De kortingscode is ongeldig.",
 promo_code_code:
 "Heeft u een kortingscode?",
 promo_code_rate_on_order:

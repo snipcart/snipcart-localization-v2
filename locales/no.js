@@ -46,7 +46,7 @@ finalize:
 country:
 "Land",
 subtotal:
-"Totalt", 
+"Totalt",
 rebate:
 "Rabatt",
 apply_promo_code:
@@ -55,8 +55,8 @@ my_cart:
 "Handlekurv",
 continue_shopping:
 "Fortsett å handle",
-my_cart_content: 
-"Handlekurv", 
+my_cart_content:
+"Handlekurv",
 shipping_method:
 "Frakt",
 payment_method:
@@ -71,16 +71,18 @@ promo_code_applied_successfully:
 "Rabattkode er godkjent.",
 promo_code_is_invalid:
 "Rabattkode er ugyldig.",
+promo_code_is_expired:
+"Rabattkode er ugyldig.",
 promo_code_code:
 "Har du en rabattkode?",
 promo_code_rate_on_order:
 "Rabatt",
 promo_code_alternate_price:
-"Ny pris", 
+"Ny pris",
 total:
 "Total",
 province_state:
-"Region", 
+"Region",
 billing_address:
 "Betalingsadresse",
 shipping_address:
@@ -146,15 +148,15 @@ login_form_forgot_password_action:
 forgot_password_forgot_your_password:
 "Glemt passord?",
 forgot_password_please_enter_email:
-"Oppgi e-postadressen din i feltet under, så sender vi deg nytt passord.", 
+"Oppgi e-postadressen din i feltet under, så sender vi deg nytt passord.",
 forgot_password_success_email_sent:
 "Email er sendt",
 forgot_password_email_sent_message:
-"Du vil nå motta en mail med instrukser om hvordan du nullstiller passord ditt.", 
+"Du vil nå motta en mail med instrukser om hvordan du nullstiller passord ditt.",
 login_checkout_as_guest:
 "Bestill som gjest",
 login_checkout_as_guest_notice:
-"I slutten av betalingen, kan du velge å lage en bruker.", 
+"I slutten av betalingen, kan du velge å lage en bruker.",
 shipping_address_same_as_billing:
 "Bruk samme adresse til levering",
 shipping_method_method_name:
@@ -162,9 +164,9 @@ shipping_method_method_name:
 shipping_method_shipping_price:
 "Fraktkostnad",
 shipping_method_failure_message:
-"Det var ikke muligt at finde den ønskede levereringsmetode. Venligst tjek om din adresse er rigtig og prøv igen", 
+"Det var ikke muligt at finde den ønskede levereringsmetode. Venligst tjek om din adresse er rigtig og prøv igen",
 shipping_method_failure_click_here_to_edit:
-"Klikk her for å endre leveringsadresse", 
+"Klikk her for å endre leveringsadresse",
 payment_method_card_holder:
 "Navn på kortholder",
 payment_method_card_type:
@@ -172,7 +174,7 @@ payment_method_card_type:
 payment_method_card_number:
 "Kortnummer",
 payment_method_card_cvc:
-"CVC", 
+"CVC",
 payment_method_card_exp_month:
 "Utløpsdato",
 payment_method_card_exp_year:

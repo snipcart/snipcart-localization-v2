@@ -69,6 +69,8 @@
 "ส่วนลดของคุณได้รับการใช้ประสบความสำเร็จ.",
  promo_code_is_invalid:
 "รหัสโปรโมชั่นไม่ถูกต้อง.",
+promo_code_is_expired:
+"รหัสโปรโมชั่นไม่ถูกต้อง.",
  promo_code_code:
 "มีส่วนลดหรือไม่?",
  promo_code_rate_on_order:

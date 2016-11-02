@@ -69,6 +69,8 @@
     "Votre code promo a été appliqué avec succès.",
     promo_code_is_invalid:
     "Le code promo est invalide.",
+    promo_code_is_expired:
+    "Le code promo est expiré.",
     promo_code_code:
     "Codes promos",
     promo_code_rate_on_order:

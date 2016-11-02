@@ -69,6 +69,8 @@ promo_code_applied_successfully:
 "Ваша скидка была успешно применена.",
 promo_code_is_invalid:
 "Неверный код.",
+promo_code_is_expired:
+"Неверный код.",
 promo_code_code:
 "Есть скидка?",
 promo_code_rate_on_order:

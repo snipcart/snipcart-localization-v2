@@ -69,6 +69,8 @@ promo_code_applied_successfully:
 "Descuento aplicado con éxito.",
 promo_code_is_invalid:
 "El código promocional es válido.",
+promo_code_is_expired:
+"El código promocional es válido.",
 promo_code_code:
 "¿Tiene código promocional?",
 promo_code_rate_on_order:

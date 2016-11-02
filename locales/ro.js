@@ -81,6 +81,8 @@ promo_code_applied_successfully:
 "Discountul a fost aplicat cu succes.",
 promo_code_is_invalid:
 "Codul folosit e invalid.",
+promo_code_is_expired:
+"Codul folosit e invalid.",
 promo_code_code:
 "Ai un cod de discount?",
 promo_code_rate_on_order:

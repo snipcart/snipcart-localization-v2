@@ -69,6 +69,8 @@ Snipcart.execute('registerLocale', 'it', {
     "Il codice promozionale è stato applicato con successo.",
     promo_code_is_invalid:
     "Il codice promozionale inserito non è valido.",
+    promo_code_is_expired:
+    "Il codice promozionale inserito non è valido.",
     promo_code_code:
     "Avete uno sconto?",
     promo_code_rate_on_order:

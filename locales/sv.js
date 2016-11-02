@@ -70,6 +70,8 @@ Snipcart.execute('bind', 'app.ready', function() {
  "Din kampanjkod har blivit tillagd",
  promo_code_is_invalid:
  "Kampanjkoden är ogiltig",
+ promo_code_is_expired:
+ "Kampanjkoden är ogiltig",
  promo_code_code:
  "Har du en kampanjkod?",
  promo_code_rate_on_order:

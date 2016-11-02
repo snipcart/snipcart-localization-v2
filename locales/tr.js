@@ -69,6 +69,8 @@ promo_code_applied_successfully:
 "İndirim kodu başarılı bir şekilde uygulanmıştır.",
 promo_code_is_invalid:
 "İndirim kodu geçersiz.",
+promo_code_is_expired:
+"İndirim kodu geçersiz.",
 promo_code_code:
 "İndirim kodunuz mu var?",
 promo_code_rate_on_order:

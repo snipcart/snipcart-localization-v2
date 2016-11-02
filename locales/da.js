@@ -46,7 +46,7 @@ finalize:
 country:
 "Land",
 subtotal:
-"Subtotal", 
+"Subtotal",
 rebate:
 "Rabat",
 apply_promo_code:
@@ -55,8 +55,8 @@ my_cart:
 "Indkøbskurv",
 continue_shopping:
 "Bestil mere",
-my_cart_content: 
-"Indhold i indkøbskurv", 
+my_cart_content:
+"Indhold i indkøbskurv",
 shipping_method:
 "Forsendelse",
 payment_method:
@@ -71,16 +71,18 @@ promo_code_applied_successfully:
 "Din rabatkode er blevet tilføjet.",
 promo_code_is_invalid:
 "Din rabatkode er ugyldig.",
+promo_code_is_expired:
+"Din rabatkode er ugyldig.",
 promo_code_code:
 "Har du en rabatkode?",
 promo_code_rate_on_order:
 "Rabat ved ordren",
 promo_code_alternate_price:
-"Specialpris på produkter", 
+"Specialpris på produkter",
 total:
 "Total",
 province_state:
-"Region", 
+"Region",
 billing_address:
 "Betalingsadresse",
 shipping_address:
@@ -146,15 +148,15 @@ login_form_forgot_password_action:
 forgot_password_forgot_your_password:
 "Glemt password?",
 forgot_password_please_enter_email:
-"Indtast din email. Der vil blive sendt en email, så du kan nulstille dit password.", 
+"Indtast din email. Der vil blive sendt en email, så du kan nulstille dit password.",
 forgot_password_success_email_sent:
 "Email er blevet sendt",
 forgot_password_email_sent_message:
-"Du vil modtage en mail med instrukser om, hvordan du nustiller dit password.", 
+"Du vil modtage en mail med instrukser om, hvordan du nustiller dit password.",
 login_checkout_as_guest:
 "Betal uden at logge ind",
 login_checkout_as_guest_notice:
-"I slutningen af betalingsprocessen, vil du få muligheden for at oprette en konto, med de indtastet informationer.", 
+"I slutningen af betalingsprocessen, vil du få muligheden for at oprette en konto, med de indtastet informationer.",
 shipping_address_same_as_billing:
 "Brug denne adresse til levering",
 shipping_method_method_name:
@@ -162,9 +164,9 @@ shipping_method_method_name:
 shipping_method_shipping_price:
 "Leveringspris",
 shipping_method_failure_message:
-"Det var ikke muligt at finde den ønskede levereringsmetode. Venligst tjek om din adresse er rigtig og prøv igen", 
+"Det var ikke muligt at finde den ønskede levereringsmetode. Venligst tjek om din adresse er rigtig og prøv igen",
 shipping_method_failure_click_here_to_edit:
-"Klik her for at ændre leveringsadresse", 
+"Klik her for at ændre leveringsadresse",
 payment_method_card_holder:
 "Kortholders navn",
 payment_method_card_type:
@@ -172,7 +174,7 @@ payment_method_card_type:
 payment_method_card_number:
 "Kort nummer",
 payment_method_card_cvc:
-"CVC", 
+"CVC",
 payment_method_card_exp_month:
 "Udløbsmåned",
 payment_method_card_exp_year:

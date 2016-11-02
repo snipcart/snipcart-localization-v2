@@ -69,6 +69,8 @@ promo_code_applied_successfully:
 "Η έκπτωση εισήχθη επιτυχώς.",
 promo_code_is_invalid:
 "Ο εκπτωτικός κωδικός δεν είναι σωστός.",
+promo_code_is_expired:
+"Ο εκπτωτικός κωδικός δεν είναι σωστός.",
 promo_code_code:
 "Έχετε κάποια έκπωση?",
 promo_code_rate_on_order:

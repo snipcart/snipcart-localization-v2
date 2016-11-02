@@ -69,6 +69,8 @@ promo_code_applied_successfully:
 "Alennus on laskettu",
 promo_code_is_invalid:
 "Alennuskoodi on väärä",
+promo_code_is_expired:
+"Alennuskoodi on väärä",
 promo_code_code:
 "Alennus",
 promo_code_rate_on_order:

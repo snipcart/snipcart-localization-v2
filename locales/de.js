@@ -69,6 +69,8 @@ promo_code_applied_successfully:
 "Ihr Gutschein wurde erfolgreich eingelöst.",
 promo_code_is_invalid:
 "Ihr Gutschein ist ungültig.",
+promo_code_is_expired:
+"Ihr Gutschein ist ungültig.",
 promo_code_code:
 "Haben Sie einen Gutschein?",
 promo_code_rate_on_order:
