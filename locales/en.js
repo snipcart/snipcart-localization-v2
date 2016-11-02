@@ -81,6 +81,8 @@ promo_code_applied_successfully:
 "Your Discount has been applied successfully.",
 promo_code_is_invalid:
 "The promo code is invalid.",
+promo_code_is_expired:
+"This promo code has expired.",
 promo_code_code:
 "Have a Discount?",
 promo_code_rate_on_order:
