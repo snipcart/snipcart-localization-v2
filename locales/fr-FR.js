@@ -360,5 +360,15 @@
     order_status_pending:
     "En attente",
     order_status_cancelled:
-    "Annulée"
+    "Annulée",
+    plan_amount_per_day:
+    "{0} / jour",
+    plan_amount_per_week:
+    "{0} / semaine",
+    plan_amount_per_month:
+    "{0} / mois",
+    plan_amount_per_year:
+    "{0} / année",
+    plan_days_of_trial:
+    "{0} jour(s) d'essai"
 });
