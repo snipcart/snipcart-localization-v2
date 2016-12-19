@@ -264,7 +264,7 @@ order_infos:
 generic_error_title:
 "Sorry, er is iets fout gegaan.",
 promocode_deleted_at_checkout:
-"De korting die u probeert te gebruiken heeft de limiet bereikt. Sorry voor de teleurstelling.",
+"De korting die u probeert te gebruiken heeft de maximale limiet bereikt. Sorry voor de teleurstelling.",
 continue_shopping:
 "Ga verder met winkelen",
 payment_required_message:
