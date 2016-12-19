@@ -54,7 +54,7 @@ subtotal:
 rebate:
 "korting",
 apply_promo_code:
-"Gebruik kortingscode",
+"Kortingscode toepassen",
 my_cart:
 "Mijn winkelwagen",
 my_cart_content:
@@ -86,7 +86,7 @@ promo_code_is_expired:
 promo_code_code:
 "Heeft u een kortingscode?",
 promo_code_rate_on_order:
-"Korting op dit product",
+"Korting op de bestelling",
 promo_code_alternate_price:
 "Speciale prijzen op producten",
 total:
@@ -142,7 +142,7 @@ cart_items_table_item:
 cart_items_table_description:
 "Beschrijving",
 cart_items_table_quantity:
-"Hoeveelheid",
+"Aantal",
 cart_items_table_unit_price:
 "Productprijs",
 cart_items_table_total_price:
@@ -160,11 +160,11 @@ login_form_login_action:
 login_title:
 "Login",
 login_form_forgot_password_action:
-"Wachtwoord vergeten",
+"Ik ben mijn wachtwoord vergeten",
 forgot_password_forgot_your_password:
 "Uw wachtwoord vergeten?",
 forgot_password_please_enter_email:
-"Vul uw e-mailadres in, we sturen u een e-mail met een unieke link om uw wachtwoord te wijzigen.",
+"Vul uw e-mailadres in, we sturen u een e-mail met een unieke link om uw wachtwoord te herstellen.",
 forgot_password_success_email_sent:
 "E-mail verzonden",
 forgot_password_email_sent_message:
@@ -180,7 +180,7 @@ shipping_method_method_name:
 shipping_method_shipping_price:
 "Verzendkosten",
 shipping_method_failure_message:
-"We hebben geen geldige verzendadres gevonden. Zorg ervoor dat uw adres juist is ingevoerd en probeer opnieuw.",
+"We hebben geen geschikte verzendmethodes gevonden. Zorg ervoor dat uw adres juist is ingevoerd en probeer opnieuw.",
 shipping_method_failure_click_here_to_edit:
 "Klik hier om uw bezorgadres te wijzigen",
 payment_method_card_holder:
@@ -226,7 +226,7 @@ errors_email_must_be_unique:
 errors_both_password_must_match:
 "Beide wachtwoorden moeten hetzelfde zijn",
 errors_email_must_be_valid:
-"het e-mailadres moet juist zijn",
+"Het e-mailadres moet juist zijn",
 errors_email_does_not_match_any_existing_user:
 "Geen accounts gevonden met dit e-mailadres",
 errors_email_does_not_match_reset_password_request:
@@ -234,15 +234,15 @@ errors_email_does_not_match_reset_password_request:
 errors_reset_password_token_expired:
 "De herstel-token is verlopen.",
 errors_invalid_authentication_infos:
-"Ongeldige verificatie code",
+"Ongeldige verificatiegegevens",
 error_payment_items_empty:
-"Het lijkt erop dat uw bestelling ongeldig is, herlaad de pagina. Uw kredietkaart is niet geladen.",
+"Het lijkt erop dat uw bestelling ongeldig is, herlaad de pagina. Er is nog geen betaling aangelsagen op uw creditcard.",
 error_payment_items_are_invalid:
-"We hebben uw bestelling niet kunnen afhandelen. Het lijkt erop dat een product een ongeldige prijs heeft.",
+"We hebben uw bestelling niet kunnen afronden. Het lijkt erop dat een product een ongeldige prijs heeft.",
 error_crawling_failed:
-"Het is ons niet gelukt om uw bestelling te bevestigen, Uw kredietkaart is niet geladen, probeer later opnieuw.",
+"Het is ons niet gelukt om uw bestelling te bevestigen, Er is nog geen betaling aangelsagen op uw creditcard, probeer later opnieuw.",
 error_discounts_have_expired:
-"Helaas is uw kortingscode vervallen tijdens het betaalproces. Kijk uw bestelling na en ga verder.",
+"Helaas is tijdens het bestelproces uw kortingscode verlopen. Kijk uw bestelling na en probeer het opnieuw.",
 powered_by:
 "Mogelijk gemaakt door",
 promocode_rate_format:
@@ -264,7 +264,7 @@ order_infos:
 generic_error_title:
 "Sorry, er is iets fout gegaan.",
 promocode_deleted_at_checkout:
-"De kortingscode die u probeerde te gebruiken heeft de limiet bereikt. Sorry voor de teleurstelling.",
+"De korting die u probeerd te gebruiken heeft de limiet bereikt. Sorry voor de teleurstelling.",
 continue_shopping:
 "Ga verder met winkelen",
 payment_required_message:
@@ -282,7 +282,7 @@ message_sent:
 paypalexpress_loading:
 "Een paar seconden...",
 paypalexpress_cancelled:
-"U heeft de bestlling geannuleerd, u kunt op één van de knoppen hieronder klikken om het opnieuw te proberen of om verder te gaan met winkelen.",
+"U heeft de bestelling geannuleerd, u kunt op één van de knoppen hieronder klikken om het opnieuw te proberen of om verder te gaan met winkelen.",
 retry:
 "Probeer opnieuw",
 error_crawlingfailed_title:
@@ -324,7 +324,7 @@ loading:
 free_shipping:
 "Gratis verzending",
 cart_plans_name:
-"Plan",
+"Abonnement",
 cart_plans_interval:
 "Interval",
 cart_plans_quantity:
@@ -356,7 +356,7 @@ orders_history:
 orders_history_no_orders:
 "U heeft geen bestellingen.",
 orders_fetching_orders:
-"Bestellingen laden...",
+"Bestellingenladen...",
 user_nav_orders:
 "Mijn bestellingen",
 user_nav_subscriptions:
@@ -364,7 +364,7 @@ user_nav_subscriptions:
 user_nav_cart:
 "Mijn winkelwagen",
 subscriptions_history:
-"Mijn abonnementen geschiedenis",
+"Mijn abonnementen",
 subscription_name:
 "Naam",
 subscription_amount:
@@ -380,9 +380,9 @@ subscriptions_fetching_details:
 subscription_no_invoices:
 "Dit abonnement heeft geen facturen.",
 subscription_plan_name:
-"Plan naam",
+"Abonnement naam",
 subscription_plan_interval:
-"Plan tussentijd",
+"Abonnement tussentijd",
 subscription_invoice_number:
 "Factuurnummer",
 subscription_invoice_date:
@@ -494,5 +494,9 @@ order_status_delivered:
 order_status_pending:
 "In behandeling",
 order_status_cancelled:
-"Geannuleerd"
+"Geannuleerd",
+something_went_wrong_while_fetching_rates:
+"Er is iets fout gegaan tijdens het ophalen van de verzendkosten voor uw bestelling. Zorg ervoor dat u een geldig verzendadres ingevoerd heeft. De fout is: ",
+error_must_select_shipping_rate:
+"U moet een verzendmethode selecteren om verder te kunnen gaan."
 });
