@@ -22,7 +22,7 @@ company_name:
 share_by_email:
 "Deel via e-mail",
 email:
-"Emailadres",
+"E-mailadres",
 password:
 "Wachtwoord",
 confirm_password:
@@ -76,7 +76,7 @@ pay_via_mollie:
 pay_now_via_mollie:
 "Afrekenen",
 pay_via_mollie_explanation:
-"Je word doorgewezen naar de pagina met betaalmethodes.",
+"U word doorgestuurd naar de pagina met betaalmethodes.",
 promo_code_applied_successfully:
 "Uw korting is toegevoegd.",
 promo_code_is_invalid:
@@ -114,29 +114,29 @@ credit_card_type_visa:
 credit_card_type_amex:
 "American Express",
 months_january:
-"januari",
+"Januari",
 months_february:
-"februari",
+"Februari",
 months_march:
-"maart",
+"Maart",
 months_april:
-"april",
+"April",
 months_may:
-"mei",
+"Mei",
 months_june:
-"juni",
+"Juni",
 months_july:
-"juli",
+"Juli",
 months_august:
-"augustus",
+"Augustus",
 months_september:
-"september",
+"September",
 months_october:
-"oktober",
+"Oktober",
 months_november:
-"november",
+"November",
 months_december:
-"december",
+"December",
 cart_items_table_item:
 "Product",
 cart_items_table_description:
@@ -148,7 +148,7 @@ cart_items_table_unit_price:
 cart_items_table_total_price:
 "Totaalprijs",
 cart_empty_text:
-"De winkelwagen is leeg. Selecteer eerst producten voor u kunt afrekenen.",
+"De winkelwagen is leeg. Selecteer eerst producten voor u verder kunt met afrekenen.",
 new_account_form_create_new_account:
 "Maak een account",
 new_account_form_create_new_account_action:
@@ -180,7 +180,7 @@ shipping_method_method_name:
 shipping_method_shipping_price:
 "Verzendkosten",
 shipping_method_failure_message:
-"We hebben geen geschikte verzendmethodes gevonden. Zorg ervoor dat uw adres juist is ingevoerd en probeer opnieuw.",
+"We hebben geen geschikte verzendmethodes gevonden. Zorg ervoor dat uw adres juist is ingevoerd en probeer het opnieuw.",
 shipping_method_failure_click_here_to_edit:
 "Klik hier om uw bezorgadres te wijzigen",
 payment_method_card_holder:
@@ -204,7 +204,7 @@ create_an_account:
 why_create_account:
 "Voor een snellere betaling bij uw volgende aankoop, voer een wachtwoord in om een account te maken.",
 reset_password:
-"Stel wachtwoord opnnieuw in",
+"Stel wachtwoord opnieuw in",
 reset_password_success:
 "Wachtwoord (her)instellen geslaagd",
 reset_password_changed:
@@ -212,7 +212,7 @@ reset_password_changed:
 reset_password_click_here_to_login:
 "Klik hier om in te loggen",
 thankyou_message:
-"Bedankt voor uw bestelling! Uw factuur is verzonden naar uw e-mail.",
+"Bedankt voor uw bestelling! Uw factuur is verzonden naar uw e-mailadres.",
 thankyou_submessage:
 "U zult zo dadelijk een bevestigingsmail ontvangen",
 account_created_successfully:
@@ -230,17 +230,17 @@ errors_email_must_be_valid:
 errors_email_does_not_match_any_existing_user:
 "Geen accounts gevonden met dit e-mailadres",
 errors_email_does_not_match_reset_password_request:
-"Uw gebruikers e-mailadres komt niet overeen met het herstel verzoek.",
+"Uw gebruikers e-mailadres komt niet overeen met het herstelverzoek.",
 errors_reset_password_token_expired:
 "De herstel-token is verlopen.",
 errors_invalid_authentication_infos:
 "Ongeldige verificatiegegevens",
 error_payment_items_empty:
-"Het lijkt erop dat uw bestelling ongeldig is, herlaad de pagina. Er is nog geen betaling aangelsagen op uw creditcard.",
+"Het lijkt erop dat uw bestelling ongeldig is, herlaad de pagina. Er is nog geen betaling gedaan via uw creditcard.",
 error_payment_items_are_invalid:
 "We hebben uw bestelling niet kunnen afronden. Het lijkt erop dat een product een ongeldige prijs heeft.",
 error_crawling_failed:
-"Het is ons niet gelukt om uw bestelling te bevestigen, Er is nog geen betaling aangelsagen op uw creditcard, probeer later opnieuw.",
+"Het is ons niet gelukt om uw bestelling te bevestigen, probeer later opnieuw. Er is nog geen betaling gedaan via uw creditcard",
 error_discounts_have_expired:
 "Helaas is tijdens het bestelproces uw kortingscode verlopen. Kijk uw bestelling na en probeer het opnieuw.",
 powered_by:
@@ -264,7 +264,7 @@ order_infos:
 generic_error_title:
 "Sorry, er is iets fout gegaan.",
 promocode_deleted_at_checkout:
-"De korting die u probeerd te gebruiken heeft de limiet bereikt. Sorry voor de teleurstelling.",
+"De korting die u probeert te gebruiken heeft de limiet bereikt. Sorry voor de teleurstelling.",
 continue_shopping:
 "Ga verder met winkelen",
 payment_required_message:
@@ -292,7 +292,7 @@ error_crawling_unreachable:
 error_crawling_product_not_found:
 "Product <strong>{0}</strong> is niet gevonden op <strong>{1}</strong>.",
 error_crawling_price_not_found:
-"Product <strong>{0}</strong> heeft geen vaste prijs op <strong>{1}</strong>, specifieer het met data-item-price.",
+"Product <strong>{0}</strong> heeft geen vaste prijs op <strong>{1}</strong>, specificeer dit met data-item-price.",
 error_crawling_price_doesnot_match:
 "Product <strong>{0}</strong> prijs op <strong>{3}</strong> is <strong>{2}</strong> maar zou <strong>{1}</strong> moeten zijn.",
 error_crawlingfailed_title_test:
@@ -330,7 +330,7 @@ cart_plans_interval:
 cart_plans_quantity:
 "Aantal",
 cart_plans_amount:
-"Hoeveelheid",
+"Bedrag",
 cart_plans_total:
 "Totaal",
 payable_now:
@@ -356,7 +356,7 @@ orders_history:
 orders_history_no_orders:
 "U heeft geen bestellingen.",
 orders_fetching_orders:
-"Bestellingenladen...",
+"Bestellingen laden...",
 user_nav_orders:
 "Mijn bestellingen",
 user_nav_subscriptions:
@@ -370,7 +370,7 @@ subscription_name:
 subscription_amount:
 "Bedrag",
 subscription_quantity:
-"Hoeveelheid",
+"Aantal",
 subscription_total_amount:
 "Totaal",
 subscriptions_fetching_subscriptions:
@@ -382,7 +382,7 @@ subscription_no_invoices:
 subscription_plan_name:
 "Abonnement naam",
 subscription_plan_interval:
-"Abonnement tussentijd",
+"Abonnement interval",
 subscription_invoice_number:
 "Factuurnummer",
 subscription_invoice_date:
@@ -406,7 +406,7 @@ item_out_of_stock:
 click_here_to_remove_it:
 "Klik hier om het product uit uw winkelwagen te verwijderen.",
 outofstock_notification:
-"Sorry, een aantal producten zijn inmiddels niet meer in vooraad tijdens het afrekenen. Bekijk uw bestelling. Wees gerust, u heeft nog niets betaald.",
+"Sorry, een aantal producten zijn inmiddels niet meer in voorraad tijdens het afrekenen. Bekijk uw bestelling. Wees gerust, u heeft nog niets betaald.",
 plan_amount_per_day:
 "{0} / dag",
 plan_amount_per_week:
@@ -436,7 +436,7 @@ paypal_express_checkout_explanation:
 notifications_item_not_added_due_to_max_quantity:
 "Het product is niet toegevoegd, u heeft al het maximaal aantal producten in uw winkelwagen.",
 error_impossible_to_calculate_taxes:
-"We konden geen verzendkosten berekenen, Dat kan veroozaakt worden door een verkeerd adres, weet u zeker dat u een juist adres heeft opgegeven",
+"We konden geen verzendkosten berekenen, Dat kan veroorzaakt worden door een verkeerd adres, weet u zeker dat u een juist adres heeft opgegeven",
 have_a_promocode_question:
 "Kortingscode?",
 order_totals_computing:
@@ -476,9 +476,9 @@ payment_method_paysafecard:
 payment_method_bancontact:
 "Bancontact",
 payment_method_creditcard:
-"krediet kaart",
+"Creditcard",
 error_item_stock_exceeded:
-"Sorry! We hebben dit aantal producten niet op vooraad, stuur een e-mail om een bestelling te plaatsen.",
+"Sorry! We hebben dit aantal producten niet op voorraad, stuur een e-mail om een bestelling te plaatsen.",
 error_item_out_of_stock_text:
 "Sorry! Het lijkt erop dat het product niet meer beschikbaar is, bestel dit product op een ander tijdstip.",
 item_out_of_stock_with_variant:
