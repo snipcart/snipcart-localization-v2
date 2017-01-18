@@ -10,7 +10,7 @@ download_as_pdf:
 checkout:
 "Zur Kasse",
 close:
-"Schliessen",
+"Schließen",
 name:
 "Name",
 company_name:
@@ -68,9 +68,9 @@ bill_me_later_explanation:
 promo_code_applied_successfully:
 "Ihr Gutschein wurde erfolgreich eingelöst.",
 promo_code_is_invalid:
-"Ihr Gutschein ist ungültig.",
+"Dieser Gutscheincode ist ungültig.",
 promo_code_is_expired:
-"Ihr Gutschein ist ungültig.",
+"Dieser Gutscheincode ist abgelaufen.",
 promo_code_code:
 "Haben Sie einen Gutschein?",
 promo_code_rate_on_order:
@@ -86,9 +86,9 @@ province_state:
 billing_address:
 "Rechnungsadresse",
 shipping_address:
-"Versandadresse",
+"Lieferadresse",
 payment_informations:
-"Zahlungsangaben",
+"Zahlung",
 payment_informations_bill_me_later:
 "Ich bezahle später",
 payment_informations_paypalexpress:
@@ -158,17 +158,17 @@ forgot_password_email_sent_message:
 login_checkout_as_guest:
 "Als Gast bezahlen",
 login_checkout_as_guest_notice:
-"Nach dem Abschliessen der Bestellung haben Sie die Möglichkeit, mit den gemachten Angaben einfach ein Konto zu erstellen.",
+"Nach dem Abschließen der Bestellung haben Sie die Möglichkeit, mit den gemachten Angaben einfach ein Konto zu erstellen.",
 shipping_address_same_as_billing:
-"Diese Adresse für den Versand verwenden", // TODO: Needs to be updated -- Is this better? Doesn't say that it is identical to billing adress, but to USE THIS ADRESS
+"Diese Adresse als Lieferadresse verwenden",
 shipping_method_method_name:
 "Versandart",
 shipping_method_shipping_price:
-"Versandpreis",
+"Versandkosten",
 shipping_method_failure_message:
 "Wir konnten keine passende Versandart finden. Bitte stellen Sie sicher, dass Ihre Adresse korrekt ist und versuchen Sie es nochmals.",
 shipping_method_failure_click_here_to_edit:
-"Versandadresse bearbeiten",
+"Lieferadresse bearbeiten",
 payment_method_card_holder:
 "Name auf Karte",
 payment_method_card_type:
@@ -178,11 +178,11 @@ payment_method_card_number:
 payment_method_card_cvc:
 "CVC",
 payment_method_card_exp_month:
-"Ablauf Monat / Jahr",
+"Ablauf Monat",
 payment_method_card_exp_year:
 "Ablauf Jahr",
 payment_method_cvc_infos:
-"Die CVC die 3-stellige Sicherheits-Zahl auf der Rückseite Ihrer Karte, gewöhnlicherweise rechts von Ihrer Unterschrift.",
+"Die CVC die 3-stellige Sicherheits-Zahl auf der Rückseite Ihrer Karte, normalerweise rechts von Ihrer Unterschrift.",
 create_an_account:
 "Konto erstellen",
 why_create_account:
@@ -194,21 +194,21 @@ reset_password_success:
 reset_password_changed:
 "Ihr Passwort wurde geändert.",
 reset_password_click_here_to_login:
-"Hier klicken zum einloggen",
+"Hier klicken zum Einloggen",
 thankyou_message:
-"Herzlichen Dank für Ihre Bestellung!",
+"Vielen Dank für Ihre Bestellung!",
 thankyou_submessage:
 "Wir haben Ihnen eine Bestätigungs-E-Mail geschickt.",
 account_created_successfully:
 "Konto erfolgreich erstellt!",
 account_created_successfully_message:
-"Ihr Konto wurde erfolgreich erstellt, herzlichen Dank.",
+"Ihr Konto wurde erfolgreich erstellt, vielen Dank.",
 errors_required:
-"Das ist ein Pflichtfeld",
+"Dies ist ein Pflichtfeld",
 errors_email_must_be_unique:
 "Ein Benutzer mit der gleichen E-Mail-Adresse ist bereits vorhanden.",
 errors_both_password_must_match:
-"Die Beiden Passwörter müssen identisch sein",
+"Die beiden Passwörter müssen identisch sein",
 errors_email_must_be_valid:
 "Die E-Mail-Adresse muss gültig sein.",
 errors_email_does_not_match_any_existing_user:
@@ -216,15 +216,15 @@ errors_email_does_not_match_any_existing_user:
 errors_email_does_not_match_reset_password_request:
 "Für die angegebene E-Mail-Adresse existiert kein Antrag zur Zurücksetzung des Passworts.",
 errors_reset_password_token_expired:
-"Die Anfrage zur Zurücksetzung des Passworts ist veraltet.",
+"Dieser Link zum Zurücksetzen des Passworts ist abgelaufen.",
 errors_invalid_authentication_infos:
 "Ungültige Identifizierungsangaben",
 error_payment_items_empty:
-"Ihre Bestellung scheint ungültig zu sein. Bitte laden Sie die Seite neu. Ihre Kreditkarte wurde nicht belastet.",
+"Ihre Bestellung scheint ungültig zu sein. Bitte laden Sie die Seite neu. Es wurde keine Zahlung ausgelöst.",
 error_payment_items_are_invalid:
-"Wir konnten Ihre Bestellung nicht abschliessen. Eines der Produkte in Ihrem Warenkorb scheint einen ungültigen Preis zu haben.",
+"Wir konnten Ihre Bestellung nicht abschließen. Eines der Produkte in Ihrem Warenkorb scheint einen ungültigen Preis zu haben.",
 error_crawling_failed:
-"Wir konnten Ihre Bestellung nicht abschliessen. Ihre Kreditkarte wurde nicht belastet. Bitte versuchen Sie es in wenigen Augenblicken nochmal.",
+"Wir konnten Ihre Bestellung nicht abschließen. Ihre Kreditkarte wurde nicht belastet. Bitte versuchen Sie es in wenigen Augenblicken nochmal.",
 powered_by:
 "Powered by",
 promocode_rate_format:
@@ -246,7 +246,7 @@ order_infos:
 generic_error_title:
 "Hoppla, ein Fehler ist aufgetreten!",
 promocode_deleted_at_checkout:
-"Der von Ihnen verwendete Gutschein hat die Maximalzahl an Einlösungen erreicht, während Sie im Bezahlprozess waren. Bitte entschuldigen Sie diese Unanehmlichkeit.",
+"Der von Ihnen verwendete Gutschein hat die Maximalzahl an Einlösungen erreicht, während Sie im Bezahlprozess waren. Bitte entschuldigen Sie diese Unannehmlichkeit.",
 continue_shopping:
 "Einkauf fortsetzen",
 payment_required_message:
@@ -256,11 +256,11 @@ payment_require_title:
 configuration_problem:
 "Konfigurationsfehler",
 additionnal_information:
-"Schreiben Sie uns hier, wenn Sie uns Feedback bzw. mehr Information zu diesem Problem schicken wollen.",
+"Schreiben Sie uns hier, wenn Sie uns Feedback bzw. mehr Information zu diesem Problem senden möchten.",
 send_error:
-"Diesen Fehler an den Webseiten Administrator schicken.",
+"Diesen Fehler an den Webseiten-Administrator senden.",
 message_sent:
-"Die Nachricht wurde geschickt. Danke!",
+"Die Nachricht wurde gesendet. Danke!",
 paypalexpress_loading:
 "Sie werden für die Zahlung zu Paypal weitergeleitet.",
 paypalexpress_cancelled:
@@ -268,7 +268,7 @@ paypalexpress_cancelled:
 retry:
 "Nochmals versuchen",
 error_crawlingfailed_title:
-"Es gab einene Fehler bei der Validierung Ihrer Bestellung. Es wurde kein Geld abgebucht.",
+"Es gab einene Fehler bei der Validierung Ihrer Bestellung. Es wurde keine Zahlung ausgelöst.",
 error_crawling_unreachable:
 "Artikel <strong>{0}</strong> kann unter <strong>{1}</strong> nicht aufgerufen werden. Bitte stellen Sie sicher, dass die URL öffentlich erreichbar ist.",
 error_crawling_product_not_found:
@@ -278,7 +278,7 @@ error_crawling_price_not_found:
 error_crawling_price_doesnot_match:
 "Artikel <strong>{0}</strong> Preis unter <strong>{3}</strong> ist <strong>{2}</strong> , sollte aber <strong>{1}</strong> sein.",
 error_crawlingfailed_title_test:
-"Es gab einene Fehler bei der Validierung Ihrer Bestellung. Es wurde kein Geld abgebucht. Diese Webseite ist derzeit im Testmodus.",
+"Es gab einen Fehler bei der Validierung Ihrer Bestellung. Es wurde keine Zahlung ausgelöst. Diese Webseite ist derzeit im Testmodus.",
 order_completedon:
 "Bestellt am",
 payment_method_status:
@@ -292,23 +292,23 @@ order_transaction_amount:
 order_invoice_number:
 "Rechnungsnummer",
 order_authorization_code:
-"Authorisierungscode",
+"Autorisierungscode",
 item_is_being_added:
-"Artikel wird zum Warenkorb hinzugefügt...",
+"Artikel wird zum Warenkorb hinzugefügt …",
 order_completing_payment:
-"Bestellung wird durchgeführt...",
+"Bestellung wird durchgeführt …",
 calculating_shipping_fees:
-"Versandkosten werden berechnet...",
+"Versandkosten werden berechnet …",
 saving:
-"Speichern...",
+"Speichern …",
 loading:
-"Laden...",
+"Laden …",
 free_shipping:
 "Gratis Versand",
 cart_plans_name:
 "Plan",
 cart_plans_interval:
-"Interval",
+"Intervall",
 cart_plans_quantity:
 "Anzahl",
 cart_plans_amount:
@@ -338,7 +338,7 @@ orders_history:
 orders_history_no_orders:
 "Es wurden bisher keine Bestellungen durchgeführt.",
 orders_fetching_orders:
-"Lade Bestellungen...",
+"Lade Bestellungen …",
 user_nav_orders:
 "Meine Bestellungen",
 user_nav_subscriptions:
@@ -356,11 +356,11 @@ subscription_quantity:
 subscription_total_amount:
 "Summe",
 subscriptions_fetching_subscriptions:
-"Lade Abonnements...",
+"Lade Abonnements …",
 subscriptions_fetching_details:
-"Lade Abonnement Details...",
+"Lade Abonnement Details …",
 subscription_no_invoices:
-"Für dieses Abonnement liegen nich keine Rechnungen vor.",
+"Für dieses Abonnement liegen noch keine Rechnungen vor.",
 subscription_plan_name:
 "Plan Name",
 subscription_plan_interval:
@@ -378,15 +378,15 @@ subscription_invoice_info:
 subscription_invoice_details:
 "Rechnungdetails",
 subscription_invoice_fetching_details:
-"Lade Rechnungdetails...",
+"Lade Rechnungdetails …",
 subscription_invoices_loading:
-"Lade Abonnement-Rechnungen...",
+"Lade Abonnement-Rechnungen …",
 subscription_invoices_list:
 "Rechnungs-Historie",
 item_out_of_stock:
 "Es tut uns leid, dieser Artikel ist momentan nicht vorrätig.",
 click_here_to_remove_it:
-"Klicken Sie hier um den Artikel vom Warenkorb zu entfernen.",
+"Klicken Sie hier um den Artikel aus dem Warenkorb zu entfernen.",
 outofstock_notification:
 "Es tut uns leid, Artikel in Ihrem Warenkorb sind nicht vorrätig. Bitte überprüfen Sie Ihre Bestellung. Keine Angst, es wurde noch nichts berechnet.",
 plan_amount_per_day:
@@ -402,7 +402,7 @@ plan_days_of_trial:
 subscription_cancel_button:
 "Dieses Abonnement kündigen",
 subscription_cancel_confirmation:
-"Sind Sie sicher, dass Sie Ihr Abonnement kündigen wollen?",
+"Sind Sie sicher, dass Sie Ihr Abonnement kündigen möchten?",
 subscription_cancel_success:
 "Ihr Abonnement wurde erfolgreich gekündigt.",
 subscription_cancelled_notice:
@@ -416,7 +416,7 @@ paypal_express_checkout_title:
 paypal_express_checkout_explanation:
 "Klicken Sie auf diesen Button, wenn Sie die Bezahlung direkt über PayPal abwickeln möchten.",
 notifications_item_not_added_due_to_max_quantity:
-"Der Artikel wurde nicht hinzugefügt, weil Sie die maximal zulässige Anzahl übersteigen.",
+"Der Artikel wurde nicht hinzugefügt, weil Sie die maximal zulässige Anzahl überschreiten würden.",
 error_impossible_to_calculate_taxes:
 "Wir konnten keine Steuer für diese Bestellung berechnen. Das kann an einer ungültigen Adresse liegen. Bitte stellen Sie sicher, dass Ihre Adresse eine gültige Postleitzahl enthält."
 });
