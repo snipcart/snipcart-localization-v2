@@ -132,7 +132,7 @@ Snipcart.execute('registerLocale', 'it', {
     cart_items_table_total_price:
     "Prezzo Totale",
     cart_empty_text:
-    "Il tuo carrello è vuoto. Selezionare un prodotto da aquistare prima di ordinare.",
+    "Il tuo carrello è vuoto. Selezionare un prodotto da acquistare prima di ordinare.",
     new_account_form_create_new_account:
     "Crea un account di accesso",
     new_account_form_create_new_account_action:
