@@ -500,5 +500,6 @@ order_status_cancelled:
 something_went_wrong_while_fetching_rates:
 "Something went wrong while getting shipping rates for your order. Please make sure you entered a valid shipping address. The error is: ",
 error_must_select_shipping_rate:
-"You must select shipping method to continue."
+"You must select shipping method to continue.",
+"back_to_orders": "Back to orders"
 });

@@ -446,5 +446,6 @@ order_status_delivered:
 order_status_pending:
 "En attente",
 order_status_cancelled:
-"Annulée"
+"Annulée",
+"back_to_orders": "Retour à la liste des commandes"
 });

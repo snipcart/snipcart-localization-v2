@@ -370,5 +370,6 @@
     plan_amount_per_year:
     "{0} / année",
     plan_days_of_trial:
-    "{0} jour(s) d'essai"
+    "{0} jour(s) d'essai",
+    "back_to_orders": "Retour à la liste des commandes"
 });
