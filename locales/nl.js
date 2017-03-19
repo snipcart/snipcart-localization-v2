@@ -98,7 +98,7 @@ province_state:
 billing_address:
 "Factuuradres",
 shipping_address:
-"Verzendadres",
+"Bezorgadres",
 payment_informations:
 "Betalingsinformatie",
 payment_informations_bill_me_later:
@@ -496,7 +496,7 @@ order_status_pending:
 order_status_cancelled:
 "Geannuleerd",
 something_went_wrong_while_fetching_rates:
-"Er is iets fout gegaan tijdens het ophalen van de verzendkosten voor uw bestelling. Zorg ervoor dat u een geldig verzendadres ingevoerd heeft. De fout is: ",
+"Er is iets fout gegaan tijdens het ophalen van de verzendkosten voor uw bestelling. Zorg ervoor dat u een geldig bezorgadres ingevoerd heeft. De fout is: ",
 error_must_select_shipping_rate:
 "U moet een verzendmethode selecteren om verder te kunnen gaan."
 });
