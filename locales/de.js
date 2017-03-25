@@ -1,4 +1,88 @@
 Snipcart.execute('registerLocale', 'de', {
+first_name:
+"Vorname",
+last_name:
+"Nachname",
+bill_me_later_action:
+"Rede mir spÃ¤tere Handlung",
+pay_via_mollie:
+"Bezahle Ã¼ber mollie",
+pay_now_via_mollie:
+"Bezahl jetzt Ã¼ber mollie",
+pay_via_mollie_explanation:
+"Bezahlung per Mollie ErklÃ¤rung",
+payment_informations_no_payment_required:
+"Keine Zahlung erforderlich",
+payment_status:
+"Zahlungsstatus",
+errors_passwords_dont_match:
+"PasswÃ¶rter stimmen nicht Ã¼berein",
+error_discounts_have_expired:
+"Rabatte sind abgelaufen",
+have_a_promocode_question:
+"Habe eine promocode frage",
+order_totals_computing:
+"Bestellen summen rechnen",
+order_validation_failed:
+"Auftragsvalidierung fehlgeschlagen",
+item_invalid_must_remove:
+"Ein ungÃ¼ltiges Element entfernen",
+accept_cart_changes:
+"Akzeptiere Wagenwechsel",
+payment_failed_text:
+"Zahlung fehlgeschlagener Text",
+payment_method_willbepaidlater:
+"Willbepaidlater",
+payment_method_paypal:
+"Paypal",
+payment_method_none:
+"Keine Zahlungsmethode",
+payment_method_sofort:
+"Sofort",
+payment_method_ideal:
+"Ideal",
+payment_method_mistercash:
+"Mistercash",
+payment_method_banktransfer:
+"Banktransfer",
+payment_method_directdebit:
+"Directdebit",
+payment_method_belfius:
+"Belfius",
+payment_method_bitcoin:
+"Bitcoin",
+payment_method_podiumcadeaukaart:
+"Podiumcadeaukaart",
+payment_method_paysafecard:
+"Paysafecard",
+payment_method_bancontact:
+"Bancontact",
+payment_method_creditcard:
+"Kreditkarte",
+error_item_stock_exceeded:
+"Artikelbestand Ã¼berschritten",
+error_item_out_of_stock_text:
+"Artikel nicht auf Lager",
+item_out_of_stock_with_variant:
+"Artikel nicht auf Lager",
+order_status_processed:
+"Verarbeitet",
+order_status_disputed:
+"Umstritten",
+order_status_shipped:
+"Versendet",
+order_status_delivered:
+"Geliefert",
+order_status_pending:
+"Steht aus",
+order_status_cancelled:
+"Abgebrochen",
+something_went_wrong_while_fetching_rates:
+"Etwas schief gegangen beim Abrufen von Raten",
+error_must_select_shipping_rate:
+"Muss die Versandrate auswÃ¤hlen",
+back_to_orders:
+"ZurÃ¼ck zu Bestellungen",
 yes:
 "Ja",
 no:
