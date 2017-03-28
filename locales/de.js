@@ -4,35 +4,35 @@ first_name:
 last_name:
 "Nachname",
 bill_me_later_action:
-"Rede mir spÃ¤tere Handlung",
+"Später bezahlen",
 pay_via_mollie:
-"Bezahle Ã¼ber mollie",
+"Mit mollie bezahlen",
 pay_now_via_mollie:
-"Bezahl jetzt Ã¼ber mollie",
+"Jetzt mit mollie bezahlen",
 pay_via_mollie_explanation:
-"Bezahlung per Mollie ErklÃ¤rung",
+"Sie werden zu einer Liste mit verfügbaren Zahlungsoptionen weitergeleitet.",
 payment_informations_no_payment_required:
 "Keine Zahlung erforderlich",
 payment_status:
 "Zahlungsstatus",
 errors_passwords_dont_match:
-"PasswÃ¶rter stimmen nicht Ã¼berein",
+"Passwörter stimmen nicht überein",
 error_discounts_have_expired:
 "Rabatte sind abgelaufen",
 have_a_promocode_question:
-"Habe eine promocode frage",
+"Haben Sie einen Promo Code?",
 order_totals_computing:
-"Bestellen summen rechnen",
+"Berechne Total...",
 order_validation_failed:
-"Auftragsvalidierung fehlgeschlagen",
+"Wir konnten Ihre Bestellung nicht bestätigen. Es sieht aus, also wurden Prouduktpreise geändert, seit Sie den Artikel in den Warenkorb gelegt haben. Bitte überprüfen Sie Ihre Bestellung und versuchen Sie es erneut.",
 item_invalid_must_remove:
-"Ein ungÃ¼ltiges Element entfernen",
+"Es sieht aus als ob dieser Artikel nicht mehr verfügbar ist. Kontaktieren Sie den Shop-Betrieben und informieren Sie Ihn über dieses Problem. Wenn Sie fortfahren, wird dieser Artikel aus dem Warenkorb entfernt.",
 accept_cart_changes:
-"Akzeptiere Wagenwechsel",
+"Akzeptiere Korrekturen und fahre fort",
 payment_failed_text:
-"Zahlung fehlgeschlagener Text",
+"Sorry, wir konnte Ihre Bezahlung nicht verarbeiten. Sie können weiter shoppen oder es noch einmal versuchen.",
 payment_method_willbepaidlater:
-"Willbepaidlater",
+"Wird später bezahlt",
 payment_method_paypal:
 "Paypal",
 payment_method_none:
@@ -52,23 +52,23 @@ payment_method_belfius:
 payment_method_bitcoin:
 "Bitcoin",
 payment_method_podiumcadeaukaart:
-"Podiumcadeaukaart",
+"Podium Cadeau Kaart",
 payment_method_paysafecard:
-"Paysafecard",
+"PaySafe card",
 payment_method_bancontact:
 "Bancontact",
 payment_method_creditcard:
 "Kreditkarte",
 error_item_stock_exceeded:
-"Artikelbestand Ã¼berschritten",
+"Sorry! Die gewünschte Artikelanzahl ist nicht mehr an Lager.",
 error_item_out_of_stock_text:
-"Artikel nicht auf Lager",
+"Sorry! Dieser Artikel ist nicht mehr an Lager. Bitte versuchen Sie es später wieder.",
 item_out_of_stock_with_variant:
-"Artikel nicht auf Lager",
+"Sorry! Diese Artikelvariante ist nicht mehr an Lager. Bitte wählen Sie eine andere Variante aus oder dieser Artikel wird aus dem Warenkorb entfernt.",
 order_status_processed:
 "Verarbeitet",
 order_status_disputed:
-"Umstritten",
+"Reklamiert",
 order_status_shipped:
 "Versendet",
 order_status_delivered:
@@ -78,11 +78,11 @@ order_status_pending:
 order_status_cancelled:
 "Abgebrochen",
 something_went_wrong_while_fetching_rates:
-"Etwas schief gegangen beim Abrufen von Raten",
+"Beim Berechnen des Versandpreises für Ihre Bestellung ist ein Fehler aufgetreten. Bitte überprüfen Sie die angegebene Versandadresse. Der Fehler ist:",
 error_must_select_shipping_rate:
-"Muss die Versandrate auswÃ¤hlen",
+"Sie müssen eine Versandmethode auswählen um fortzufahren.",
 back_to_orders:
-"ZurÃ¼ck zu Bestellungen",
+"Zurück zu den Bestellungen",
 yes:
 "Ja",
 no:
