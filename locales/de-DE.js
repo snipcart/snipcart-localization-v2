@@ -182,7 +182,7 @@ payment_method_card_exp_month:
 payment_method_card_exp_year:
 "Ablauf Jahr",
 payment_method_cvc_infos:
-"Die CVC die 3-stellige Sicherheits-Zahl auf der Rückseite Ihrer Karte, normalerweise rechts von Ihrer Unterschrift.",
+"Die CVC ist die 3-stellige Sicherheits-Zahl auf der Rückseite Ihrer Karte, normalerweise rechts von Ihrer Unterschrift.",
 create_an_account:
 "Konto erstellen",
 why_create_account:
