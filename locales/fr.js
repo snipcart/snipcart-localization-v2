@@ -315,6 +315,8 @@ cart_plans_name:
 "Forfait",
 cart_plans_interval:
 "Récurrence",
+cart_plans_interval_count:
+"Fréquence",
 cart_plans_quantity:
 "Quantité",
 cart_plans_amount:
@@ -370,7 +372,9 @@ subscription_no_invoices:
 subscription_plan_name:
 "Nom de l'abonnement",
 subscription_plan_interval:
-"Fréquence",
+"Intervalle de plan",
+subscription_plan_interval_count:
+"Fréquece d'intervalle de plan"
 subscription_invoice_number:
 "No. de facture de l'abonnement",
 subscription_invoice_date:
@@ -403,6 +407,14 @@ plan_amount_per_month:
 "{0} / mois",
 plan_amount_per_year:
 "{0} / année",
+plan_amount_per_day_plural:
+"{0} / {1} jours",
+plan_amount_per_week_plural:
+"{0} / {1} semaines",
+plan_amount_per_month_plural:
+"{0} / {1} mois",
+plan_amount_per_year_plural:
+"{0} / {1} ans",
 plan_days_of_trial:
 "{0} jour(s) d'essai",
 subscription_cancel_button:

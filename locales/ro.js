@@ -327,6 +327,8 @@ cart_plans_name:
 "Plan",
 cart_plans_interval:
 "Interval",
+cart_plans_interval_count:
+"Contele",
 cart_plans_quantity:
 "Cantitate",
 cart_plans_amount:
@@ -383,6 +385,8 @@ subscription_plan_name:
 "Nume abonament",
 subscription_plan_interval:
 "Interval abonament",
+subscription_plan_interval_count:
+"Contele de interval planul",
 subscription_invoice_number:
 "Număr",
 subscription_invoice_date:
@@ -415,6 +419,14 @@ plan_amount_per_month:
 "{0} / lună",
 plan_amount_per_year:
 "{0} / an",
+plan_amount_per_day_plural:
+"{0} / {1} zile",
+plan_amount_per_week_plural:
+"{0} / {1} saptamani",
+plan_amount_per_month_plural:
+"{0} / {1} luni",
+plan_amount_per_year_plural:
+"{0} / {1} ani",
 plan_days_of_trial:
 "{0} zile probă",
 subscription_cancel_button:

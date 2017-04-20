@@ -298,5 +298,29 @@ calculating_shipping_fees:
 saving:
 "Guardando...",
 loading:
-"Cargando..."
+"Cargando...",
+cart_plans_interval:
+"Intervalo",
+cart_plans_interval_count:
+"Contar",
+subscription_plan_interval:
+"Intervalo de plan",
+subscription_plan_interval_count:
+"Plan intervalo cuenta",
+plan_amount_per_day:
+"{0} / dia",
+plan_amount_per_week:
+"{0} / semana",
+plan_amount_per_month:
+"{0} / mes",
+plan_amount_per_year:
+"{0} / ano",
+plan_amount_per_day_plural:
+"{0} / {1} dias",
+plan_amount_per_week_plural:
+"{0} / {1} sermanas",
+plan_amount_per_month_plural:
+"{0} / {1} meces",
+plan_amount_per_year_plural:
+"{0} / {1} anos"
 });

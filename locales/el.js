@@ -309,6 +309,8 @@ cart_plans_name:
 "Σχέδιο",
 cart_plans_interval:
 "Διάστημα",
+cart_plans_interval_count:
+"καταμέτρηση",
 cart_plans_quantity:
 "Ποσότητα",
 cart_plans_amount:
@@ -365,6 +367,8 @@ subscription_plan_name:
 "Όνομα Σχεδίου",
 subscription_plan_interval:
 "Διάστημα Σχεδίου",
+subscription_plan_interval_count:
+"καταμέτρηση διάστημα σχέδιο",
 subscription_invoice_number:
 "Αριθμός",
 subscription_invoice_date:
@@ -397,6 +401,15 @@ plan_amount_per_month:
 "{0} / μήνα",
 plan_amount_per_year:
 "{0} / χρόνο",
+plan_amount_per_day_plural:
+"{0} / {1} ημέρες",
+plan_amount_per_week_plural:
+"{0} / {1} εβδομάδες",
+plan_amount_per_month_plural:
+"{0} / {1} μήνες",
+plan_amount_per_year_plural:
+"{0} / {1} ετών",
+
 plan_days_of_trial:
 "{0} ημέρες δοκιμαστικού",
 subscription_cancel_button:

@@ -300,5 +300,29 @@ Snipcart.execute('registerLocale', 'it', {
     loading:
     "Caricamento...",
     free_shipping:
-    "Spedizione gratuita"
+    "Spedizione gratuita",
+    cart_plans_interval:
+    "Intervallo",
+    cart_plans_interval_count:
+    "Conteggio",
+    subscription_plan_interval:
+    "Intervallo di piano",
+    subscription_plan_interval_count:
+    "piano intervallo conteggio",
+    plan_amount_per_day:
+    "{0} / giorno",
+    plan_amount_per_week:
+    "{0} / settimana",
+    plan_amount_per_month:
+    "{0} / mese",
+    plan_amount_per_year:
+    "{0} / anno",
+    plan_amount_per_day_plural:
+    "{0} / {1} giorni",
+    plan_amount_per_week_plural:
+    "{0} / {1} settimane",
+    plan_amount_per_month_plural:
+    "{0} / {1} mesi",
+    plan_amount_per_year_plural:
+    "{0} / {1} anni"
 });

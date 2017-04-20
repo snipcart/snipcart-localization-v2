@@ -306,9 +306,11 @@ loading:
 free_shipping:
 "Ilmainen toimitus",
 cart_plans_name:
-"Plan",
+"Suunnitelma",
 cart_plans_interval:
-"Interval",
+"Aikaväli",
+cart_plans_interval_count:
+"Määrä",
 cart_plans_quantity:
 "Määrä",
 cart_plans_amount:
@@ -362,9 +364,11 @@ subscriptions_fetching_details:
 subscription_no_invoices:
 "Tilausta ei ole vielä laskutettu.",
 subscription_plan_name:
-"Plan name",
+"Suunnitelman nimi",
 subscription_plan_interval:
-"Plan interval",
+"Suunnitelma aikaväli",
+subscription_plan_interval_count:
+"Suunnitelma väli määrä",
 subscription_invoice_number:
 "Numero",
 subscription_invoice_date:
@@ -397,6 +401,14 @@ plan_amount_per_month:
 "{0} / kuukausi",
 plan_amount_per_year:
 "{0} / vuosi",
+plan_amount_per_day_plural:
+"{0} / {1} paivaa",
+plan_amount_per_week_plural:
+"{0} / {1} viikon",
+plan_amount_per_month_plural:
+"{0} / {1} kuukauden",
+plan_amount_per_year_plural:
+"{0} / {1} vuotta",
 plan_days_of_trial:
 "{0} päivän testiaika",
 subscription_cancel_button:

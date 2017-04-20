@@ -327,6 +327,8 @@ cart_plans_name:
 "Plan",
 cart_plans_interval:
 "Interval",
+cart_plans_interval_count:
+"Počet",
 cart_plans_quantity:
 "Quantity",
 cart_plans_amount:
@@ -383,6 +385,8 @@ subscription_plan_name:
 "Plan name",
 subscription_plan_interval:
 "Plan interval",
+subscription_plan_interval_count:
+"Plán interval počítať",
 subscription_invoice_number:
 "Number",
 subscription_invoice_date:
@@ -408,13 +412,21 @@ click_here_to_remove_it:
 outofstock_notification:
 "We are sorry, some of the items in your cart went out of stock during your checkout. Please review your order. Don't worry, your card has not been charged.",
 plan_amount_per_day:
-"{0} / day",
+"{0} / deň",
 plan_amount_per_week:
-"{0} / week",
+"{0} / týždeň",
 plan_amount_per_month:
-"{0} / month",
+"{0} / mesiac",
 plan_amount_per_year:
-"{0} / year",
+"{0} / rok",
+plan_amount_per_day_plural:
+"{0} / {1} dní",
+plan_amount_per_week_plural:
+"{0} / {1} týždňov",
+plan_amount_per_month_plural:
+"{0} / {1} mesiacov",
+plan_amount_per_year_plural:
+"{0} / {1} rokov",
 plan_days_of_trial:
 "{0} days trial",
 subscription_cancel_button:

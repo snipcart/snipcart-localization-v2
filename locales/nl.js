@@ -327,6 +327,8 @@ cart_plans_name:
 "Abonnement",
 cart_plans_interval:
 "Interval",
+cart_plans_interval_count:
+"graaf",
 cart_plans_quantity:
 "Aantal",
 cart_plans_amount:
@@ -380,9 +382,9 @@ subscriptions_fetching_details:
 subscription_no_invoices:
 "Dit abonnement heeft geen facturen.",
 subscription_plan_name:
-"Abonnement naam",
+"Plan interval",
 subscription_plan_interval:
-"Abonnement interval",
+"Plan interval graaf",
 subscription_invoice_number:
 "Factuurnummer",
 subscription_invoice_date:
@@ -415,6 +417,14 @@ plan_amount_per_month:
 "{0} / maand",
 plan_amount_per_year:
 "{0} / jaar",
+plan_amount_per_day_plural:
+"{0} / {1} dagen",
+plan_amount_per_week_plural:
+"{0} / {1} weken",
+plan_amount_per_month_plural:
+"{0} / {1} maanden",
+plan_amount_per_year_plural:
+"{0} / {1} jaar",
 plan_days_of_trial:
 "{0} dag proefperiode",
 subscription_cancel_button:

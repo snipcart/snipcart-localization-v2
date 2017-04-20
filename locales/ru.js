@@ -309,6 +309,8 @@ cart_plans_name:
 "Список",
 cart_plans_interval:
 "Перерыв",
+cart_plans_interval_count:
+"расчитывать",
 cart_plans_quantity:
 "Количество",
 cart_plans_amount:
@@ -365,6 +367,8 @@ subscription_plan_name:
 "Имя списка",
 subscription_plan_interval:
 "Промежуток списка",
+subscription_plan_interval_count:
+"план интервал фото",
 subscription_invoice_number:
 "Номер",
 subscription_invoice_date:
@@ -390,13 +394,21 @@ click_here_to_remove_it:
 outofstock_notification:
 "К сожалению некоторые из пунктов в вашей корзине закончились на складе во время оформления заказа.  Пожалуйста проверьте заказ.  Не волнуйтесь ваша карта не была заряжена.",
 plan_amount_per_day:
-"{0} / day",
+"{0} / днём",
 plan_amount_per_week:
-"{0} / week",
+"{0} / неделя",
 plan_amount_per_month:
-"{0} / month",
+"{0} / месяц",
 plan_amount_per_year:
-"{0} / year",
+"{0} / год",
+plan_amount_per_day_plural:
+"{0} / {1} дней",
+plan_amount_per_week_plural:
+"{0} / {1} недели",
+plan_amount_per_month_plural:
+"{0} / {1} месяцев",
+plan_amount_per_year_plural:
+"{0} / {1} годы",
 plan_days_of_trial:
 "{0} days trial",
 subscription_cancel_button:

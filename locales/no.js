@@ -290,5 +290,29 @@ order_transaction_amount:
 order_invoice_number:
 "Fakturanummer",
 order_authorization_code:
-"Autorisasjonskode"
+"Autorisasjonskode",
+cart_plans_interval:
+"Intervall",
+cart_plans_interval_count:
+"Teller",
+subscription_plan_interval:
+"Planen intervall",
+subscription_plan_interval_count:
+"Planen intervall teller",
+plan_amount_per_day:
+"{0} / dag",
+plan_amount_per_week:
+"{0} / uke",
+plan_amount_per_month:
+"{0} / måned",
+plan_amount_per_year:
+"{0} / år",
+plan_amount_per_day_plural:
+"{0} / {1} dager",
+plan_amount_per_week_plural:
+"{0} / {1} uker",
+plan_amount_per_month_plural:
+"{0} / {1} neder",
+plan_amount_per_year_plural:
+"{0} / {1} år"
 });

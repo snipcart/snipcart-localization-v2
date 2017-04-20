@@ -309,6 +309,8 @@ cart_plans_name:
 "Plan",
 cart_plans_interval:
 "Intervall",
+cart_plans_interval_count:
+"rechnen",
 cart_plans_quantity:
 "Anzahl",
 cart_plans_amount:
@@ -364,7 +366,9 @@ subscription_no_invoices:
 subscription_plan_name:
 "Plan Name",
 subscription_plan_interval:
-"Plan Interval",
+"Plan-Intervall",
+subscription_plan_interval_count:
+"Plan-Intervall Graf",
 subscription_invoice_number:
 "Nummer",
 subscription_invoice_date:
@@ -397,6 +401,15 @@ plan_amount_per_month:
 "{0} / Monat",
 plan_amount_per_year:
 "{0} / Jahr",
+plan_amount_per_day_plural:
+"{0} / {1} Tagen",
+plan_amount_per_week_plural:
+"{0} / {1} wochen",
+plan_amount_per_month_plural:
+"{0} / {1} Monate",
+plan_amount_per_year_plural:
+"{0} / {1} Jahre",
+
 plan_days_of_trial:
 "{0} Tage Probe",
 subscription_cancel_button:
