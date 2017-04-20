@@ -289,4 +289,28 @@ order_invoice_number:
 "Fatura numarası",
 order_authorization_code:
 "Yetki kodu",
+cart_plans_interval:
+"Aralığı",
+cart_plans_interval_count:
+"Sayısı",
+subscription_plan_interval:
+"plan aralığı",
+subscription_plan_interval_count:
+"planı Aralık sayısı",
+plan_amount_per_day:
+"{0} / gün",
+plan_amount_per_week:
+"{0} / hafta",
+plan_amount_per_month:
+"{0} / ay",
+plan_amount_per_year:
+"{0} / sene",
+plan_amount_per_day_plural:
+"{0} / {1} gün",
+plan_amount_per_week_plural:
+"{0} / {1} hafta",
+plan_amount_per_month_plural:
+"{0} / {1} ay",
+plan_amount_per_year_plural:
+"{0} / {1} yıl"
 });

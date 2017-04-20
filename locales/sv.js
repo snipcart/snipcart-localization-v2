@@ -305,6 +305,6 @@ Snipcart.execute('bind', 'app.ready', function() {
   plan_amount_per_month_plural:
   "{0} / {1} månader",
   plan_amount_per_year_plural:
-  "{0} / {1} år",
+  "{0} / {1} år"
   });
 });

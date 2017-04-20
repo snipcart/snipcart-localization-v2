@@ -299,5 +299,29 @@ promo_code_is_expired:
  saving:
 "ออมทรัพย์ ... ",
  loading:
-"กำลังโหลด ... "
+"กำลังโหลด ... ",
+cart_plans_interval:
+"ช่วง",
+cart_plans_interval_count:
+"จำนวน",
+subscription_plan_interval:
+"ช่วงแผน",
+subscription_plan_interval_count:
+"จำนวนช่วงเวลาของแผน",
+plan_amount_per_day:
+"{0} / วัน",
+plan_amount_per_week:
+"{0} / สัปดาห์",
+plan_amount_per_month:
+"{0} / เดือน",
+plan_amount_per_year:
+"{0} / ปี",
+plan_amount_per_day_plural:
+"{0} / {1} วัน",
+plan_amount_per_week_plural:
+"{0} / {1} สัปดาห์ที่ผ่านมา",
+plan_amount_per_month_plural:
+"{0} / {1} เดือน",
+plan_amount_per_year_plural:
+"{0} / {1} ปี"
 });

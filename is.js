@@ -327,6 +327,8 @@ cart_plans_name:
 "Tegund",
 cart_plans_interval:
 "Tímabil",
+cart_plans_interval_count:
+"telja",
 cart_plans_quantity:
 "Magn",
 cart_plans_amount:
@@ -383,6 +385,8 @@ subscription_plan_name:
 "Áskrift",
 subscription_plan_interval:
 "Áskriftartímabil",
+subscription_plan_interval_count:
+"áætlun millibils telja",
 subscription_invoice_number:
 "Númer",
 subscription_invoice_date:
@@ -415,6 +419,14 @@ plan_amount_per_month:
 "{0} / á mánuði",
 plan_amount_per_year:
 "{0} / á ári",
+plan_amount_per_day_plural:
+"{0} / {1} dagar",
+plan_amount_per_week_plural:
+"{0} / {1} vikur",
+plan_amount_per_month_plural:
+"{0} / {1} mánuðum",
+plan_amount_per_year_plural:
+"{0} / {1} ár",
 plan_days_of_trial:
 "{0} daga til reynslu",
 subscription_cancel_button:
