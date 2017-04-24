@@ -374,7 +374,7 @@ subscription_plan_name:
 subscription_plan_interval:
 "Intervalle de plan",
 subscription_plan_interval_count:
-"Fréquece d'intervalle de plan"
+"Fréquence d'intervalle de plan",
 subscription_invoice_number:
 "No. de facture de l'abonnement",
 subscription_invoice_date:
