@@ -1,4 +1,88 @@
 Snipcart.execute('registerLocale', 'de-DE', {
+first_name:
+"Vorname",
+last_name:
+"Nachname",
+bill_me_later_action:
+"Später bezahlen",
+pay_via_mollie:
+"Mit mollie bezahlen",
+pay_now_via_mollie:
+"Jetzt mit mollie bezahlen",
+pay_via_mollie_explanation:
+"Sie werden zu einer Liste mit verfügbaren Zahlungsoptionen weitergeleitet.",
+payment_informations_no_payment_required:
+"Keine Zahlung erforderlich",
+payment_status:
+"Zahlungsstatus",
+errors_passwords_dont_match:
+"Passwörter stimmen nicht überein",
+error_discounts_have_expired:
+"Rabatte sind abgelaufen",
+have_a_promocode_question:
+"Haben Sie einen Promo Code?",
+order_totals_computing:
+"Berechne Total...",
+order_validation_failed:
+"Wir konnten Ihre Bestellung nicht bestätigen. Es sieht aus, also wurden Prouduktpreise geändert, seit Sie den Artikel in den Warenkorb gelegt haben. Bitte überprüfen Sie Ihre Bestellung und versuchen Sie es erneut.",
+item_invalid_must_remove:
+"Es sieht aus als ob dieser Artikel nicht mehr verfügbar ist. Kontaktieren Sie den Shop-Betrieben und informieren Sie Ihn über dieses Problem. Wenn Sie fortfahren, wird dieser Artikel aus dem Warenkorb entfernt.",
+accept_cart_changes:
+"Akzeptiere Korrekturen und fahre fort",
+payment_failed_text:
+"Sorry, wir konnte Ihre Bezahlung nicht verarbeiten. Sie können weiter shoppen oder es noch einmal versuchen.",
+payment_method_willbepaidlater:
+"Wird später bezahlt",
+payment_method_paypal:
+"Paypal",
+payment_method_none:
+"Keine Zahlungsmethode",
+payment_method_sofort:
+"Sofort",
+payment_method_ideal:
+"Ideal",
+payment_method_mistercash:
+"Mistercash",
+payment_method_banktransfer:
+"Banktransfer",
+payment_method_directdebit:
+"Directdebit",
+payment_method_belfius:
+"Belfius",
+payment_method_bitcoin:
+"Bitcoin",
+payment_method_podiumcadeaukaart:
+"Podium Cadeau Kaart",
+payment_method_paysafecard:
+"PaySafe card",
+payment_method_bancontact:
+"Bancontact",
+payment_method_creditcard:
+"Kreditkarte",
+error_item_stock_exceeded:
+"Sorry! Die gewünschte Artikelanzahl ist nicht mehr an Lager.",
+error_item_out_of_stock_text:
+"Sorry! Dieser Artikel ist nicht mehr an Lager. Bitte versuchen Sie es später wieder.",
+item_out_of_stock_with_variant:
+"Sorry! Diese Artikelvariante ist nicht mehr an Lager. Bitte wählen Sie eine andere Variante aus oder dieser Artikel wird aus dem Warenkorb entfernt.",
+order_status_processed:
+"Verarbeitet",
+order_status_disputed:
+"Reklamiert",
+order_status_shipped:
+"Versendet",
+order_status_delivered:
+"Geliefert",
+order_status_pending:
+"Steht aus",
+order_status_cancelled:
+"Abgebrochen",
+something_went_wrong_while_fetching_rates:
+"Beim Berechnen des Versandpreises für Ihre Bestellung ist ein Fehler aufgetreten. Bitte überprüfen Sie die angegebene Versandadresse. Der Fehler ist:",
+error_must_select_shipping_rate:
+"Sie müssen eine Versandmethode auswählen um fortzufahren.",
+back_to_orders:
+"Zurück zu den Bestellungen",
 yes:
 "Ja",
 no:
