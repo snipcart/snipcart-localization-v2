@@ -357,8 +357,10 @@ order_total:
 "Total",
 orders_history:
 "My orders",
+subscriptions_history_no_subscriptions:
+"You don't have any subscriptions yet.",
 orders_history_no_orders:
-"You don't actually have any orders.",
+"You don't have any orders yet.",
 orders_fetching_orders:
 "Loading your orders...",
 user_nav_orders:
@@ -513,5 +515,12 @@ something_went_wrong_while_fetching_rates:
 "We have not been able to find any shipping methods for the address you specified. Contact us directly if you need help regarding this.",
 error_must_select_shipping_rate:
 "You must select shipping method to continue.",
-"back_to_orders": "Back to orders"
+back_to_orders: 
+"Back to orders",
+manage_subscriptions: 
+"Manage subscriptions",
+back_to_subscriptions_list:
+"Back to subscriptions list",
+back_to_subscription_details:
+"Back to subscription details"
 });
