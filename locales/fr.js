@@ -459,5 +459,7 @@ order_status_pending:
 "En attente",
 order_status_cancelled:
 "Annulée",
-"back_to_orders": "Retour à la liste des commandes"
+"back_to_orders": "Retour à la liste des commandes",
+discount_remove_confirmation_msg:
+"Êtes-vous certain de vouloir retirer le code promo?"
 });

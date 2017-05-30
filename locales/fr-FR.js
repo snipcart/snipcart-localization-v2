@@ -385,5 +385,7 @@
     subscription_plan_interval:
     "Intervalle de plan",
     subscription_plan_interval_count:
-    "Fréquece d'intervalle de plan"
+    "Fréquece d'intervalle de plan",
+    discount_remove_confirmation_msg:
+    "Êtes-vous certain de vouloir retirer le code promo?"
 });

@@ -522,5 +522,7 @@ manage_subscriptions:
 back_to_subscriptions_list:
 "Back to subscriptions list",
 back_to_subscription_details:
-"Back to subscription details"
+"Back to subscription details",
+discount_remove_confirmation_msg:
+"Are you sure you want to remove the discount?"
 });
