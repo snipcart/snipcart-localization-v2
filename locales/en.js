@@ -224,7 +224,7 @@ errors_required:
 errors_passwords_dont_match:
 "Both passwords must match",
 errors_email_must_be_unique:
-"An user with the same email already exists",
+"A user with the same email already exists",
 errors_both_password_must_match:
 "Both passwords must match",
 errors_email_must_be_valid:
