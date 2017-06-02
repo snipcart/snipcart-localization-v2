@@ -208,7 +208,7 @@ reset_password:
 reset_password_success:
 "Reset password completed",
 reset_password_changed:
-"Your passsword has been changed.",
+"Your password has been changed.",
 reset_password_click_here_to_login:
 "Click here to login",
 thankyou_message:
@@ -224,7 +224,7 @@ errors_required:
 errors_passwords_dont_match:
 "Both passwords must match",
 errors_email_must_be_unique:
-"An user with the same email already exists",
+"A user with the same email already exists",
 errors_both_password_must_match:
 "Both passwords must match",
 errors_email_must_be_valid:
