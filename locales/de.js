@@ -20,21 +20,21 @@ errors_passwords_dont_match:
 error_discounts_have_expired:
 "Rabatte sind abgelaufen",
 have_a_promocode_question:
-"Haben Sie einen Promo Code?",
+"Haben Sie einen Promo-Code?",
 order_totals_computing:
-"Berechne Total...",
+"Berechne Total ...",
 order_validation_failed:
-"Wir konnten Ihre Bestellung nicht bestätigen. Es sieht aus, also wurden Prouduktpreise geändert, seit Sie den Artikel in den Warenkorb gelegt haben. Bitte überprüfen Sie Ihre Bestellung und versuchen Sie es erneut.",
+"Wir konnten Ihre Bestellung nicht bestätigen. Anscheinend wurden Produktpreise geändert, seit Sie den Artikel in den Warenkorb gelegt haben. Bitte überprüfen Sie Ihre Bestellung und versuchen Sie es erneut.",
 item_invalid_must_remove:
-"Es sieht aus als ob dieser Artikel nicht mehr verfügbar ist. Kontaktieren Sie den Shop-Betrieben und informieren Sie Ihn über dieses Problem. Wenn Sie fortfahren, wird dieser Artikel aus dem Warenkorb entfernt.",
+"Anscheinend ist dieser Artikel nicht mehr verfügbar. Kontaktieren Sie den Shop-Betreiber und informieren Sie ihn über dieses Problem. Fahren Sie fort, um den Artikel aus dem Warenkorb zu entfernen.",
 accept_cart_changes:
 "Akzeptiere Korrekturen und fahre fort",
 payment_failed_text:
-"Sorry, wir konnte Ihre Bezahlung nicht verarbeiten. Sie können weiter shoppen oder es noch einmal versuchen.",
+"Sorry, wir konnten Ihre Bezahlung nicht verarbeiten. Sie können weiter einkaufen oder es noch einmal versuchen.",
 payment_method_willbepaidlater:
 "Wird später bezahlt",
 payment_method_paypal:
-"Paypal",
+"PayPal",
 payment_method_none:
 "Keine Zahlungsmethode",
 payment_method_sofort:
@@ -64,7 +64,7 @@ error_item_stock_exceeded:
 error_item_out_of_stock_text:
 "Sorry! Dieser Artikel ist nicht mehr an Lager. Bitte versuchen Sie es später wieder.",
 item_out_of_stock_with_variant:
-"Sorry! Diese Artikelvariante ist nicht mehr an Lager. Bitte wählen Sie eine andere Variante aus oder dieser Artikel wird aus dem Warenkorb entfernt.",
+"Sorry! Diese Artikelvariante ist nicht mehr an Lager. Bitte wählen Sie eine andere Variante aus, oder dieser Artikel wird aus dem Warenkorb entfernt.",
 order_status_processed:
 "Verarbeitet",
 order_status_disputed:
@@ -80,7 +80,7 @@ order_status_cancelled:
 something_went_wrong_while_fetching_rates:
 "Beim Berechnen des Versandpreises für Ihre Bestellung ist ein Fehler aufgetreten. Bitte überprüfen Sie die angegebene Versandadresse. Der Fehler ist:",
 error_must_select_shipping_rate:
-"Sie müssen eine Versandmethode auswählen um fortzufahren.",
+"Sie müssen eine Versandmethode auswählen, um fortzufahren.",
 back_to_orders:
 "Zurück zu den Bestellungen",
 yes:
@@ -112,9 +112,9 @@ ok:
 send:
 "Senden",
 address_1:
-"Straße",
+"Adresszeile 1",
 address_2:
-"Straße 2",
+"Adresszeile 2",
 city:
 "Ort",
 postal_code:
@@ -222,7 +222,7 @@ cart_empty_text:
 new_account_form_create_new_account:
 "Ein Konto erstellen",
 new_account_form_create_new_account_action:
-"Konto Erstellen",
+"Konto erstellen",
 login_form_having_an_account:
 "Haben Sie ein Konto?",
 login_form_login_action:
@@ -234,11 +234,11 @@ login_form_forgot_password_action:
 forgot_password_forgot_your_password:
 "Passwort vergessen?",
 forgot_password_please_enter_email:
-"Geben Sie bitte Ihre E-Mail-Adresse ein, wir werden Ihnen eine E-Mail mit einem einmaligen Link senden, mit dem Sie Ihr Passwort zurücksetzen können.",
+"Geben Sie bitte Ihre E-Mail-Adresse ein. Wir werden Ihnen eine E-Mail mit einem einmaligen Link senden, mit dem Sie Ihr Passwort zurücksetzen können.",
 forgot_password_success_email_sent:
 "E-Mail versendet",
 forgot_password_email_sent_message:
-"Eine E-Mail mit einer Anleitung zum Zurücksetzen Ihres Passworts wurde an Sie gesendet. Öffen Sie diese, und folgen Sie den angegebenen Schritten.",
+"Eine E-Mail mit einer Anleitung zum Zurücksetzen Ihres Passworts wurde an Sie gesendet. Öffnen Sie diese und folgen Sie den angegebenen Schritten.",
 login_checkout_as_guest:
 "Als Gast bezahlen",
 login_checkout_as_guest_notice:
@@ -266,7 +266,7 @@ payment_method_card_exp_month:
 payment_method_card_exp_year:
 "Ablauf Jahr",
 payment_method_cvc_infos:
-"Die CVC die 3-stellige Sicherheits-Zahl auf der Rückseite Ihrer Karte, normalerweise rechts von Ihrer Unterschrift.",
+"CVC: die 3-stellige Sicherheits-Zahl auf der Rückseite Ihrer Karte, normalerweise rechts von Ihrer Unterschrift.",
 create_an_account:
 "Konto erstellen",
 why_create_account:
@@ -296,7 +296,7 @@ errors_both_password_must_match:
 errors_email_must_be_valid:
 "Die E-Mail-Adresse muss gültig sein.",
 errors_email_does_not_match_any_existing_user:
-"Es exisitiert kein Benutzer mit dieser E-Mail-Adresse.",
+"Es existiert kein Benutzer mit dieser E-Mail-Adresse.",
 errors_email_does_not_match_reset_password_request:
 "Für die angegebene E-Mail-Adresse existiert kein Antrag zur Zurücksetzung des Passworts.",
 errors_reset_password_token_expired:
@@ -334,7 +334,7 @@ promocode_deleted_at_checkout:
 continue_shopping:
 "Einkauf fortsetzen",
 payment_required_message:
-"Der Warenkorb wurde für diese Website deaktiviert. Falls Sie der Besitzer dieser Website sind, loggen Sie sich ins Snipcart Dashboard ein, um das Problem zu beheben.",
+"Der Warenkorb wurde für diese Website deaktiviert. Falls Sie der Besitzer dieser Website sind, loggen Sie sich ins Snipcart-Dashboard ein, um das Problem zu beheben.",
 payment_require_title:
 "Der Warenkorb ist deaktiviert.",
 configuration_problem:
@@ -346,13 +346,13 @@ send_error:
 message_sent:
 "Die Nachricht wurde gesendet. Danke!",
 paypalexpress_loading:
-"Sie werden für die Zahlung zu Paypal weitergeleitet.",
+"Sie werden für die Zahlung zu PayPal weitergeleitet.",
 paypalexpress_cancelled:
 "Sie haben die Transaktion abgebrochen. Wenn Sie es nochmals versuchen wollen, klicken Sie auf den Knopf.",
 retry:
 "Nochmals versuchen",
 error_crawlingfailed_title:
-"Es gab einene Fehler bei der Validierung Ihrer Bestellung. Es wurde keine Zahlung ausgelöst.",
+"Es gab einen Fehler bei der Validierung Ihrer Bestellung. Es wurde keine Zahlung ausgelöst.",
 error_crawling_unreachable:
 "Artikel <strong>{0}</strong> kann unter <strong>{1}</strong> nicht aufgerufen werden. Bitte stellen Sie sicher, dass die URL öffentlich erreichbar ist.",
 error_crawling_product_not_found:
@@ -388,7 +388,7 @@ saving:
 loading:
 "Laden …",
 free_shipping:
-"Gratis Versand",
+"Gratis-Versand",
 cart_plans_name:
 "Plan",
 cart_plans_interval:
@@ -444,7 +444,7 @@ subscription_total_amount:
 subscriptions_fetching_subscriptions:
 "Lade Abonnements …",
 subscriptions_fetching_details:
-"Lade Abonnement Details …",
+"Lade Abonnement-Details …",
 subscription_no_invoices:
 "Für dieses Abonnement liegen noch keine Rechnungen vor.",
 subscription_plan_name:
@@ -464,9 +464,9 @@ subscription_invoice_item:
 subscription_invoice_info:
 "Rechnungsdaten",
 subscription_invoice_details:
-"Rechnungdetails",
+"Rechnungsdetails",
 subscription_invoice_fetching_details:
-"Lade Rechnungdetails …",
+"Lade Rechnungsdetails …",
 subscription_invoices_loading:
 "Lade Abonnement-Rechnungen …",
 subscription_invoices_list:
@@ -474,7 +474,7 @@ subscription_invoices_list:
 item_out_of_stock:
 "Es tut uns leid, dieser Artikel ist momentan nicht vorrätig.",
 click_here_to_remove_it:
-"Klicken Sie hier um den Artikel aus dem Warenkorb zu entfernen.",
+"Klicken Sie hier, um den Artikel aus dem Warenkorb zu entfernen.",
 outofstock_notification:
 "Es tut uns leid, Artikel in Ihrem Warenkorb sind nicht vorrätig. Bitte überprüfen Sie Ihre Bestellung. Keine Angst, es wurde noch nichts berechnet.",
 plan_amount_per_day:
@@ -506,9 +506,9 @@ subscription_cancelled_notice:
 subscription_cancelledon:
 "Gekündigt am",
 paypal_express_checkout_link:
-"Mit Paypal bezahlen",
+"Mit PayPal bezahlen",
 paypal_express_checkout_title:
-"Mit Paypal bezahlen",
+"Mit PayPal bezahlen",
 paypal_express_checkout_explanation:
 "Klicken Sie auf diesen Button, wenn Sie die Bezahlung direkt über PayPal abwickeln möchten.",
 notifications_item_not_added_due_to_max_quantity:
