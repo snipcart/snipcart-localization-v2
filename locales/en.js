@@ -524,5 +524,7 @@ back_to_subscriptions_list:
 back_to_subscription_details:
 "Back to subscription details",
 discount_remove_confirmation_msg:
-"Are you sure you want to remove the discount?"
+"Are you sure you want to remove the discount?",
+notifications_item_not_modified_due_to_min_quantity:
+"Sorry, you need to order at least {0} of this product."
 });
