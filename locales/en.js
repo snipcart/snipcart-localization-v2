@@ -434,7 +434,9 @@ plan_amount_per_year_plural:
 plan_days_of_trial:
 "{0} days trial",
 subscription_cancel_button:
-"Cancel this subscription",
+"Cancel",
+subscription_pause_button:
+"Pause",
 subscription_cancel_confirmation:
 "Are you sure you want to cancel your subscription ?",
 subscription_cancel_success:
@@ -526,5 +528,21 @@ back_to_subscription_details:
 discount_remove_confirmation_msg:
 "Are you sure you want to remove the discount?",
 notifications_item_not_modified_due_to_min_quantity:
-"Sorry, you need to order at least {0} of this product."
+"Sorry, you need to order at least {0} of this product.",
+subscription_pause_button:
+"Pause",
+subscription_resume_buttom:
+"Resume",
+subscription_summary:
+"Summary",
+subscription_notifications_paused:
+"This subscription is currently paused, you can resume it by clicking on the Resume button.",
+subscription_notifications_pause_confirm:
+"Are you sure you want to pause your subscription?",
+subscription_notifications_resume_confirm:
+"Are you sure you want to resume this subscription?",
+subscription_status_canceled:
+"Canceled",
+subscription_status_paused:
+"Paused"
 });
