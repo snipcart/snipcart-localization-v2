@@ -438,7 +438,7 @@ subscription_cancel_button:
 subscription_pause_button:
 "Pause",
 subscription_cancel_confirmation:
-"Are you sure you want to cancel your subscription ?",
+"Are you sure you want to cancel your subscription?",
 subscription_cancel_success:
 "Your subscription has been cancelled successfully.",
 subscription_cancelled_notice:
@@ -517,9 +517,9 @@ something_went_wrong_while_fetching_rates:
 "We have not been able to find any shipping methods for the address you specified. Contact us directly if you need help regarding this.",
 error_must_select_shipping_rate:
 "You must select shipping method to continue.",
-back_to_orders: 
+back_to_orders:
 "Back to orders",
-manage_subscriptions: 
+manage_subscriptions:
 "Manage subscriptions",
 back_to_subscriptions_list:
 "Back to subscriptions list",
@@ -529,8 +529,6 @@ discount_remove_confirmation_msg:
 "Are you sure you want to remove the discount?",
 notifications_item_not_modified_due_to_min_quantity:
 "Sorry, you need to order at least {0} of this product.",
-subscription_pause_button:
-"Pause",
 subscription_resume_buttom:
 "Resume",
 subscription_summary:

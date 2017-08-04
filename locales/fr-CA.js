@@ -11,10 +11,10 @@ checkout:
 "Passer au paiement",
 close:
 "Fermer",
-name:
-"Nom",
 first_name:
 "Prénom",
+name:
+"Nom",
 last_name:
 "Nom",
 company_name:
@@ -57,8 +57,6 @@ apply_promo_code:
 "Appliquer un code promo",
 my_cart:
 "Mon panier",
-continue_shopping:
-"Continuer à magasiner",
 my_cart_content:
 "Contenu de mon panier",
 shipping_method:
@@ -69,8 +67,16 @@ confirm_order:
 "Confirmation de l'achat",
 bill_me_later:
 "Payer plus tard",
+bill_me_later_action:
+"Payer plus tard",
 bill_me_later_explanation:
 "Une facture vous sera envoyée par courriel.",
+pay_via_mollie:
+"Choisir une méthode de paiement",
+pay_now_via_mollie:
+"Payer maintenant",
+pay_via_mollie_explanation:
+"Vous allez être redirigé vers une liste d'options de paiement.",
 promo_code_applied_successfully:
 "Votre code promo a été appliqué avec succès.",
 promo_code_is_invalid:
@@ -186,11 +192,13 @@ payment_method_card_number:
 payment_method_card_cvc:
 "CVC",
 payment_method_card_exp_month:
-"Mois / Année d'expiration",
+"Mois d'expiration",
 payment_method_card_exp_year:
 "Année d'expiration",
 payment_method_cvc_infos:
 "Le CVC est le code de sécurité à 3 chiffres habituellement en arrière de votre carte à droite de la signature.",
+payment_status:
+"Status du paiement",
 create_an_account:
 "Créer un compte",
 why_create_account:
@@ -213,6 +221,8 @@ account_created_successfully_message:
 "Votre compte a été créé avec succès, merci beaucoup.",
 errors_required:
 "Ce champ est requis",
+errors_passwords_dont_match:
+"Les deux mots de passe doivent concorder",
 errors_email_must_be_unique:
 "Un usager avec le même courriel existe déjà",
 errors_both_password_must_match:
@@ -230,9 +240,11 @@ errors_invalid_authentication_infos:
 error_payment_items_empty:
 "Il semble que votre commande est invalide, veuillez rafraîchir la page. Votre carte de crédit n'a pas été chargée.",
 error_payment_items_are_invalid:
-"Nous n'avons pas pu complété votre commande. Il semble qu'un article dans votre panier a un prix invalide.",
+"Nous n'avons pas pu compléter votre commande. Il semble qu'un article dans votre panier a un prix invalide.",
 error_crawling_failed:
-"Nous n'avons pas pu validé votre commande. Votre carte de crédit n'a pas été chargée. Veuillez réessayer dans quelques instants.",
+"Nous n'avons pas pu valider votre commande. Votre carte de crédit n'a pas été chargée. Veuillez réessayer dans quelques instants.",
+error_discounts_have_expired:
+"Malheureusement l'un des codes promos que vous avez utilisé a expiré pendant le processus de commande. S'il vous plait, vérifiez la commande ci-dessous puis rééssayez.",
 powered_by:
 "Propulsé et sécurisé par",
 promocode_rate_format:
@@ -255,6 +267,8 @@ generic_error_title:
 "Oops, une erreur est survenue.",
 promocode_deleted_at_checkout:
 "Le code promo que vous avez utilisé a atteint son nombre d'utilisation maximum durant votre paiement. Nous sommes désolés de cet inconvénient.",
+continue_shopping:
+"Continuer à magasiner",
 payment_required_message:
 "Le panier d'achat de ce site a été désactivé. Si vous êtes le propriétaire du site, veuillez vous connecter à votre compte Snipcart afin de résoudre le problème.",
 payment_require_title:
@@ -278,7 +292,7 @@ error_crawlingfailed_title:
 error_crawling_unreachable:
 "Le produit <strong>{0}</strong> n'est pas accessible à l'adresse <strong>{1}</strong>. Veuillez vous assurer que cette URL est accessible.",
 error_crawling_product_not_found:
-"Nous n'avons pas pu trouvé le produit <strong>{0}</strong> à l'adresse <strong>{1}</strong>",
+"Nous n'avons pas pu trouver le produit <strong>{0}</strong> à l'adresse <strong>{1}</strong>",
 error_crawling_price_not_found:
 "Le prix du produit <strong>{0}</strong> n'est pas spécifié à l'adresse <strong>{1}</strong>, veuillez le spécifier avec data-item-price",
 error_crawling_price_doesnot_match:
@@ -343,6 +357,8 @@ order_total:
 "Total",
 orders_history:
 "Mes commandes",
+subscriptions_history_no_subscriptions:
+"Vous n'avez encore aucun abonnement.",
 orders_history_no_orders:
 "Vous n'avez aucune commande.",
 orders_fetching_orders:
@@ -419,6 +435,8 @@ plan_days_of_trial:
 "{0} jour(s) d'essai",
 subscription_cancel_button:
 "Annuler cet abonnement",
+subscription_pause_button:
+"Suspendre cet abonnement",
 subscription_cancel_confirmation:
 "Êtes-vous sûr de vouloir annuler cet abonnement ?",
 subscription_cancel_success:
@@ -447,6 +465,42 @@ item_invalid_must_remove:
 "Ce produit ne semble plus être disponible. Il peut s'agir d'un problème de configuration. En continuant, cet item sera enlevé de votre panier.",
 accept_cart_changes:
 "Accepter les changement et continuer",
+payment_failed_text:
+"Désolé, nous n'avons pas pu procéder à votre paiement. Vous pouvez continuer vos achats ou essayer de nouveau en utilisant les boutons ci-dessous.",
+payment_method_willbepaidlater:
+"Différée",
+payment_method_paypal:
+"Paypal",
+payment_method_none:
+"Aucune",
+payment_method_sofort:
+"Sofort",
+payment_method_ideal:
+"Ideal",
+payment_method_mistercash:
+"Mister Cash",
+payment_method_banktransfer:
+"Bank transfer",
+payment_method_directdebit:
+"Direct debit",
+payment_method_belfius:
+"Belfius",
+payment_method_bitcoin:
+"Bitcoin",
+payment_method_podiumcadeaukaart:
+"Podium Cadeau Kaart",
+payment_method_paysafecard:
+"PaySafe card",
+payment_method_bancontact:
+"Bancontact",
+payment_method_creditcard:
+"Carte de crédit",
+error_item_stock_exceeded:
+"Désolé ! Votre demande dépasse le stock disponible pour cet élément.",
+error_item_out_of_stock_text:
+"Désolé ! Il semble que le produit n'est plus disponible. Nous vous suggérons de vérifier de nouveau ultérieurement.",
+item_out_of_stock_with_variant:
+"Désolé ! Il semble que cette déclinaison de produit n'est plus disponible. S'il vous plait, sélectionnez une nouvelle déclinaison ou cet article va être retiré de votre panier.",
 order_status_processed:
 "Traitée",
 order_status_disputed:
@@ -459,7 +513,34 @@ order_status_pending:
 "En attente",
 order_status_cancelled:
 "Annulée",
-"back_to_orders": "Retour à la liste des commandes",
+something_went_wrong_while_fetching_rates:
+"Nous n'avons pas été capable de trouver de méthode d'envoi pour l'adresse que vous avez spécifiée. Contactez-nous directement si vous avez besoin d'aide.",
+error_must_select_shipping_rate:
+"Vous devez sélectionner une méthode d'envoi pour continuer.",
+back_to_orders:
+"Retour à la liste des commandes",
+manage_subscriptions:
+"Gérer les abonnements",
+back_to_subscriptions_list:
+"Retour à la liste des abonnements",
+back_to_subscription_details:
+"Retour au détails de l'abonnement",
 discount_remove_confirmation_msg:
-"Êtes-vous certain de vouloir retirer le code promo?"
+"Êtes-vous certain de vouloir retirer le code promo ?",
+notifications_item_not_modified_due_to_min_quantity:
+"Désolé, vous devez commander au minimum {0} de ces produits.",
+subscription_resume_buttom:
+"Reprendre",
+subscription_summary:
+"Sommaire",
+subscription_notifications_paused:
+"Cet abonnement est actuellement en pause, vous pouvez le reprendre en cliquant sur le bouton Reprendre.",
+subscription_notifications_pause_confirm:
+"Êtes-vous sûr de vouloir suspendre votre abonnement ?",
+subscription_notifications_resume_confirm:
+"Êtes-vous sûr de vouloir reprendre votre abonnement ?",
+subscription_status_canceled:
+"Annulée",
+subscription_status_paused:
+"Suspendue"
 });
