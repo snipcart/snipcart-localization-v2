@@ -192,7 +192,7 @@ payment_method_card_number:
 payment_method_card_cvc:
 "CVC",
 payment_method_card_exp_month:
-"Expiration month / year",
+"Expiration month",
 payment_method_card_exp_year:
 "Expiration year",
 payment_method_cvc_infos:
