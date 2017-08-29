@@ -192,7 +192,7 @@ payment_method_card_number:
 payment_method_card_cvc:
 "CVC",
 payment_method_card_exp_month:
-"Expiration month / year",
+"Expiration month",
 payment_method_card_exp_year:
 "Expiration year",
 payment_method_cvc_infos:
@@ -434,9 +434,11 @@ plan_amount_per_year_plural:
 plan_days_of_trial:
 "{0} days trial",
 subscription_cancel_button:
-"Cancel this subscription",
+"Cancel",
+subscription_pause_button:
+"Pause",
 subscription_cancel_confirmation:
-"Are you sure you want to cancel your subscription ?",
+"Are you sure you want to cancel your subscription?",
 subscription_cancel_success:
 "Your subscription has been cancelled successfully.",
 subscription_cancelled_notice:
@@ -515,9 +517,9 @@ something_went_wrong_while_fetching_rates:
 "We have not been able to find any shipping methods for the address you specified. Contact us directly if you need help regarding this.",
 error_must_select_shipping_rate:
 "You must select shipping method to continue.",
-back_to_orders: 
+back_to_orders:
 "Back to orders",
-manage_subscriptions: 
+manage_subscriptions:
 "Manage subscriptions",
 back_to_subscriptions_list:
 "Back to subscriptions list",
@@ -525,8 +527,27 @@ back_to_subscription_details:
 "Back to subscription details",
 discount_remove_confirmation_msg:
 "Are you sure you want to remove the discount?",
+<<<<<<< HEAD
 digital_files_not_found:
 "One or more digital files don't exist, contact the store owner for further details.",
 digital_files_download_button:
 "Download file"
+=======
+notifications_item_not_modified_due_to_min_quantity:
+"Sorry, you need to order at least {0} of this product.",
+subscription_resume_buttom:
+"Resume",
+subscription_summary:
+"Summary",
+subscription_notifications_paused:
+"This subscription is currently paused, you can resume it by clicking on the Resume button.",
+subscription_notifications_pause_confirm:
+"Are you sure you want to pause your subscription?",
+subscription_notifications_resume_confirm:
+"Are you sure you want to resume this subscription?",
+subscription_status_canceled:
+"Canceled",
+subscription_status_paused:
+"Paused"
+>>>>>>> e31258b0b505801fd5a22f8e2cbf30cb6d64e573
 });
