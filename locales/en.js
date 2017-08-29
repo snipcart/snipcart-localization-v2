@@ -524,5 +524,9 @@ back_to_subscriptions_list:
 back_to_subscription_details:
 "Back to subscription details",
 discount_remove_confirmation_msg:
-"Are you sure you want to remove the discount?"
+"Are you sure you want to remove the discount?",
+digital_files_not_found:
+"One or more digital files don't exist, contact the store owner for further details.",
+digital_files_download_button:
+"Download file"
 });
