@@ -527,12 +527,10 @@ back_to_subscription_details:
 "Back to subscription details",
 discount_remove_confirmation_msg:
 "Are you sure you want to remove the discount?",
-<<<<<<< HEAD
 digital_files_not_found:
 "One or more digital files don't exist, contact the store owner for further details.",
 digital_files_download_button:
-"Download file"
-=======
+"Download file",
 notifications_item_not_modified_due_to_min_quantity:
 "Sorry, you need to order at least {0} of this product.",
 subscription_resume_buttom:
@@ -549,5 +547,4 @@ subscription_status_canceled:
 "Canceled",
 subscription_status_paused:
 "Paused"
->>>>>>> e31258b0b505801fd5a22f8e2cbf30cb6d64e573
 });
