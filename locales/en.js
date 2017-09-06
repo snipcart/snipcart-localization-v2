@@ -245,6 +245,8 @@ error_crawling_failed:
 "We have not been able to validate your order, your credit card has not been charged, please try again in a few moments.",
 error_discounts_have_expired:
 "Unfortunately one of the discount you had has expired before you completed the checkout process. Please review the order below and try again.",
+error_shipping_price_outdated:
+"The shipping option you selected is not valid anymore, please choose another shipping method.",
 powered_by:
 "Powered and secured by",
 promocode_rate_format:

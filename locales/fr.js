@@ -245,6 +245,8 @@ error_crawling_failed:
 "Nous n'avons pas pu valider votre commande. Votre carte de crédit n'a pas été chargée. Veuillez réessayer dans quelques instants.",
 error_discounts_have_expired:
 "Malheureusement l'un des codes promos que vous avez utilisé a expiré pendant le processus de commande. S'il vous plait, vérifiez la commande ci-dessous puis rééssayez.",
+error_shipping_price_outdated:
+"L'option de livraison que vous avez choisi n'est plus valide, veuillez en choisir une autre.",
 powered_by:
 "Propulsé et sécurisé par",
 promocode_rate_format:
