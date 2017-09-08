@@ -83,6 +83,34 @@ error_must_select_shipping_rate:
 "Sie müssen eine Versandmethode auswählen um fortzufahren.",
 back_to_orders:
 "Zurück zu den Bestellungen",
+manage_subscriptions:
+"Abonnements verwalten",
+back_to_subscriptions_list:
+"Zurück zu den Abonnements",
+back_to_subscription_details:
+"Zurück zum Abonnement",
+discount_remove_confirmation_msg:
+"Möchten Sie diesen Gutschein wirklich löschen?",
+digital_files_not_found:
+"Ein oder mehrere digitale Downloads existieren nicht mehr. Bitte kontaktieren Sie den Betreiber der Seite.",
+digital_files_download_button:
+"Datei herunterladen",
+notifications_item_not_modified_due_to_min_quantity:
+"Sie müssen mindestens {0} Stück des Produktes bestellen.",
+subscription_resume_buttom:
+"Reaktivieren",
+subscription_summary:
+"Zusammenfassung",
+subscription_notifications_paused:
+"Dieses Abonnement ist momentan pausiert. Sie können es durch Klick auf den Button Reaktivieren wiederaufnehmen.",
+subscription_notifications_pause_confirm:
+"Möchten Sie das Abonnement wirklich pausieren?",
+subscription_notifications_resume_confirm:
+"Möchten Sie das Abonnement wirklich reaktivieren?",
+subscription_status_canceled:
+"Beendet",
+subscription_status_paused:
+"Pausieren"
 yes:
 "Ja",
 no:
@@ -309,8 +337,12 @@ error_payment_items_are_invalid:
 "Wir konnten Ihre Bestellung nicht abschließen. Eines der Produkte in Ihrem Warenkorb scheint einen ungültigen Preis zu haben.",
 error_crawling_failed:
 "Wir konnten Ihre Bestellung nicht abschließen. Ihre Kreditkarte wurde nicht belastet. Bitte versuchen Sie es in wenigen Augenblicken nochmal.",
+error_shipping_price_outdated:
+"Die gewählte Versandart ist nicht mehr gültig. Bitte wählen Sie eine andere.",
 powered_by:
 "Powered by",
+error_shipping_price_outdated:
+"Die von Ihnen ausgewählte Versandmethode ist nicht mehr verfügbar. Bitte wählen Sie eine andere.",
 promocode_rate_format:
 "{0}% Rabatt auf Ihre Bestellung",
 promocode_amount_format:
@@ -421,6 +453,8 @@ order_total:
 "Summe",
 orders_history:
 "Bestell-Historie",
+subscriptions_history_no_subscriptions:
+"Sie haben bisher keine Abonnements.",
 orders_history_no_orders:
 "Es wurden bisher keine Bestellungen durchgeführt.",
 orders_fetching_orders:
@@ -493,11 +527,12 @@ plan_amount_per_month_plural:
 "{0} / {1} Monate",
 plan_amount_per_year_plural:
 "{0} / {1} Jahre",
-
 plan_days_of_trial:
 "{0} Tage Probe",
 subscription_cancel_button:
 "Dieses Abonnement kündigen",
+subscription_pause_button:
+"Pausieren",
 subscription_cancel_confirmation:
 "Sind Sie sicher, dass Sie Ihr Abonnement kündigen möchten?",
 subscription_cancel_success:
