@@ -110,7 +110,7 @@ subscription_notifications_resume_confirm:
 subscription_status_canceled:
 "Beendet",
 subscription_status_paused:
-"Pausieren"
+"Pausieren",
 yes:
 "Ja",
 no:
