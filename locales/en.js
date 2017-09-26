@@ -349,6 +349,8 @@ upcoming_payment_amount:
 "Total",
 upcoming_payment_subtotal:
 "Subtotal",
+upcoming_payment_shipping:
+"Shipping",
 upcoming_payments:
 "Next payments",
 order_date:
