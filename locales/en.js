@@ -550,5 +550,7 @@ subscription_notifications_resume_confirm:
 subscription_status_canceled:
 "Canceled",
 subscription_status_paused:
-"Paused"
+"Paused",
+refund_line:
+"Refunded"
 });
