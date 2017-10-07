@@ -322,5 +322,7 @@ plan_amount_per_week_plural:
 plan_amount_per_month_plural:
 "{0} / {1} meces",
 plan_amount_per_year_plural:
-"{0} / {1} anos"
+"{0} / {1} anos",
+have_a_promocode_question:
+"¿Código de descuento?",
 });
