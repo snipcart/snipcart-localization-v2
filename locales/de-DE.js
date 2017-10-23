@@ -111,6 +111,8 @@ subscription_status_canceled:
 "Beendet",
 subscription_status_paused:
 "Pausieren",
+refund_line:
+"Erstattet",
 yes:
 "Ja",
 no:
@@ -443,6 +445,8 @@ upcoming_payment_amount:
 "Summe",
 upcoming_payment_subtotal:
 "Zwischensumme",
+upcoming_payment_shipping:
+"Versand",
 upcoming_payments:
 "Nächste Zahlungen",
 order_date:
