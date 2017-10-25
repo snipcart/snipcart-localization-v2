@@ -552,5 +552,29 @@ subscription_status_canceled:
 subscription_status_paused:
 "Paused",
 refund_line:
-"Refunded"
+"Refunded",
+stripe_invalid_number:
+"The card number is not a valid credit card number.",
+stripe_invalid_expiry_month:
+"The card's expiration month is invalid.",
+stripe_invalid_expiry_year:
+"The card's expiration year is invalid.",
+stripe_invalid_cvc:
+"The card's security code is invalid.",
+stripe_invalid_swipe_data:
+"The card's swipe data is invalid.",
+stripe_incorrect_number:
+"The card number is incorrect.",
+stripe_expired_card:
+"The card has expired.",
+stripe_incorrect_cvc:
+"The card's security code is incorrect.",
+stripe_incorrect_zip:
+"The card's zip code failed validation.",
+stripe_card_declined:
+"The card was declined.",
+stripe_missing:
+"There is no card on a customer that is being charged.",
+stripe_processing_error:
+"An error occurred while processing the card."
 });
