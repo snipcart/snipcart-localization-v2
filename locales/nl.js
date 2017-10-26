@@ -57,7 +57,7 @@ Snipcart.execute('registerLocale', 'nl', {
 	error_impossible_to_calculate_taxes: "We konden geen verzendkosten berekenen, Dat kan veroorzaakt worden door een verkeerd adres, weet u zeker dat u een juist adres heeft opgegeven",
 	error_item_out_of_stock_text: "Sorry! Het lijkt erop dat het product niet meer beschikbaar is, bestel dit product op een ander tijdstip.",
 	error_item_stock_exceeded: "Sorry! We hebben dit aantal producten niet op voorraad, stuur een e-mail om een bestelling te plaatsen.",
-	error_must_select_shipping_rate: "U moet een verzendmethode selecteren om verder te kunnen gaan."
+	error_must_select_shipping_rate: "U moet een verzendmethode selecteren om verder te kunnen gaan.",
 	error_payment_items_are_invalid: "We hebben uw bestelling niet kunnen afronden. Het lijkt erop dat een product een ongeldige prijs heeft.",
 	error_payment_items_empty: "Het lijkt erop dat uw bestelling ongeldig is, herlaad de pagina. Er is nog geen betaling gedaan via uw creditcard.",
 	error_shipping_price_outdated: "De verzendmethode die u gekozen heeft is niet meer geldig. Selecteer een andere verzendmethode.",
