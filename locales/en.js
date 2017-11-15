@@ -576,5 +576,21 @@ stripe_card_declined:
 stripe_missing:
 "There is no card on a customer that is being charged.",
 stripe_processing_error:
-"An error occurred while processing the card."
+"An error occurred while processing the card.",
+"profile_credit_card":
+"Credit card",
+"profile_current_credit_card":
+"Your current credit card ends with {0} and expires on {1} / {2}.",
+"profile_update_card":
+"Click here to update it",
+"profile_saved_successfully":
+"Your profile has been saved successfully.",
+"profile_loading":
+"Getting your profile information...",
+"profile_saving":
+"Saving your profile...",
+"profile_billing_address":
+"Billing address",
+"profile_shipping_address":
+"Shipping address"
 });
