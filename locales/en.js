@@ -592,5 +592,7 @@ stripe_processing_error:
 "profile_billing_address":
 "Billing address",
 "profile_shipping_address":
-"Shipping address"
+"Shipping address",
+"profile_edit_linktitle":
+"Click here to edit your profile."
 });
