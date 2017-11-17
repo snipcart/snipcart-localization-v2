@@ -11,8 +11,12 @@ Snipcart.execute('registerLocale', 'it', {
     "Cassa",
     close:
     "Chiudi",
+    first_name:
+    "Nome",
     name:
     "Nome",
+    last_name:
+    "Cognome",
     company_name:
     "Nome azienda",
     share_by_email:
@@ -63,22 +67,32 @@ Snipcart.execute('registerLocale', 'it', {
     "Conferma ordine",
     bill_me_later:
     "Fattura piu tardi",
+    bill_me_later_action:
+    "Paga in seguito",
     bill_me_later_explanation:
     "Una fattura sarà inviata via email.",
+    pay_via_mollie:
+    "Scegli il metodo di pagamento",
+    pay_now_via_mollie:
+    "Paga ora",
+    pay_via_mollie_explanation:
+    "Sarai reindirizzato a un elenco delle modalità di pagamento disponibili.",
     promo_code_applied_successfully:
     "Il codice promozionale è stato applicato con successo.",
     promo_code_is_invalid:
     "Il codice promozionale inserito non è valido.",
     promo_code_is_expired:
-    "Il codice promozionale inserito non è valido.",
+    "Il codice promozionale inserito è scaduto.",
     promo_code_code:
-    "Avete uno sconto?",
+    "Hai uno sconto?",
     promo_code_rate_on_order:
     "sconto sull'ordine",
     promo_code_alternate_price:
     "prezzo speciale sui prodotti",
     total:
     "Totale",
+    total_paid:
+    "Totale pagato",
     province_state:
     "Stato / Provincia",
     billing_address:
@@ -89,6 +103,8 @@ Snipcart.execute('registerLocale', 'it', {
     "Informazioni sul pagamento",
     payment_informations_bill_me_later:
     "Pagherò più tardi",
+    payment_informations_no_payment_required:
+    "Nessun pagamento richiesto",
     payment_informations_paypalexpress:
     "Paga con Paypal",
     credit_card_type_mastercard:
@@ -141,6 +157,8 @@ Snipcart.execute('registerLocale', 'it', {
     "Accedi",
     login_form_login_action:
     "Accedi",
+    login_title:
+    "Accedi",
     login_form_forgot_password_action:
     "Ho perso la password",
     forgot_password_forgot_your_password:
@@ -172,13 +190,15 @@ Snipcart.execute('registerLocale', 'it', {
     payment_method_card_number:
     "Numero carta",
     payment_method_card_cvc:
-    "CSC",
+    "CVC",
     payment_method_card_exp_month:
-    "Scadenza mese / anno",
+    "Mese di scadenza",
     payment_method_card_exp_year:
-    "Scadenza anno",
+    "Anno di scadenza",
     payment_method_cvc_infos:
     "Il CVC è un numero di sicurezza di 3 cifre situatio sul retro della carta, normalmente è posto alla destra della tua firma.",
+    payment_status:
+    "Stato del pagamento",
     create_an_account:
     "Crea un account di accesso",
     why_create_account:
@@ -198,13 +218,15 @@ Snipcart.execute('registerLocale', 'it', {
     account_created_successfully:
     "Account creato con successo",
     account_created_successfully_message:
-    "Il tuo account di accesso è stato creato con successo, grazie.",
+    "Il tuo account è stato creato con successo, grazie.",
     errors_required:
     "Questo campo è richiesto",
+    errors_passwords_dont_match:
+    "Le password non coincidono",
     errors_email_must_be_unique:
-    "Un utente con il medesimo indirizzo email è stato già registrato",
+    "Un utente con lo stesso indirizzo email esiste già",
     errors_both_password_must_match:
-    "Le passwords non coincidono",
+    "Le password non coincidono",
     errors_email_must_be_valid:
     "L'indirizzo email deve essere valido",
     errors_email_does_not_match_any_existing_user:
@@ -216,11 +238,15 @@ Snipcart.execute('registerLocale', 'it', {
     errors_invalid_authentication_infos:
     "Informazioni di autenticazione non valide",
     error_payment_items_empty:
-    "Sembra che l'ordine non è valido, si prega di ricaricare la pagina. La tua carta di credito non è stata caricata.",
+    "Sembra che l'ordine non è valido, si prega di ricaricare la pagina. La tua carta di credito non è stata addebitata.",
     error_payment_items_are_invalid:
-    "Non siamo stati in grado di completare l'ordine. Sembra che uno degli articoli nel carrello ha un prezzo non valido.",
+    "Non siamo stati in grado di completare l'ordine. Sembra che uno degli articoli nel carrello abbia un prezzo non valido.",
     error_crawling_failed:
-    "Non siamo stati in grado di convalidare l'ordine, la vostra carta di credito non è stata caricata, riprova tra qualche istante.",
+    "Non siamo stati in grado di convalidare l'ordine, la vostra carta di credito non è stata addebitata, riprova tra qualche istante.",
+    error_discounts_have_expired:
+    "Uno degli sconti presenti nel carrello è scaduto prima del completamento dell'ordine. Rivedi i contenuti del carrello e riprova",
+    error_shipping_price_outdated:
+    "The shipping option you selected is not valid anymore, please choose another shipping method.",
     powered_by:
     "Prodotto e garantito da",
     promocode_rate_format:
@@ -236,19 +262,19 @@ Snipcart.execute('registerLocale', 'it', {
     welcome:
     "Benvenuto/a",
     back:
-    "Ben tornato/a",
+    "Bentornato/a",
     order_infos:
     "Informazioni ordine",
     generic_error_title:
     "Oops, un errore.",
     promocode_deleted_at_checkout:
-    "Lo sconto che è stato utilizzato ha raggiunto il suo limite di utilizzo mentre si stava facendo il vostro ordine. Ci scusiamo per l'inconveniente.",
+    "Lo sconto che è stato utilizzato ha raggiunto il suo limite di utilizzo mentre si stava completando l'ordine. Ci scusiamo per l'inconveniente.",
     continue_shopping:
-    "Continua l'acquisto",
+    "Continua a comprare",
     payment_required_message:
-    "Il carrello della spesa di questo sito è stato disattivato. Se sei il proprietario di questo sito web, accedi alla Snipcart Dashboard per risolvere il problema.",
+    "Il carrello di questo sito è stato disattivato. Se sei il proprietario di questo sito web, accedi alla Snipcart Dashboard per risolvere il problema.",
     payment_require_title:
-    "Il carrello della spesa è disabibilitato.",
+    "Il carrello è disabilitato.",
     configuration_problem:
     "Problema sulla configurazione",
     additionnal_information:
@@ -301,14 +327,86 @@ Snipcart.execute('registerLocale', 'it', {
     "Caricamento...",
     free_shipping:
     "Spedizione gratuita",
+    cart_plans_name:
+    "Piano",
     cart_plans_interval:
     "Intervallo",
     cart_plans_interval_count:
     "Conteggio",
+    cart_plans_quantity:
+    "Quantità",
+    cart_plans_amount:
+    "Prezzo",
+    cart_plans_total:
+    "Totale",
+    payable_now:
+    "Pagabile ora",
+    upcoming_payment_for:
+    "Sottoscrizione",
+    upcoming_payment_date:
+    "Data",
+    upcoming_payment_amount:
+    "Totale",
+    upcoming_payment_subtotal:
+    "Subtotale",
+    upcoming_payment_shipping:
+    "Spedizione",
+    upcoming_payments:
+    "Prossimi pagamenti",
+    order_date:
+    "Data",
+    order_status:
+    "Stato",
+    order_total:
+    "Totale",
+    orders_history:
+    "I miei ordini",
+    subscriptions_history:
+    "Le mie sottoscrizioni",
+    subscription_name:
+    "Nome",
+    subscription_amount:
+    "Prezzo",
+    subscription_quantity:
+    "Quantità",
+    subscription_total_amount:
+    "Totale",
+    subscriptions_fetching_subscriptions:
+    "Carico sottoscrizioni...",
+    subscriptions_fetching_details:
+    "Carico dettagli sottoscrizione...",
+    subscription_no_invoices:
+    "Questa sottoscrizione non ha fatture correlate.",
+    subscription_plan_name:
+    "Nome piano",
     subscription_plan_interval:
-    "Intervallo di piano",
+    "Intervallo piano",
     subscription_plan_interval_count:
-    "piano intervallo conteggio",
+    "Conteggio intervalli piano",
+    subscription_invoice_number:
+    "Numero",
+    subscription_invoice_date:
+    "Data",
+    subscription_invoice_amount:
+    "Prezzo",
+    subscription_invoice_item:
+    "Oggetto",
+    subscription_invoice_info:
+    "Informazioni fattura",
+    subscription_invoice_details:
+    "Dettagli fattura",
+    subscription_invoice_fetching_details:
+    "Carico dettagli fattura...",
+    subscription_invoices_loading:
+    "Carico fatture sottoscrizioni...",
+    subscription_invoices_list:
+    "Storico fatture",
+    item_out_of_stock:
+    "Siamo spiacenti, questo prodotto è esaurito.",
+    click_here_to_remove_it:
+    "Clicca qui per rimuoverlo dal carrello.",
+    outofstock_notification:
+    "Siamo spiacenti, alcuni prodotti sono andati esauriti prima del completamento dell'operazione. Ti preghiamo di ricontrollare il carrello. La tua carta non è stata addebitata.",
     plan_amount_per_day:
     "{0} / giorno",
     plan_amount_per_week:
@@ -324,5 +422,165 @@ Snipcart.execute('registerLocale', 'it', {
     plan_amount_per_month_plural:
     "{0} / {1} mesi",
     plan_amount_per_year_plural:
-    "{0} / {1} anni"
+    "{0} / {1} anni",
+    plan_days_of_trial:
+    "{0} giorni di prova",
+    subscription_cancel_button:
+    "Annulla",
+    subscription_pause_button:
+    "Sospendi",
+    subscription_cancel_confirmation:
+    "Sei sicuro/a di voler annullare la tua sottoscrizione?",
+    subscription_cancel_success:
+    "La tua sottoscrizione è stata annullata.",
+    subscription_cancelled_notice:
+    "Questa sottoscrizione non è più attiva, è stata annullata il {0}.",
+    subscription_cancelledon:
+    "Annullata il",
+    paypal_express_checkout_link:
+    "Paga con Paypal",
+    paypal_express_checkout_title:
+    "Paga con PayPal",
+    paypal_express_checkout_explanation:
+    "Clicca questo pulsante per procedere al pagamento direttamente sul sito di PayPal.",
+    notifications_item_not_added_due_to_max_quantity:
+    "Il prodotto non è stato aggiunto, la quantità massima consentita è già presente nel carrello.",
+    error_impossible_to_calculate_taxes:
+    "Non siamo riusciti a calcolare la tassazione per questo ordine, verificare che l'indirizzo sia corretto e che contenga un CAP a 5 cifre.",
+    have_a_promocode_question:
+    "Codice promozionale?",
+    order_totals_computing:
+    "Calcolo tasse...",
+    order_validation_failed:
+    "Non siamo riusciti a convalidare il tuo ordine. Sembra che i prezzi dei prodotti siano cambiati dal momento dell'aggiunta al carrello.",
+    item_invalid_must_remove:
+    "A causa di un errore di configurazione da parte del venditore, sembra che questo prodotto non sia più disponibile. Verrà rimosso dal carrello.",
+    accept_cart_changes:
+    "Accetta i cambiamenti e continua",
+    payment_failed_text:
+    "Siamo spiacenti, non siamo riusciti a completare il pagamento. Puoi tornare al sito o riprovare usando i pulsanti qui sotto.",
+    payment_method_willbepaidlater:
+    "In seguito",
+    payment_method_paypal:
+    "Paypal",
+    payment_method_none:
+    "Nessuno",
+    payment_method_sofort:
+    "Sofort",
+    payment_method_ideal:
+    "Ideal",
+    payment_method_mistercash:
+    "Mister Cash",
+    payment_method_banktransfer:
+    "Bonifico bancario",
+    payment_method_directdebit:
+    "Addebito diretto",
+    payment_method_belfius:
+    "Belfius",
+    payment_method_bitcoin:
+    "Bitcoin",
+    payment_method_podiumcadeaukaart:
+    "Podium Cadeau Kaart",
+    payment_method_paysafecard:
+    "PaySafe card",
+    payment_method_bancontact:
+    "Bancontact",
+    payment_method_creditcard:
+    "Carta di credito",
+    error_item_stock_exceeded:
+    "Siamo spiacenti, la tua richiesta eccede la disponibilità di magazzino per questo prodotto.",
+    error_item_out_of_stock_text:
+    "Siamo spiacenti, questo prodotto non è più disponibile. Ti invitiamo a riprovare più tardi.",
+    item_out_of_stock_with_variant:
+    "Siamo spiacenti, la variante che hai scelto per questo prodotto non è più disponibile. Scegli un'altra variante, o il prodotto verrà rimosso dal carrello.",
+    order_status_processed:
+    "Elaborato",
+    order_status_disputed:
+    "Disputato",
+    order_status_shipped:
+    "Spedito",
+    order_status_delivered:
+    "Consegnato",
+    order_status_pending:
+    "In attesa",
+    order_status_cancelled:
+    "Annullato",
+    something_went_wrong_while_fetching_rates:
+    "Non abbiamo trovato nessun metodo di spedizione per il tuo indirizzo. Contattaci per maggiori informazioni.",
+    error_must_select_shipping_rate:
+    "Devi selezionare un metodo di spedizione per continuare.",
+    back_to_orders:
+    "Torna agli ordini",
+    manage_subscriptions:
+    "Gestisci sottoscrizioni",
+    back_to_subscriptions_list:
+    "Torna all'elenco sottoscrizioni",
+    back_to_subscription_details:
+    "Torna ai dettagli della sottoscrizione",
+    discount_remove_confirmation_msg:
+    "Sei sicuro/a di voler rimuovere lo sconto?",
+    digital_files_not_found:
+    "Uno o più file digitali scelti non esistono, contatta il venditore per maggiori informazioni.",
+    digital_files_download_button:
+    "Scarica file",
+    notifications_item_not_modified_due_to_min_quantity:
+    "Siamo spiacenti, devi ordinare almeno {0} unità di questo prodotto.",
+    subscription_resume_buttom:
+    "Riprendi",
+    subscription_summary:
+    "Riepilogo",
+    subscription_notifications_paused:
+    "Questa sottoscrizione è momentaneamente sospesa, la puoi ripristinare cliccando sul pulsante Riprendi.",
+    subscription_notifications_pause_confirm:
+    "Sei sicuro/a di voler sospendere questa sottoscrizione?",
+    subscription_notifications_resume_confirm:
+    "Sei sicuro/a di voler riprendere questa sottoscrizione?",
+    subscription_status_canceled:
+    "Annullata",
+    subscription_status_paused:
+    "Sospesa",
+    refund_line:
+    "Rimborsata",
+    stripe_invalid_number:
+    "Il numero della carta non è valido.",
+    stripe_invalid_expiry_month:
+    "Il mese di scadenza della carta non è valido.",
+    stripe_invalid_expiry_year:
+    "L'anno di scadenza della carta non è valido.",
+    stripe_invalid_cvc:
+    "Il codice di sicurezza della carta non è valido.",
+    stripe_invalid_swipe_data:
+    "I dati di swipe della carta non sono validi.",
+    stripe_incorrect_number:
+    "Il numero della carta non è corretto.",
+    stripe_expired_card:
+    "Questa carta è scaduta.",
+    stripe_incorrect_cvc:
+    "Il codice di sicurezza della carta non è corretto.",
+    stripe_incorrect_zip:
+    "Il CAP dell'indirizzo della carta non è corretto.",
+    stripe_card_declined:
+    "La carta è stata rifiutata.",
+    stripe_missing:
+    "Non c'è nessuna carta associata a questo utente.",
+    stripe_processing_error:
+    "Si è verificato un errore nella verifica della carta.",
+    profile_credit_card:
+    "Carta di credito",
+    profile_current_credit_card:
+    "La tua carta di credito attuale finisce con {0} e scade il {1}/{2}.",
+    profile_update_card:
+    "Clicca per aggiornare i dati",
+    profile_saved_successfully:
+    "Il profilo è stato salvato.",
+    profile_loading:
+    "Carico le informazioni del profilo...",
+    profile_saving:
+    "Salvo il profilo...",
+    profile_billing_address:
+    "Indirizzo di fatturazione",
+    profile_shipping_address:
+    "Indirizzo di spedizione",
+    profile_edit_linktitle:
+    "Clicca qui per modificare il profilo."
 });
