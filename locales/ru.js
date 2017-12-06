@@ -93,6 +93,8 @@ payment_informations_bill_me_later:
 "Я буду платить позже",
 payment_informations_paypalexpress:
 "Оплата с помощью Paypal",
+bill_me_later_action:
+"Заплачу позже",
 credit_card_type_mastercard:
 "Mastercard",
 credit_card_type_visa:
