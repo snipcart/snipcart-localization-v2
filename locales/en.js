@@ -239,6 +239,8 @@ errors_invalid_authentication_infos:
 "Invalid authentication information",
 error_payment_items_empty:
 "It seems that your order is invalid, please reload the page. Your credit card has not been charged.",
+error_email_is_empty:
+"Looks like we got an issue saving your email address, please enter it again and click Next to continue.",
 error_payment_items_are_invalid:
 "We have not been able to complete your order. It seems that one of the items in your cart has an invalid price.",
 error_crawling_failed:
