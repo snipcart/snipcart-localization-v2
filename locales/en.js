@@ -388,7 +388,7 @@ subscription_total_amount:
 subscriptions_fetching_subscriptions:
 "Loading subscriptions...",
 subscriptions_fetching_details:
-"Loading subscrition details...",
+"Loading subscription details...",
 subscription_no_invoices:
 "This subscription does not have any invoices yet.",
 subscription_plan_name:
