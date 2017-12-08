@@ -596,5 +596,6 @@ stripe_processing_error:
 "profile_shipping_address":
 "Shipping address",
 "profile_edit_linktitle":
-"Click here to edit your profile."
+"Click here to edit your profile.",
+"feature_not_supported_subscriptions": "We're sorry but subscriptions are not available with your payment gateway. This item can't be added."
 });
