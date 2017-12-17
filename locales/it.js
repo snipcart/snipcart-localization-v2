@@ -239,6 +239,8 @@ Snipcart.execute('registerLocale', 'it', {
     "Informazioni di autenticazione non valide",
     error_payment_items_empty:
     "Sembra che l'ordine non è valido, si prega di ricaricare la pagina. La tua carta di credito non è stata addebitata.",
+    error_email_is_empty:
+    "C'è stato un problema nel salvataggio dell'email, si prega di reinserirla e premere Continua.",
     error_payment_items_are_invalid:
     "Non siamo stati in grado di completare l'ordine. Sembra che uno degli articoli nel carrello abbia un prezzo non valido.",
     error_crawling_failed:
@@ -582,5 +584,7 @@ Snipcart.execute('registerLocale', 'it', {
     profile_shipping_address:
     "Indirizzo di spedizione",
     profile_edit_linktitle:
-    "Clicca qui per modificare il profilo."
+    "Clicca qui per modificare il profilo.",
+    feature_not_supported_subscriptions:
+    "Siamo spiacenti, ma le sottoscrizioni non sono acquistabili col gateway di pagamento richiesto. Questo elemento non può essere aggiunto."
 });
