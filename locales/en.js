@@ -239,6 +239,8 @@ errors_invalid_authentication_infos:
 "Invalid authentication information",
 error_payment_items_empty:
 "It seems that your order is invalid, please reload the page. Your credit card has not been charged.",
+error_email_is_empty:
+"Looks like we got an issue saving your email address, please enter it again and click Next to continue.",
 error_payment_items_are_invalid:
 "We have not been able to complete your order. It seems that one of the items in your cart has an invalid price.",
 error_crawling_failed:
@@ -386,7 +388,7 @@ subscription_total_amount:
 subscriptions_fetching_subscriptions:
 "Loading subscriptions...",
 subscriptions_fetching_details:
-"Loading subscrition details...",
+"Loading subscription details...",
 subscription_no_invoices:
 "This subscription does not have any invoices yet.",
 subscription_plan_name:
@@ -594,5 +596,6 @@ stripe_processing_error:
 "profile_shipping_address":
 "Shipping address",
 "profile_edit_linktitle":
-"Click here to edit your profile."
+"Click here to edit your profile.",
+"feature_not_supported_subscriptions": "We're sorry but subscriptions are not available with your payment gateway. This item can't be added."
 });
