@@ -1,4 +1,4 @@
-﻿Snipcart.execute('registerLocale', 'Pt_br', {
+﻿Snipcart.execute('registerLocale', 'pt-BR', {
 yes:
 "Sim",
 no:
