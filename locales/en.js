@@ -600,5 +600,7 @@ stripe_processing_error:
 "feature_not_supported_subscriptions": 
 "We're sorry but subscriptions are not available with your payment gateway. This item can't be added.",
 "profile_title": 
-"Profile"
+"Profile",
+profile_edit_link:
+"{0}"
 });
