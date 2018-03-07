@@ -164,11 +164,11 @@ shipping_address_same_as_billing:
 shipping_method_method_name:
 "Τρόπος Αποστολής",
 shipping_method_shipping_price:
-"Κώστος Αποστολής",
+"Κόστος Αποστολής",
 shipping_method_failure_message:
 "Δεν μπορέσαμε να βρούμε κάποιο πιθανό τρόπο αποστολής.Παρακαλώ ελέγξτε αν η διεύθυνση αποστολής είναι σωστή και προσπαθήστε ξανά.",
 shipping_method_failure_click_here_to_edit:
-"Πατήστε εδώ για να επεξεργαστήτε την διεύθυνση αποστολής",
+"Πατήστε εδώ για να επεξεργαστείτε την διεύθυνση αποστολής",
 payment_method_card_holder:
 "Όνομα στην κάρτα",
 payment_method_card_type:
