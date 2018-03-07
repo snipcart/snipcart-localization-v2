@@ -176,9 +176,9 @@ payment_method_card_type:
 payment_method_card_number:
 "Αριθμός Κάρτας",
 payment_method_card_cvc:
-"CSC",
+"CVC",
 payment_method_card_exp_month:
-"Ημερομηνία Λήξης Χρόνος/Μήνας",
+"Μήνας λήξης",
 payment_method_card_exp_year:
 "Έτος λήξης",
 payment_method_cvc_infos:
