@@ -186,15 +186,15 @@ shipping_method_failure_click_here_to_edit:
 payment_method_card_holder:
 "Jméno na kartě",
 payment_method_card_type:
-"Tuto záložku přeskočte / Typ karty",
+"Typ karty",
 payment_method_card_number:
-"----r",
+"Číslo karty",
 payment_method_card_cvc:
-"---",
+"CVC",
 payment_method_card_exp_month:
-"----",
+"Měsíc konce platnosti karty",
 payment_method_card_exp_year:
-"----",
+"Rok konce platnosti karty",
 payment_method_cvc_infos:
 "CVC je 3-místný bezpečností kód na zadní straně vaší kreditní karty, obvykle bývá za podpisem.",
 payment_status:
