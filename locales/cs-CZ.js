@@ -250,7 +250,7 @@ promocode_rate_format:
 promocode_amount_format:
 "{0} sleva na vaši objednávku",
 shipping_method_business_days:
-"{0}-3 pracovních dní",
+"{0} pracovních dní",
 shipping_method_business_day:
 "{0} pracovní den",
 shipping_method_delivery_time:
