@@ -164,7 +164,7 @@ login_form_forgot_password_action:
 forgot_password_forgot_your_password:
 "Oublié votre mot de passe ?",
 forgot_password_please_enter_email:
-"Veuillez saisir votre courriel, nous vous enverrons un courriel contenant un lien unique qui vous permettra de réinitilaiser votre mot de passe",
+"Veuillez saisir votre courriel, nous vous enverrons un courriel contenant un lien unique qui vous permettra de réinitialiser votre mot de passe",
 forgot_password_success_email_sent:
 "Le courriel a été envoyé",
 forgot_password_email_sent_message:
@@ -172,7 +172,7 @@ forgot_password_email_sent_message:
 login_checkout_as_guest:
 "Payer sans compte",
 login_checkout_as_guest_notice:
-"À la fin du processus de paiement, nous vous offririons la possiblité de vous créer un compte avec les informations que vous aurez saisi durant le processus de paiement.",
+"À la fin du processus de paiement, nous vous offrirons la possibilité de vous créer un compte avec les informations que vous aurez saisies durant le processus de paiement.",
 shipping_address_same_as_billing:
 "Utiliser cette adresse pour la livraison",
 shipping_method_method_name:
@@ -226,7 +226,7 @@ errors_passwords_dont_match:
 errors_email_must_be_unique:
 "Un usager avec le même courriel existe déjà",
 errors_both_password_must_match:
-"Les deux mots de passe doivent être identique",
+"Les deux mots de passe doivent être identiques",
 errors_email_must_be_valid:
 "Le courriel doit être valide",
 errors_email_does_not_match_any_existing_user:
@@ -244,7 +244,7 @@ error_payment_items_are_invalid:
 error_crawling_failed:
 "Nous n'avons pas pu valider votre commande. Votre carte de crédit n'a pas été chargée. Veuillez réessayer dans quelques instants.",
 error_discounts_have_expired:
-"Malheureusement l'un des codes promos que vous avez utilisé a expiré pendant le processus de commande. S'il vous plait, vérifiez la commande ci-dessous puis rééssayez.",
+"Malheureusement l'un des codes promos que vous avez utilisé a expiré pendant le processus de commande. S'il vous plait, vérifiez la commande ci-dessous puis réessayez.",
 error_shipping_price_outdated:
 "L'option de livraison que vous avez choisi n'est plus valide, veuillez en choisir une autre.",
 powered_by:
@@ -316,7 +316,7 @@ order_invoice_number:
 order_authorization_code:
 "Code d'autorisation",
 item_is_being_added:
-"Ajout de l'item au panier...",
+"Ajout de l'article au panier...",
 order_completing_payment:
 "Paiement en cours...",
 calculating_shipping_fees:
@@ -400,7 +400,7 @@ subscription_invoice_date:
 subscription_invoice_amount:
 "Montant",
 subscription_invoice_item:
-"Item",
+"Article",
 subscription_invoice_info:
 "Information de la facture",
 subscription_invoice_details:
@@ -412,11 +412,11 @@ subscription_invoices_loading:
 subscription_invoices_list:
 "Historique des factures",
 item_out_of_stock:
-"Nous somme désolés, cet item est en rupture de stock.",
+"Nous somme désolés, cet article est en rupture de stock.",
 click_here_to_remove_it:
 "Cliquez ici pour le retirer de votre panier.",
 outofstock_notification:
-"Nous sommes désolés, certains items de votre panier sont tombés en rupture de stock pendant votre transaction. Veuillez revoir votre commande. Pas de souci, aucun montant n'a été prélevé sur votre carte.",
+"Nous sommes désolés, certains articles de votre panier sont tombés en rupture de stock pendant votre transaction. Veuillez revoir votre commande. Pas de souci, aucun montant n'a été prélevé sur votre carte.",
 plan_amount_per_day:
 "{0} / jour",
 plan_amount_per_week:
@@ -456,7 +456,7 @@ paypal_express_checkout_explanation:
 notifications_item_not_added_due_to_max_quantity:
 "Le produit n'a pas pu être ajouté, vous avez déjà le nombre maximal dans votre panier.",
 error_impossible_to_calculate_taxes:
-"Impossible de calculer la taxe pour cette commande, cela peut être causé par une adresse invalide, svp assurez-vous d'avoir entré une adresse et un code postal valide.",
+"Impossible de calculer la taxe pour cette commande, cela peut être causé par une adresse invalide, svp assurez-vous d'avoir entré une adresse et un code postal valides.",
 have_a_promocode_question:
 "Code promo?",
 order_totals_computing:
@@ -464,7 +464,7 @@ order_totals_computing:
 order_validation_failed:
 "Nous n'avons pas réussi à valider votre commande. Veuillez vérifier votre panier et réessayer de nouveau.",
 item_invalid_must_remove:
-"Ce produit ne semble plus être disponible. Il peut s'agir d'un problème de configuration. En continuant, cet item sera enlevé de votre panier.",
+"Ce produit ne semble plus être disponible. Il peut s'agir d'un problème de configuration. En continuant, cet article sera enlevé de votre panier.",
 accept_cart_changes:
 "Accepter les changement et continuer",
 payment_failed_text:
@@ -526,7 +526,7 @@ manage_subscriptions:
 back_to_subscriptions_list:
 "Retour à la liste des abonnements",
 back_to_subscription_details:
-"Retour au détails de l'abonnement",
+"Retour aux détails de l'abonnement",
 discount_remove_confirmation_msg:
 "Êtes-vous certain de vouloir retirer le code promo ?",
 notifications_item_not_modified_due_to_min_quantity:

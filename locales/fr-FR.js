@@ -164,7 +164,7 @@ login_form_forgot_password_action:
 forgot_password_forgot_your_password:
 "Oublié votre mot de passe ?",
 forgot_password_please_enter_email:
-"Veuillez saisir votre courriel, nous vous enverrons un courriel contenant un lien unique qui vous permettra de réinitilaiser votre mot de passe",
+"Veuillez saisir votre courriel, nous vous enverrons un courriel contenant un lien unique qui vous permettra de réinitialiser votre mot de passe",
 forgot_password_success_email_sent:
 "Le courriel a été envoyé",
 forgot_password_email_sent_message:
@@ -172,7 +172,7 @@ forgot_password_email_sent_message:
 login_checkout_as_guest:
 "Payer sans compte",
 login_checkout_as_guest_notice:
-"À la fin du processus de paiement, nous vous offririons la possiblité de vous créer un compte avec les informations que vous aurez saisi durant le processus de paiement.",
+"À la fin du processus de paiement, nous vous offrirons la possibilité de vous créer un compte avec les informations que vous aurez saisies durant le processus de paiement.",
 shipping_address_same_as_billing:
 "Utiliser cette adresse pour la livraison",
 shipping_method_method_name:
@@ -244,7 +244,7 @@ error_payment_items_are_invalid:
 error_crawling_failed:
 "Nous n'avons pas pu valider votre commande. Votre carte de crédit n'a pas été débitée. Veuillez réessayer dans quelques instants.",
 error_discounts_have_expired:
-"Malheureusement l'un des codes promos que vous avez utilisé a expiré pendant le processus de commande. S'il vous plait, vérifiez la commande ci-dessous puis rééssayez.",
+"Malheureusement l'un des codes promos que vous avez utilisé a expiré pendant le processus de commande. S'il vous plait, vérifiez la commande ci-dessous puis réessayez.",
 powered_by:
 "Propulsé et sécurisé par",
 promocode_rate_format:
@@ -314,7 +314,7 @@ order_invoice_number:
 order_authorization_code:
 "Code d'autorisation",
 item_is_being_added:
-"Ajout de l'item au panier...",
+"Ajout de l'article au panier...",
 order_completing_payment:
 "Paiement en cours...",
 calculating_shipping_fees:
@@ -384,7 +384,7 @@ subscriptions_fetching_subscriptions:
 subscriptions_fetching_details:
 "Chargement des détails de l'abonnement...",
 subscription_no_invoices:
-"Cet abonnement n'a encore aucune factures.",
+"Cet abonnement n'a encore aucune facture.",
 subscription_plan_name:
 "Nom de plan",
 subscription_plan_interval:
@@ -392,7 +392,7 @@ subscription_plan_interval:
 subscription_plan_interval_count:
 "Fréquence d'intervalle du plan",
 subscription_invoice_number:
-"No. de facture de l'abonnement",
+"N° de facture de l'abonnement",
 subscription_invoice_date:
 "Date",
 subscription_invoice_amount:
@@ -404,7 +404,7 @@ subscription_invoice_info:
 subscription_invoice_details:
 "Détails de facture",
 subscription_invoice_fetching_details:
-"Chagement des détails de facture...",
+"Chargement des détails de facture...",
 subscription_invoices_loading:
 "Chargement des factures d'abonnement...",
 subscription_invoices_list:
@@ -454,7 +454,7 @@ paypal_express_checkout_explanation:
 notifications_item_not_added_due_to_max_quantity:
 "Le produit n'a pas pu être ajouté, vous avez déjà le nombre maximal dans votre panier.",
 error_impossible_to_calculate_taxes:
-"Impossible de calculer la taxe pour cette commande, cela peut être causé par une adresse invalide, svp assurez-vous d'avoir entré une adresse et un code postal valide.",
+"Impossible de calculer la taxe pour cette commande, cela peut être causé par une adresse invalide, svp assurez-vous d'avoir entré une adresse et un code postal valides.",
 have_a_promocode_question:
 "Code promo ?",
 order_totals_computing:
@@ -462,7 +462,7 @@ order_totals_computing:
 order_validation_failed:
 "Nous n'avons pas réussi à valider votre commande. Veuillez vérifier votre panier et réessayer de nouveau.",
 item_invalid_must_remove:
-"Ce produit ne semble plus être disponible. Il peut s'agir d'un problème de configuration. En continuant, cet item sera enlevé de votre panier.",
+"Ce produit ne semble plus être disponible. Il peut s'agir d'un problème de configuration. En continuant, cet article sera enlevé de votre panier.",
 accept_cart_changes:
 "Accepter les changement et continuer",
 payment_failed_text:
@@ -500,7 +500,7 @@ error_item_stock_exceeded:
 error_item_out_of_stock_text:
 "Désolé ! Il semble que le produit n'est plus disponible. Nous vous suggérons de vérifier de nouveau ultérieurement.",
 item_out_of_stock_with_variant:
-"Désolé ! Il semble que cette déclinaison de produit n'est plus disponible. S'il vous plait, sélectionnez une nouvelle déclinaison ou cet article va être retiré de votre pannier.",
+"Désolé ! Il semble que cette déclinaison de produit n'est plus disponible. S'il vous plait, sélectionnez une nouvelle déclinaison ou cet article va être retiré de votre panier.",
 order_status_processed:
 "Traitée",
 order_status_disputed:
@@ -524,7 +524,7 @@ manage_subscriptions:
 back_to_subscriptions_list:
 "Retour à la liste des abonnements",
 back_to_subscription_details:
-"Retour au détails de l'abonnement",
+"Retour aux détails de l'abonnement",
 discount_remove_confirmation_msg:
 "Êtes-vous sûr de vouloir retirer ce code promo ?",
 notifications_item_not_modified_due_to_min_quantity:
