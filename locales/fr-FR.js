@@ -542,5 +542,55 @@ subscription_notifications_resume_confirm:
 subscription_status_canceled:
 "Annulée",
 subscription_status_paused:
-"Suspendue"
+"Suspendue",
+refund_line:
+"Remboursé",
+stripe_invalid_number:
+"Le numéro de la carte n'est pas valide.",
+stripe_invalid_expiry_month:
+"Le mois d'expiration de la carte est invalide.",
+stripe_invalid_expiry_year:
+"L'année d'expiration de la carte est invalide.",
+stripe_invalid_cvc:
+"Le code de sécurité de la carte est invalide.",
+stripe_invalid_swipe_data:
+"Les données de swipe de la carte sont invalides.",
+stripe_incorrect_number:
+"Le numéro de la carte est incorrect.",
+stripe_expired_card:
+"La carte a expiré",
+stripe_incorrect_cvc:
+"Le code de sécurité de la carte est incorrect",
+stripe_incorrect_zip:
+"Le code postal associé à la carte n'a pas été validé.",
+stripe_card_declined:
+"La carte a été refusée.",
+stripe_missing:
+"Il n'y a pas de carte associée au compte client.",
+stripe_processing_error:
+"Une erreur est survenue durant la vérification de la carte.",
+profile_credit_card:
+"Carte de crédit",
+profile_current_credit_card:
+"La carte de crédit courante finie par {0} et expire le {1}/{2}.",
+profile_update_card:
+"Cliquer ici pour mettre à jour la carte.",
+profile_saved_successfully:
+"Votre compte a bien été sauvé.",
+profile_loading:
+"Chargement de votre compte...",
+profile_saving:
+"Sauvegarde de votre compte...",
+profile_billing_address:
+"Adresse de facturation",
+profile_shipping_address:
+"Adresse de livraison",
+profile_edit_linktitle:
+"Cliquer ici pour modifier votre compte.",
+feature_not_supported_subscriptions:
+"Nous sommes désolés mais les abonnements ne sont pas disponibles avec votre mode de paiement. Cet article ne peut pas être ajouté.",
+profile_title:
+"Mon compte",
+profile_edit_link:
+"{0}"
 });
