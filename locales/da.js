@@ -11,8 +11,12 @@ checkout:
 "Til kassen",
 close:
 "Luk",
+first_name:
+"Fornavn",
 name:
 "Navn",
+last_name:
+"Efternavn",
 company_name:
 "Virksomhedsnavn",
 share_by_email:
@@ -65,8 +69,16 @@ confirm_order:
 "Bekræft ordren",
 bill_me_later:
 "Betal senere",
+bill_me_later_action:
+"Betal senere",
 bill_me_later_explanation:
 "Du får en faktura tilsendt per email",
+pay_via_mollie:
+"Vælg betalingsmetode",
+pay_now_via_mollie:
+"Betal nu",
+pay_via_mollie_explanation:
+"Du vil blive videresendt til en liste over mulige betalingsmetoder",
 promo_code_applied_successfully:
 "Din rabatkode er blevet tilføjet.",
 promo_code_is_invalid:
@@ -81,6 +93,8 @@ promo_code_alternate_price:
 "Specialpris på produkter",
 total:
 "Total",
+total_paid:
+"Betaling total",
 province_state:
 "Region",
 billing_address:
@@ -90,7 +104,9 @@ shipping_address:
 payment_informations:
 "Betalingsinformation",
 payment_informations_bill_me_later:
-"Betal senere",
+"Betaling ikke nødvendig",
+payment_informations_no_payment_required:
+"",
 payment_informations_paypalexpress:
 "Betal med Paypal",
 credit_card_type_mastercard:
@@ -143,6 +159,8 @@ login_form_having_an_account:
 "Log ind",
 login_form_login_action:
 "Log ind",
+login_title:
+"Log ind",
 login_form_forgot_password_action:
 "Glemt password",
 forgot_password_forgot_your_password:
@@ -181,6 +199,8 @@ payment_method_card_exp_year:
 "Udløbsår",
 payment_method_cvc_infos:
 "CVC er et trecifret tal, der findes på bagsiden at dit betalingskort, typisk placeret til højre for din signatur.",
+payment_status:
+"Status for betaling",
 create_an_account:
 "Opret et log ind",
 why_create_account:
@@ -203,6 +223,8 @@ account_created_successfully_message:
 "Din profil er blevet oprettet.",
 errors_required:
 "Skal udfyldes",
+errors_passwords_dont_match:
+"Adgangskoderne er ikke ens",
 errors_email_must_be_unique:
 "Der findes allerede en konto med din e-mail-adresse",
 errors_both_password_must_match:
@@ -219,10 +241,16 @@ errors_invalid_authentication_infos:
 "Udgyldig identifikationsinformationer",
 error_payment_items_empty:
 "Din ordre er ugyldig. Opdatere venligst siden og prøv igen. Der er ikke blevet hævet penge fra dit kredit kort.",
+error_email_is_empty:
+"Det lykkedes os ikke at gemme din email adresse, indtast venligst emailen igen og tryk på Næste for at fortsætte",
 error_payment_items_are_invalid:
 "Det er ikke muligt at gennemføre din ordre. En af varerne har en ugyldig pris.",
 error_crawling_failed:
 "Det var ikke muligt at gennemføre ordren. Der er ikke blevet hævet penge fra dit kredit kort. Prøv venligst igen senere.",
+error_discounts_have_expired:
+"En eller flere af rabatkoderne du har brugt udløb før ordren blev lagt. Gennemse venligst ordren herunder og prøv igen.",
+error_shipping_price_outdated:
+"Fragtmetoden du har valgt er ikke gyldig længere, vælg venligst en anden fragtmetode.",
 powered_by:
 "Powered and secured by",
 promocode_rate_format:
@@ -291,14 +319,110 @@ order_invoice_number:
 "Fakturanummer",
 order_authorization_code:
 "Autorisationskode",
+item_is_being_added:
+"Lægger varen i kurven...",
+order_completing_payment:
+"Placerer ordre...",
+calculating_shipping_fees:
+"Henter fragtpriser...",
+saving:
+"Gemmer...",
+loading:
+"Loader...",
+free_shipping:
+"Gratis fragt",
+cart_plans_name:
+"Plan",
 cart_plans_interval:
 "Interval",
 cart_plans_interval_count:
 "Grev",
+cart_plans_quantity:
+"Antal",
+cart_plans_amount:
+"antal",
+cart_plans_total:
+"Total",
+payable_now:
+"Kan betales nu",
+upcoming_payment_for:
+"Abonnement",
+upcoming_payment_date:
+"Dato",
+upcoming_payment_amount:
+"Total",
+upcoming_payment_subtotal:
+"Subtotal",
+upcoming_payment_shipping:
+"Fragt",
+upcoming_payments:
+"Næste betalinger",
+order_date:
+"Dato",
+order_status:
+"Status",
+order_total:
+"Total",
+orders_history:
+"Mine ordrer",
+subscriptions_history_no_subscriptions:
+"Du har ingen abonnementer endnu.",
+orders_history_no_orders:
+"Du har ingen ordrer endnu.",
+orders_fetching_orders:
+"Henter dine ordrer...",
+user_nav_orders:
+"Mine ordrer",
+user_nav_subscriptions:
+"Mine abonnementer",
+user_nav_cart:
+"Min kurv",
+subscriptions_history:
+"Mine abonnement",
+subscription_name:
+"Navn",
+subscription_amount:
+"Antal",
+subscription_quantity:
+"Antal",
+subscription_total_amount:
+"Total",
+subscriptions_fetching_subscriptions:
+"Henter abonnementer...",
+subscriptions_fetching_details:
+"Henter abonnementsdetaljer...",
+subscription_no_invoices:
+"Dette abonnement har ingen tilknyttede fakturaer",
+subscription_plan_name:
+"Abonnementets navn",
 subscription_plan_interval:
-"Planen interval",
+"Abonnements interval",
 subscription_plan_interval_count:
-"Planen interval antal",
+"Abonnement interval antal",
+subscription_invoice_number:
+"Nummer",
+subscription_invoice_date:
+"Dato",
+subscription_invoice_amount:
+"Beløb",
+subscription_invoice_item:
+"Vare",
+subscription_invoice_info:
+"Fakturaoplysninger",
+subscription_invoice_details:
+"Faktura detaljer",
+subscription_invoice_fetching_details:
+"Henter fakturadetaljer...",
+subscription_invoices_loading:
+"Henter abonnementsfakturaer...",
+subscription_invoices_list:
+"Faktura historik",
+item_out_of_stock:
+"Denne vare er ikke længere på lager",
+click_here_to_remove_it:
+"Klik her for at fjerne den fra kurven",
+outofstock_notification:
+"Nogle varer blev udsolgt under checkout. Gennemse venligst din ordre. Fortvivl ikke, der er ikke blevet trukket fra kortet",
 plan_amount_per_day:
 "{0} / dag",
 plan_amount_per_week:
@@ -315,6 +439,170 @@ plan_amount_per_month_plural:
 "{0} / {1} måneder",
 plan_amount_per_year_plural:
 "{0} / {1} år",
-
-
+plan_days_of_trial:
+"{0} dages prøveperiode",
+subscription_cancel_button:
+"Annuler",
+subscription_pause_button:
+"Pause",
+subscription_cancel_confirmation:
+"Er du sikker på du vil afbestille dit abonnement?",
+subscription_cancel_success:
+"Dit abonnement er afbestilt.",
+subscription_cancelled_notice:
+"Dette abonnement er ikke længere aktivt, det blev afbestilt den {0}.",
+subscription_cancelledon:
+"Afbestilt den",
+paypal_express_checkout_link:
+"Betal med Paypal",
+paypal_express_checkout_title:
+"Betal med PayPal",
+paypal_express_checkout_explanation:
+"Klik på denne knap hvis du foretrækker at betaler direkte gennem Paypal",
+notifications_item_not_added_due_to_max_quantity:
+"Produktet er ikke blevet lagt i kurven da du ikke kan bestille flere af dette produkt",
+error_impossible_to_calculate_taxes:
+"Det har ikke været muligt at udregne skat for ordren, det kan være pga. en ugyldig adresse. Kontroller venligst at adressen er korrekt med et 4 cifret postnummer.",
+have_a_promocode_question:
+"Rabatkupon?",
+order_totals_computing:
+"Beregner skat...",
+order_validation_failed:
+"Det har ikke været muligt at godkende din ordre. Det er us som om der har været ændringer i priser siden du lagde varerne i kurven. Gennemgå venligst din ordre og prøv igen.",
+item_invalid_must_remove:
+"Det ser ud som om varen ikke længere kan bestilles. Kontakt os venligst da det kan være en systemfejl. Varen vil blive fjernet fra kurven ved fortsættelse.",
+accept_cart_changes:
+"Accepter ændringer og fortsæt",
+payment_failed_text:
+"Det er ikke lykkedes os at gennemføre betalingen. Prøv igen eller fortsæt.",
+payment_method_willbepaidlater:
+"Udskudt",
+payment_method_paypal:
+"Paypal",
+payment_method_none:
+"Ingen",
+payment_method_sofort:
+"Sofort",
+payment_method_ideal:
+"Ideal",
+payment_method_mistercash:
+"Mister Cash",
+payment_method_banktransfer:
+"Bank transfer",
+payment_method_directdebit:
+"Direct debit",
+payment_method_belfius:
+"Belfius",
+payment_method_bitcoin:
+"Bitcoin",
+payment_method_podiumcadeaukaart:
+"Podium Cadeau Kaart",
+payment_method_paysafecard:
+"PaySafe card",
+payment_method_bancontact:
+"Bancontact",
+payment_method_creditcard:
+"Kreditkort",
+error_item_stock_exceeded:
+"Vi har desværre ikke så mange af denne vare på lager.",
+error_item_out_of_stock_text:
+"Det ser ud som om varen ikke føres længere. Vi anbefaler du venter med at checke ud.",
+item_out_of_stock_with_variant:
+"Det ser ud som om denne variation af produktet ikke længere kan bestilles. Vælg venligst en anden variation af produktet, ellers fjernes produktet fra kurven.",
+order_status_processed:
+"Gennemført",
+order_status_disputed:
+"Tvist",
+order_status_shipped:
+"Sendt",
+order_status_delivered:
+"Modtager",
+order_status_pending:
+"Afventer",
+order_status_cancelled:
+"Annulleret",
+something_went_wrong_while_fetching_rates:
+"Det er ikke lykkedes os at finde en fragtmetode til den specificerede adresse. Kontakt os for hjælp.",
+error_must_select_shipping_rate:
+"Vælg en fragtmetode for at fortsætte.",
+back_to_orders:
+"Tilbage til ordrer",
+manage_subscriptions:
+"Administrer abonnementer",
+back_to_subscriptions_list:
+"Tilbage til abonnementslisten",
+back_to_subscription_details:
+"Tilbage til abonnementsdetaljer",
+discount_remove_confirmation_msg:
+"Er du sikker på du vil fjerne rabatten?",
+digital_files_not_found:
+"En eller flere digitale filer findes ikke længere, kontakt os venligst.",
+digital_files_download_button:
+"Download fil",
+notifications_item_not_modified_due_to_min_quantity:
+"Du skal mindst bestille {0} af dette produkt.",
+subscription_resume_buttom:
+"Aktivér",
+subscription_summary:
+"Gen-aktivér",
+subscription_notifications_paused:
+"Dette abonnement er sat på hold, du kan aktivere det ved at klikke på knappen Aktivér.",
+subscription_notifications_pause_confirm:
+"Er du sikker på du vil sætte dit abonnement på hold?",
+subscription_notifications_resume_confirm:
+"Er du sikker på du vil gen-aktivere dette abonnement?",
+subscription_status_canceled:
+"Annulleret",
+subscription_status_paused:
+"Sat på hold",
+refund_line:
+"Refunderet",
+stripe_invalid_number:
+"Kortnummeret er ikke et gyldigt Kreditkortnummer",
+stripe_invalid_expiry_month:
+"Kortets udløbsmøned er ugyldigt.",
+stripe_invalid_expiry_year:
+"Kortets udløbsår er ugyldigt.",
+stripe_invalid_cvc:
+"Kortets sikkerhedskode er ugyldigt.",
+stripe_invalid_swipe_data:
+"Kortets swipe data er ugyldigt",
+stripe_incorrect_number:
+"Kortnummeret er ikke korrekt.",
+stripe_expired_card:
+"Kortet er udløbet.",
+stripe_incorrect_cvc:
+"Kortets sikkerhedskode er ikke korrekt",
+stripe_incorrect_zip:
+"Kortets zip kode kunne ikke valideres.",
+stripe_card_declined:
+"Kortet blev afvist.",
+stripe_missing:
+"Der er ikke noget kort på en kunde, der bliver opkrævet.",
+stripe_processing_error:
+"Der opstod en fejl under behandling af kortet.",
+profile_credit_card:
+"Kreditkort",
+profile_current_credit_card:
+"Dit nuværende kreditkort end med {0} og udløber den {1} / {2}.",
+profile_update_card:
+"Klik her for at opdatere det",
+profile_saved_successfully:
+"Profilen er blevet gemt",
+profile_loading:
+"Henter din profil information...",
+profile_saving:
+"Gemmer din profil...",
+profile_billing_address:
+"Betalingsadresse",
+profile_shipping_address:
+"Leveringsadresse",
+profile_edit_linktitle:
+"Klik her for at redigere din profil.",
+feature_not_supported_subscriptions:
+"Vi beklager, men abonnementer er ikke mulige med din betalingsmetode",
+profile_title:
+"Profil",
+profile_edit_link:
+"{0}"
 });
