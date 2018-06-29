@@ -197,6 +197,10 @@ payment_method_card_exp_year:
 "Expiration year",
 payment_method_cvc_infos:
 "The CVC is the 3 digits security number behind your credit card, usually at the right of your signature.",
+payment_method_card_exp_date:
+"Expiration date",
+payment_method_card_postal_code:
+"Postal code",
 payment_status:
 "Payment status",
 create_an_account:
@@ -602,5 +606,23 @@ stripe_processing_error:
 "profile_title": 
 "Profile",
 profile_edit_link:
-"{0}"
+"{0}",
+square_field_cardnumber:
+"Card Number",
+square_field_cvv:
+"CVC",
+square_field_postalcode:
+"Postal Code",
+square_field_expirationdate:
+"Expiration Date",
+square_validation_error:
+"{0} is invalid",
+square_missing_card_data:
+"One or more card data fields was not filled out in the payment form.",
+square_unknown:
+"An unknown error occurred during card validation. Please try again later.",
+square_error_payment_processing:
+"An unexpected error occured when processing the payment, please try again later",
+square_error_payment_method:
+"Credit card validation failed. Please review the provided information."
 });
