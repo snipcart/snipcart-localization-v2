@@ -157,6 +157,8 @@ promo_code_is_expired:
 "Dieser Gutscheincode ist abgelaufen.",
 promo_code_code:
 "Haben Sie einen Gutschein?",
+discount_remove_confirmation_msg:
+"Möchten Sie den Gutschein entfernen?",
 promo_code_rate_on_order:
 "Rabatt auf Ihre Bestellung",
 promo_code_alternate_price:
