@@ -20,9 +20,9 @@ errors_passwords_dont_match:
 error_discounts_have_expired:
 "Rabatte sind abgelaufen",
 have_a_promocode_question:
-"Haben Sie einen Promo-Code?",
+"Haben Sie einen Gutschein-Code?",
 order_totals_computing:
-"Berechne Total ...",
+"Berechne Summe ...",
 order_validation_failed:
 "Wir konnten Ihre Bestellung nicht bestätigen. Anscheinend wurden Produktpreise geändert, seit Sie den Artikel in den Warenkorb gelegt haben. Bitte überprüfen Sie Ihre Bestellung und versuchen Sie es erneut.",
 item_invalid_must_remove:
@@ -60,11 +60,11 @@ payment_method_bancontact:
 payment_method_creditcard:
 "Kreditkarte",
 error_item_stock_exceeded:
-"Sorry! Die gewünschte Artikelanzahl ist nicht mehr an Lager.",
+"Sorry! Die gewünschte Artikelanzahl ist nicht mehr auf Lager.",
 error_item_out_of_stock_text:
-"Sorry! Dieser Artikel ist nicht mehr an Lager. Bitte versuchen Sie es später wieder.",
+"Sorry! Dieser Artikel ist nicht mehr auf Lager. Bitte versuchen Sie es später wieder.",
 item_out_of_stock_with_variant:
-"Sorry! Diese Artikelvariante ist nicht mehr an Lager. Bitte wählen Sie eine andere Variante aus, oder dieser Artikel wird aus dem Warenkorb entfernt.",
+"Sorry! Diese Artikelvariante ist nicht mehr auf Lager. Bitte wählen Sie eine andere Variante aus, oder dieser Artikel wird aus dem Warenkorb entfernt.",
 order_status_processed:
 "Verarbeitet",
 order_status_disputed:
