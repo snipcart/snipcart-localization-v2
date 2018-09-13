@@ -348,7 +348,7 @@ send_error:
 message_sent:
 "Die Nachricht wurde gesendet. Danke!",
 paypalexpress_loading:
-"Sie werden für die Zahlung zu PayPal weitergeleitet.",
+"Sie werden gleich weitergeleitet, bitte warten...",
 paypalexpress_cancelled:
 "Sie haben die Transaktion abgebrochen. Wenn Sie es nochmals versuchen wollen, klicken Sie auf den Knopf.",
 retry:
