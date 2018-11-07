@@ -174,7 +174,7 @@ Snipcart.execute('registerLocale', 'it', {
     login_checkout_as_guest_notice:
     "Al termine del processo di ordine, vi verrà offerta la possibilità di creare un account utilizzando le informazioni immesse durante il processo di ordine.",
     shipping_address_same_as_billing:
-    "Utilizza questo indirizzo per la spedizione",
+    "Usa questo indirizzo per la spedizione",
     shipping_method_method_name:
     "Metodo di spedizione",
     shipping_method_shipping_price:
