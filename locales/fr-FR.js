@@ -442,7 +442,7 @@ subscription_cancel_confirmation:
 subscription_cancel_success:
 "Votre abonnement a été annulé avec succès.",
 subscription_cancelled_notice:
-"Cette abonnement n'est plus actif, il a été annulé en date du {0}.",
+"Cet abonnement n'est plus actif, il a été annulé en date du {0}.",
 subscription_cancelledon:
 "Annulé le",
 paypal_express_checkout_link:
