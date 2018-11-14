@@ -197,6 +197,10 @@ payment_method_card_exp_year:
 "Année d'expiration",
 payment_method_cvc_infos:
 "Le CVC est le code de sécurité à 3 chiffres habituellement en arrière de votre carte à droite de la signature.",
+payment_method_card_exp_date:
+"Date d'expiration",
+ payment_method_card_postal_code:
+"Code Postal",
 payment_status:
 "Status du paiement",
 create_an_account:
@@ -239,6 +243,8 @@ errors_invalid_authentication_infos:
 "Les informations de connexion sont invalides.",
 error_payment_items_empty:
 "Il semble que votre commande est invalide, veuillez rafraîchir la page. Votre carte de crédit n'a pas été chargée.",
+error_email_is_empty:
+"Il semble que nous ne parvenons pas à valider l'adresse email. Merci de l'entrer de nouveau et de cliquer sur Suivant pour continuer.",
 error_payment_items_are_invalid:
 "Nous n'avons pas pu compléter votre commande. Il semble qu'un article dans votre panier a un prix invalide.",
 error_crawling_failed:
@@ -349,6 +355,8 @@ upcoming_payment_amount:
 "Total",
 upcoming_payment_subtotal:
 "Sous-total",
+upcoming_payment_shipping:
+'Livraison',
 upcoming_payments:
 "Prochain paiement",
 order_date:
@@ -529,6 +537,10 @@ back_to_subscription_details:
 "Retour aux détails de l'abonnement",
 discount_remove_confirmation_msg:
 "Êtes-vous certain de vouloir retirer le code promo ?",
+digital_files_not_found:
+"Un ou plusieurs fichiers téléchargeables n'existent pas. Merci de contacter le propriétaire du site pour plus de détails.",
+digital_files_download_button:
+"Télécharger le fichier",
 notifications_item_not_modified_due_to_min_quantity:
 "Désolé, vous devez commander au minimum {0} de ces produits.",
 subscription_resume_buttom:
@@ -594,5 +606,23 @@ feature_not_supported_subscriptions:
 profile_title:
 "Mon compte",
 profile_edit_link:
-"{0}"
+"{0}",
+square_field_cardnumber:
+"Numéro de la carte",
+square_field_cvv:
+"CVC",
+square_field_postalcode:
+"Code Postal",
+square_field_expirationdate:
+"Date d'expiration",
+square_validation_error:
+"{0} est invalide",
+square_missing_card_data:
+"Une ou plusieurs informations n'ont pas été fournies dans le formulaire de paiement.",
+square_unknown:
+"Une erreur inconnue est survenue durant la vérification de la carte. Merci de réessayer plus tard.",
+square_error_payment_processing:
+"Une erreur est survenue durant le paiement. Merci de réessayer plus tard.",
+square_error_payment_method:
+"La validation de la carte a échoué. Merci de vérifier les informations fournies."
 });
