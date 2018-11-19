@@ -104,9 +104,9 @@ shipping_address:
 payment_informations:
 "Betalingsinformation",
 payment_informations_bill_me_later:
-"Betaling ikke nødvendig",
+"Betal senere",
 payment_informations_no_payment_required:
-"",
+"Betaling ikke nødvendig",
 payment_informations_paypalexpress:
 "Betal med Paypal",
 credit_card_type_mastercard:
