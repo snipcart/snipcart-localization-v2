@@ -592,13 +592,13 @@ subscriptions_history:
 subscriptions_history_no_subscriptions:
 "Nie masz jeszcze żadnych abonamentów.",
 subtotal:
-"Suma netto",
+"Suma",
 thankyou_message:
 "Dziękujemy za zamówienie! Faktura została wysłana do Ciebie e-mailem. Wkrótce powinieneś ją otrzymać",
 thankyou_submessage:
 "Wkrótce otrzymasz wiadomość e-mail z potwierdzeniem",
 total:
-"Suma brutto",
+"Do zapłaty",
 total_paid:
 "Pełna kwota",
 upcoming_payment_amount:
