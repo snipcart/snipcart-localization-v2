@@ -347,6 +347,8 @@ cart_plans_total:
 "Total",
 payable_now:
 "Payable now",
+to_be_paid_later:
+"To be paid later",
 upcoming_payment_for:
 "Subscription",
 upcoming_payment_date:
