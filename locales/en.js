@@ -510,7 +510,7 @@ payment_method_creditcard:
 error_item_stock_exceeded:
 "Sorry! Your request exceeds the available stock for this item.",
 error_item_out_of_stock_text:
-"Sorry! Looks like this product is not available anymore. We suggest you check out later.",
+"Sorry! Looks like that the product '{0}' is not available anymore. We suggest you check out later or remove it to continue.",
 item_out_of_stock_with_variant:
 "Sorry! Looks like this variation of the product isn't available anymore. Please select another variation or this item will be removed from the cart.",
 order_status_processed:
