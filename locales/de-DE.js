@@ -22,15 +22,15 @@ error_discounts_have_expired:
 have_a_promocode_question:
 "Haben Sie einen Promo Code?",
 order_totals_computing:
-"Berechne Total...",
+"Berechne Total …",
 order_validation_failed:
 "Wir konnten Ihre Bestellung nicht bestätigen. Es sieht aus, also wurden Prouduktpreise geändert, seit Sie den Artikel in den Warenkorb gelegt haben. Bitte überprüfen Sie Ihre Bestellung und versuchen Sie es erneut.",
 item_invalid_must_remove:
-"Es sieht aus als ob dieser Artikel nicht mehr verfügbar ist. Kontaktieren Sie den Shop-Betrieben und informieren Sie Ihn über dieses Problem. Wenn Sie fortfahren, wird dieser Artikel aus dem Warenkorb entfernt.",
+"Es sieht aus als ob dieser Artikel nicht mehr verfügbar ist. Kontaktieren Sie den Shop-Betreiber und informieren Sie Ihn über dieses Problem. Wenn Sie fortfahren, wird dieser Artikel aus dem Warenkorb entfernt.",
 accept_cart_changes:
 "Akzeptiere Korrekturen und fahre fort",
 payment_failed_text:
-"Sorry, wir konnte Ihre Bezahlung nicht verarbeiten. Sie können weiter shoppen oder es noch einmal versuchen.",
+"Sorry, wir konnten Ihre Bezahlung nicht verarbeiten. Sie können weiter einkaufen oder es noch einmal versuchen.",
 payment_method_willbepaidlater:
 "Wird später bezahlt",
 payment_method_paypal:
@@ -92,7 +92,7 @@ back_to_subscription_details:
 discount_remove_confirmation_msg:
 "Möchten Sie diesen Gutschein wirklich löschen?",
 digital_files_not_found:
-"Ein oder mehrere digitale Downloads existieren nicht mehr. Bitte kontaktieren Sie den Betreiber der Seite.",
+"Ein oder mehrere digitale Downloads existieren nicht mehr. Bitte kontaktieren Sie den Betreiber der Website.",
 digital_files_download_button:
 "Datei herunterladen",
 notifications_item_not_modified_due_to_min_quantity:
@@ -252,7 +252,7 @@ cart_empty_text:
 new_account_form_create_new_account:
 "Ein Konto erstellen",
 new_account_form_create_new_account_action:
-"Konto Erstellen",
+"Konto erstellen",
 login_form_having_an_account:
 "Haben Sie ein Konto?",
 login_form_login_action:
@@ -374,9 +374,9 @@ payment_require_title:
 configuration_problem:
 "Konfigurationsfehler",
 additionnal_information:
-"Schreiben Sie uns hier, wenn Sie uns Feedback bzw. mehr Information zu diesem Problem senden möchten.",
+"Schreiben Sie uns hier, wenn Sie uns Feedback bzw. mehr Informationen zu diesem Problem senden möchten.",
 send_error:
-"Diesen Fehler an den Webseiten-Administrator senden.",
+"Diesen Fehler an den Website-Administrator senden.",
 message_sent:
 "Die Nachricht wurde gesendet. Danke!",
 paypalexpress_loading:
@@ -386,7 +386,7 @@ paypalexpress_cancelled:
 retry:
 "Nochmals versuchen",
 error_crawlingfailed_title:
-"Es gab einene Fehler bei der Validierung Ihrer Bestellung. Es wurde keine Zahlung ausgelöst.",
+"Es gab einen Fehler bei der Validierung Ihrer Bestellung. Es wurde keine Zahlung ausgelöst.",
 error_crawling_unreachable:
 "Artikel <strong>{0}</strong> kann unter <strong>{1}</strong> nicht aufgerufen werden. Bitte stellen Sie sicher, dass die URL öffentlich erreichbar ist.",
 error_crawling_product_not_found:
@@ -394,9 +394,9 @@ error_crawling_product_not_found:
 error_crawling_price_not_found:
 "Artikel <strong>{0}</strong> hat keinen definierten Preis unter <strong>{1}</strong>. Definiere den Preis mit data-item-price.",
 error_crawling_price_doesnot_match:
-"Artikel <strong>{0}</strong> Preis unter <strong>{3}</strong> ist <strong>{2}</strong> , sollte aber <strong>{1}</strong> sein.",
+"Artikel <strong>{0}</strong> Preis unter <strong>{3}</strong> ist <strong>{2}</strong>, sollte aber <strong>{1}</strong> sein.",
 error_crawlingfailed_title_test:
-"Es gab einen Fehler bei der Validierung Ihrer Bestellung. Es wurde keine Zahlung ausgelöst. Diese Webseite ist derzeit im Testmodus.",
+"Es gab einen Fehler bei der Validierung Ihrer Bestellung. Es wurde keine Zahlung ausgelöst. Diese Website ist derzeit im Testmodus.",
 order_completedon:
 "Bestellt am",
 payment_method_status:
@@ -456,7 +456,7 @@ order_status:
 order_total:
 "Summe",
 orders_history:
-"Bestell-Historie",
+"Bestellhistorie",
 subscriptions_history_no_subscriptions:
 "Sie haben bisher keine Abonnements.",
 orders_history_no_orders:
@@ -470,7 +470,7 @@ user_nav_subscriptions:
 user_nav_cart:
 "Mein Warenkorb",
 subscriptions_history:
-"Abonnement-Historie",
+"Abonnementhistorie",
 subscription_name:
 "Name",
 subscription_amount:
@@ -526,13 +526,13 @@ plan_amount_per_year:
 plan_amount_per_day_plural:
 "{0} / {1} Tagen",
 plan_amount_per_week_plural:
-"{0} / {1} wochen",
+"{0} / {1} Wochen",
 plan_amount_per_month_plural:
 "{0} / {1} Monate",
 plan_amount_per_year_plural:
 "{0} / {1} Jahre",
 plan_days_of_trial:
-"{0} Tage Probe",
+"{0} Tage Test",
 subscription_cancel_button:
 "Dieses Abonnement kündigen",
 subscription_pause_button:
