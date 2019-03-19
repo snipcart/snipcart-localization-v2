@@ -74,13 +74,13 @@ bill_me_later_explanation:
 pay_via_mollie:
 "選擇付款方式",
 pay_now_via_mollie:
-"現在付款　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+"現在付款",
 pay_via_mollie_explanation:
-"您將會被引導新的頁面."
-promo_code_is_invalid:d to a list of available payment options.
-"您的折扣已成功應用"
-promo_code_applied_successfully:
+"您將會被引導新的頁面.",
+promo_code_is_invalid:
 "促銷代碼無效.",
+promo_code_applied_successfully:
+"您的折扣已成功應用",
 promo_code_is_expired:
 "此促銷代碼已過期.",
 promo_code_code
@@ -148,9 +148,9 @@ cart_items_table_unit_price:
 cart_items_table_total_price:
 "總價",
 cart_empty_text:
-"購物車現在是空的."退房前選擇要購買的產品
+"購物車現在是空的.",
 new_account_form_create_new_account:
-"建立一個登錄"
+"建立一個登錄",
 new_account_form_create_new_account_action:
 "建立一個登錄",
 login_form_having_an_account:
@@ -242,16 +242,16 @@ errors_reset_password_token_expired:
 errors_invalid_authentication_infos:
 "身份驗證信息無效",
 error_payment_items_empty:
-"您的訂單似乎無效, 請重新載入頁面. 您的信用卡尚未收費."
+"您的訂單似乎無效, 請重新載入頁面. 您的信用卡尚未收費.",
 error_email_is_empty:
-"看起來我們在保存您的電子郵件地址時出現問題," "請再次輸入並點擊下一步繼續" 
+"看起來我們在保存您的電子郵件地址時出現問題,",
 error_payment_items_are_invalid:
 "我們無法完成您的訂單. 您的購物車其中一件商品價格似乎無效.",
 error_crawling_failed:
 "我們無法驗證您的訂單, 您的信用卡尚未收費,請稍後重試.",
 error_discounts_have_expired:
 "不幸的是，再您完成結帳流程以前，您的折扣已過期. 請查看以下訂單然後重試.",
-error_shipping_price_outdated:請再輸入一次
+error_shipping_price_outdated:
 "您選擇的送貨選項不再有效， 請選擇其他送貨方式.",
 powered_by:
 "可靠的安全來源來自於",
@@ -272,7 +272,7 @@ back:
 order_infos:
 "訂單信息", 
 generic_error_title:
-"哎呀，發生錯誤"
+"哎呀，發生錯誤",
 promocode_deleted_at_checkout:
 "您在結帳時，使用的折扣已達到限制. 很抱歉給您帶來不便.",
 continue_shopping:
@@ -289,8 +289,6 @@ send_error:
 "將此錯誤發送給網站所有者",
 message_sent:
 "消息已發送，謝謝",
-pays　palexpress_loading:
-"just second ",
 paypalexpress_cancelled:
 "您取消了交易, 您可以點擊下面再試一次，或者繼續購物.",
 retry:
@@ -585,27 +583,27 @@ stripe_missing:
 "There is no card on a customer that is being charged.",
 stripe_processing_error:
 "處理卡時發生錯誤.",
-"profile_credit_card":
+profile_credit_card:
 "信用卡",
-"profile_current_credit_card":
+profile_current_credit_card:
 "您當前的信用卡結束並過期{0} {1} / {2}.",
-"profile_update_card":
+profile_update_card:
 "點擊這裡更新",
-"profile_saved_successfully":
-"您的個人資料已成功保存":
-"profile_loading",
-"獲取您的個人資料...":
-"profile_saving",
-"保存個人資料......":
-"profile_billing_address",
-"帳單地址":
-"profile_shipping_address",
-"收件地址":
-"profile_edit_linktitle.",
-"點擊此處編輯您的個人資料": 
-"feature_not_supported_subscriptions.",
-"很抱歉，您的付款網關無法使用訂閱." "此項目無法添加.", 
-"profile_title",
+profile_saved_successfully:
+"您的個人資料已成功保存",
+profile_loading:
+"獲取您的個人資料...",
+profile_saving:
+"保存個人資料......",
+profile_billing_address:
+"帳單地址",
+profile_shipping_address:
+"收件地址",
+profile_edit_linktitle:
+"點擊此處編輯您的個人資料",
+feature_not_supported_subscriptions:
+"很抱歉，您的付款網關無法使用訂閱.",
+profile_title:
 "側影",
 profile_edit_link:
 "{0}",
