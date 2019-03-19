@@ -83,7 +83,7 @@ promo_code_applied_successfully:
 "您的折扣已成功應用",
 promo_code_is_expired:
 "此促銷代碼已過期.",
-promo_code_code
+promo_code_code:
 "有折扣嗎?",
 promo_code_rate_on_order:
 "訂單折扣",
@@ -328,7 +328,7 @@ calculating_shipping_fees:
 saving:
 "保存",
 loading:
-"載入中"
+"載入中",
 free_shipping:
 "免費送貨",
 cart_plans_name:
