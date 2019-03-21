@@ -180,7 +180,7 @@ shipping_method_method_name:
 shipping_method_shipping_price:
 "郵寄價錢",
 shipping_method_failure_message:
-"再試一次，請確保您的送貨地址正確無誤.",　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+"再試一次，請確保您的送貨地址正確無誤.",
 shipping_method_failure_click_here_to_edit:
 "點擊此處編輯您的送貨地址",
 payment_method_card_holder:
@@ -196,7 +196,7 @@ payment_method_card_exp_month:
 payment_method_card_exp_year:
 "到期年份",
 payment_method_cvc_infos:
-"ＣＶＣ是三位數，通常在您簽名的右側",　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+"ＣＶＣ是三位數，通常在您簽名的右側",
 payment_method_card_exp_date:
 "信用卡有效期限",
 payment_method_card_postal_code:
@@ -206,7 +206,7 @@ payment_status:
 create_an_account:
 "建立一個登錄",
 why_create_account:
-"為了更快地結帳下一個訂單，只需輸入密碼即可創建登錄信息",　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+"為了更快地結帳下一個訂單，只需輸入密碼即可創建登錄信息",
 reset_password:
 "重設密碼",
 reset_password_success:
