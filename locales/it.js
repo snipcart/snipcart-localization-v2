@@ -197,6 +197,10 @@ Snipcart.execute('registerLocale', 'it', {
     "Anno di scadenza",
     payment_method_cvc_infos:
     "Il CVC è un numero di sicurezza di 3 cifre situatio sul retro della carta, normalmente è posto alla destra della tua firma.",
+    payment_method_card_exp_date:
+    "Data di scadenza",
+    payment_method_card_postal_code:
+    "CAP",
     payment_status:
     "Stato del pagamento",
     create_an_account:
@@ -343,6 +347,8 @@ Snipcart.execute('registerLocale', 'it', {
     "Totale",
     payable_now:
     "Pagabile ora",
+    to_be_paid_later:
+    "Pagabile in seguito",
     upcoming_payment_for:
     "Sottoscrizione",
     upcoming_payment_date:
@@ -363,6 +369,18 @@ Snipcart.execute('registerLocale', 'it', {
     "Totale",
     orders_history:
     "I miei ordini",
+    subscriptions_history_no_subscriptions:
+    "Non hai nessuna sottoscrizione.",
+    orders_history_no_orders:
+    "Non hai nessun ordine.",
+    orders_fetching_orders:
+    "Sto caricando i tuoi ordini...",
+    user_nav_orders:
+    "I miei ordini",
+    user_nav_subscriptions:
+    "Le mie sottoscrizioni",
+    user_nav_cart:
+    "Il mio carrello",
     subscriptions_history:
     "Le mie sottoscrizioni",
     subscription_name:
@@ -586,5 +604,27 @@ Snipcart.execute('registerLocale', 'it', {
     profile_edit_linktitle:
     "Clicca qui per modificare il profilo.",
     feature_not_supported_subscriptions:
-    "Siamo spiacenti, ma le sottoscrizioni non sono acquistabili col gateway di pagamento richiesto. Questo elemento non può essere aggiunto."
+    "Siamo spiacenti, ma le sottoscrizioni non sono acquistabili col gateway di pagamento richiesto. Questo elemento non può essere aggiunto.",
+    profile_title: 
+    "Profilo",
+    profile_edit_link:
+    "{0}",
+    square_field_cardnumber:
+    "Numero della carta",
+    square_field_cvv:
+    "CVC",
+    square_field_postalcode:
+    "CAP",
+    square_field_expirationdate:
+    "Data di scadenza",
+    square_validation_error:
+    "{0} non è valido",
+    square_missing_card_data:
+    "Uno o più dati della carta non sono stati compilati nel form di pagamento.",
+    square_unknown:
+    "Errore sconosciuto durante la validazione della carta. Per favore riprova più tardi.",
+    square_error_payment_processing:
+    "Errore inatteso durante la validazione del pagamento, per favore riprova più tardi",
+    square_error_payment_method:
+    "Validazione della carta di credito fallita. Per favore controlla le informazioni inserite."
 });
