@@ -66,6 +66,8 @@ Snipcart.execute('bind', 'app.ready', function() {
   "Betalning mot faktura",
   bill_me_later_explanation:
   "En faktura kommer att skickas till dig via E-mail",
+  have_a_promocode_question: 
+  "Har du en kampanjkod?",
   promo_code_applied_successfully:
   "Din kampanjkod har blivit tillagd",
   promo_code_is_invalid:
@@ -132,6 +134,10 @@ Snipcart.execute('bind', 'app.ready', function() {
   "Totalpris",
   cart_empty_text:
   "Kundvagnen är tom, välj en produkt innan du går till kassan",
+  accept_cart_changes:
+  "Godkänn ändringar",
+  item_invalid_must_remove:
+  "Varan är felaktig och måste tas bort",
   new_account_form_create_new_account:
   "Skapa en inloggning",
   new_account_form_create_new_account_action:
