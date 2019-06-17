@@ -107,7 +107,7 @@ payment_informations_bill_me_later:
 payment_informations_no_payment_required:
 "Ingen betalning krävs",
 payment_informations_paypalexpress:
-"Betala med Paypal",
+"Betala med PayPal",
 credit_card_type_mastercard:
 "Mastercard",
 credit_card_type_visa:
