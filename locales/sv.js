@@ -93,7 +93,7 @@ promo_code_alternate_price:
 total:
 "Totalt",
 total_paid:
-"Total paid",
+"Betalat",
 province_state:
 "Län",
 billing_address:
