@@ -461,7 +461,7 @@ subscription_cancelledon:
 paypal_express_checkout_link:
 "Betala med Paypal",
 paypal_express_checkout_title:
-"Betala med Paypal",
+"Betala med PayPal",
 paypal_express_checkout_explanation:
 "Klicka här om du önskar att genomföra betalningen direkt genom PayPal.",
 notifications_item_not_added_due_to_max_quantity:
