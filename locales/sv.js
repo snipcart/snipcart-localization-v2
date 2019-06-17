@@ -483,7 +483,7 @@ payment_failed_text:
 payment_method_willbepaidlater:
 "Faktura",
 payment_method_paypal:
-"Paypal",
+"PayPal",
 payment_method_none:
 "Ingen",
 payment_method_sofort:
