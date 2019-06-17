@@ -459,7 +459,7 @@ subscription_cancelled_notice:
 subscription_cancelledon:
 "Avbröts",
 paypal_express_checkout_link:
-"Betala med Paypal",
+"Betala med PayPal",
 paypal_express_checkout_title:
 "Betala med PayPal",
 paypal_express_checkout_explanation:
