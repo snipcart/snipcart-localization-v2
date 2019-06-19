@@ -47,6 +47,8 @@ country:
 "Χώρα",
 subtotal:
 "Υποσύνολο",
+tax_adjustments:
+"Φορολογικές προσαρμογές",
 rebate:
 "Έκπτωση",
 apply_promo_code:

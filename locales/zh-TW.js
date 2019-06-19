@@ -51,6 +51,8 @@ country:
 "國家",
 subtotal:
 "小計",
+tax_adjustments:
+"税收调整",
 rebate:
 "折扣",
 apply_promo_code:

@@ -51,6 +51,8 @@ country:
 "Pays",
 subtotal:
 "Sous-total",
+tax_adjustments:
+"Ajustement des taxes",
 rebate:
 "Rabais",
 apply_promo_code:

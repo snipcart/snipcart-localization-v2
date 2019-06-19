@@ -259,6 +259,7 @@ Snipcart.execute('registerLocale', 'nl', {
 	subscriptions_history: "Mijn abonnementen",
 	subscriptions_history_no_subscriptions: "U heeft nog geen abonnementen",
 	subtotal: "subtotaal",
+	tax_adjustments:"Belastingaanpassingen",
 	thankyou_message: "Bedankt voor uw bestelling! Uw factuur is verzonden naar uw e-mailadres.",
 	thankyou_submessage: "U zult zo dadelijk een bevestigingsmail ontvangen",
 	total: "Totaal",

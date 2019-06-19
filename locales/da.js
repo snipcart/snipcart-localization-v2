@@ -51,6 +51,8 @@ country:
 "Land",
 subtotal:
 "Subtotal",
+tax_adjustments:
+"Skattejusteringer",
 rebate:
 "Rabat",
 apply_promo_code:

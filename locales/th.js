@@ -47,6 +47,8 @@
 "ประเทศ",
  subtotal:
 "ยอดรวม",
+tax_adjustments:
+"การปรับภาษี",
  rebate:
 "คืนเงิน",
  apply_promo_code:

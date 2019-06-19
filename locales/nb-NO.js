@@ -47,6 +47,8 @@ country:
 "Land",
 subtotal:
 "Totalt",
+tax_adjustments:
+"Skattejusteringer",
 rebate:
 "Rabatt",
 apply_promo_code:

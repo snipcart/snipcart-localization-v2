@@ -593,6 +593,8 @@ subscriptions_history_no_subscriptions:
 "Nie masz jeszcze żadnych abonamentów.",
 subtotal:
 "Suma",
+tax_adjustments:
+"Korekty podatkowe",
 thankyou_message:
 "Dziękujemy za zamówienie! Faktura została wysłana do Ciebie e-mailem. Wkrótce powinieneś ją otrzymać",
 thankyou_submessage:

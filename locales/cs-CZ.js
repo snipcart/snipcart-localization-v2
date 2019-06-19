@@ -51,6 +51,8 @@ country:
 "Země",
 subtotal:
 "Mezisoučet",
+tax_adjustments:
+"Daňové úpravy",
 rebate:
 "Sleva",
 apply_promo_code:

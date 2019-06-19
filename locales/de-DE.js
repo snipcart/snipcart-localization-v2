@@ -161,6 +161,8 @@ country:
 "Land",
 subtotal:
 "Zwischensumme",
+tax_adjustments:
+"Steuerliche Anpassungen",
 rebate:
 "Rabatt",
 apply_promo_code:

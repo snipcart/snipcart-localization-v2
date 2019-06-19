@@ -52,6 +52,8 @@ country:
 "Land",
 subtotal:
 "Delsumma",
+tax_adjustments:
+"Skattejusteringar",
 rebate:
 "Rabatt",
 apply_promo_code:

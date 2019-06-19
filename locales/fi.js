@@ -47,6 +47,8 @@ country:
 "Maa",
 subtotal:
 "Välisumma",
+tax_adjustments:
+"Verokorjaukset",
 rebate:
 "Alennus",
 apply_promo_code:

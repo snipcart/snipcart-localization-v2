@@ -51,6 +51,8 @@ country:
 "Država",
 subtotal:
 "Ukupno",
+tax_adjustments:
+"Porezne prilagodbe",
 rebate:
 "Popust",
 apply_promo_code:

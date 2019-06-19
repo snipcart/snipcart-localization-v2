@@ -47,6 +47,8 @@ country:
 "Ülke",
 subtotal:
 "Ara Toplam",
+tax_adjustments:
+"Vergi düzeltmeleri",
 rebate:
 "İndirim",
 apply_promo_code:

@@ -51,6 +51,8 @@ Snipcart.execute('registerLocale', 'it', {
     "Paese",
     subtotal:
     "Subtotale",
+    tax_adjustments:
+    "Rettifiche fiscali",
     rebate:
     "Sconto",
     apply_promo_code:

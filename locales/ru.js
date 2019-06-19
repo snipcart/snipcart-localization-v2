@@ -47,6 +47,8 @@ country:
 "Страна",
 subtotal:
 "Сумма",
+tax_adjustments:
+"Налоговые корректировки",
 rebate:
 "Скидка",
 apply_promo_code:

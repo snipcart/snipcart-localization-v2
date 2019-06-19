@@ -51,6 +51,8 @@ country:
 "Krajina",
 subtotal:
 "Medzisúčet",
+tax_adjustments:
+"Daňové úpravy",
 rebate:
 "Rebate",
 apply_promo_code:

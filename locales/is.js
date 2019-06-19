@@ -51,6 +51,8 @@ country:
 "Land",
 subtotal:
 "Heildarupphæð",
+tax_adjustments:
+"Skattbreytingar",
 rebate:
 "Endurgreiðsla",
 apply_promo_code:

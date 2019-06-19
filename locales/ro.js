@@ -51,6 +51,8 @@ country:
 "Țara",
 subtotal:
 "Subtotal",
+tax_adjustments:
+"Ajustări fiscale",
 rebate:
 "Rabat",
 apply_promo_code:

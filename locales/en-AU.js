@@ -51,6 +51,8 @@ country:
 "Country",
 subtotal:
 "Subtotal",
+tax_adjustments:
+"Tax adjustments",
 rebate:
 "Rebate",
 apply_promo_code:
