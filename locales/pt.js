@@ -4,37 +4,37 @@ yes:
 no:
 "Não",
 print:
-"Imprimir",
+"Print",
 download_as_pdf:
-"Download do PDF",
+"Download como PDF",
 checkout:
 "Checkout",
 close:
 "Fechar",
 first_name:
-"Primeiro Nome",
+"Primeiro nome",
 name:
 "Nome",
 last_name:
-"Último Nome",
+"Último nome",
 company_name:
-"Nome da Empresa",
+"Nome da empresa",
 share_by_email:
-"Partilhar pelo email",
+"Compartilhe por email",
 email:
 "Email",
 password:
-"Palavra-Chave",
+"Senha",
 confirm_password:
-"Confirmar Palavra-Chave",
+"Confirmar Senha",
 ok:
 "OK",
 send:
 "Enviar",
 address_1:
-"Morada",
+"Endereço",
 address_2:
-"Morada 2",
+"Endereço 2",
 city:
 "Cidade",
 postal_code:
@@ -42,71 +42,71 @@ postal_code:
 phone:
 "Telefone",
 previous:
-"Passo Anterior",
+"Passo anterior",
 next:
-"Passo Seguinte",
+"Próximo passo",
 finalize:
-"Finalizar Pedido",
+"Confirmar Pedido",
 country:
 "País",
 subtotal:
-"Desconto",
+"Subtotal",
 rebate:
-"Rebate",
+"Desconto",
 apply_promo_code:
-"Aplicar Promoção",
+"Aplicar código promocional",
 my_cart:
-"O meu Carrinho",
+"O meu carrinho",
 my_cart_content:
-"O conteúdo do meu Carrinho",
+"Conteúdo do meu carrinho",
 shipping_method:
-"Métodos de Envio",
+"Método de envio",
 payment_method:
-"MÉtodos de Pagamento",
+"Método de pagamento",
 confirm_order:
-"Confirmar Pedido",
+"Confirmar pedido",
 bill_me_later:
-"Pagar mais tarde",
+"Pague depois",
 bill_me_later_action:
-"Pagar mais tarde",
+"Pague depois",
 bill_me_later_explanation:
-"Uma fatura será enviada para si.",
+"Uma fatura será enviada por e-mail.",
 pay_via_mollie:
-"Escolha o seu método de pagamento",
+"Escolha o método de pagamento",
 pay_now_via_mollie:
-"Pagar agora",
+"Pague agora",
 pay_via_mollie_explanation:
-"Será redirecionado para uma lista dos métodos de pagamento.",
+"Você será redirecionado para uma lista de opções de pagamento disponíveis.",
 promo_code_applied_successfully:
-"O seu Desconto foi aplicado com sucesso.",
+"Seu desconto foi aplicado com sucesso.",
 promo_code_is_invalid:
-"Código de promoção inválido.",
+"O código promocional é inválido.",
 promo_code_is_expired:
-"Este código promocional expirou.",
+"Este código de promoção expirou.",
 promo_code_code:
-"Tem um código de Desconto?",
+"Tem um desconto?",
 promo_code_rate_on_order:
-"desconto no pedido",
+"Desconto no pedido",
 promo_code_alternate_price:
-"preço especial nos produtos",
+"Preço especial sobre produtos",
 total:
 "Total",
 total_paid:
-"Total Pago",
+"Total pago",
 province_state:
-"State / Province",
+"Estado / Província",
 billing_address:
-"Billing address",
+"Endereço de cobrança",
 shipping_address:
-"Shipping address",
+"Endereço de entrega",
 payment_informations:
-"Payment information",
+"Informação de pagamento",
 payment_informations_bill_me_later:
-"I will pay later",
+"Eu pagarei mais tarde",
 payment_informations_no_payment_required:
-"No payment required",
+"Não é necessário pagamento",
 payment_informations_paypalexpress:
-"Payment with Paypal",
+"Pagamento com Paypal",
 credit_card_type_mastercard:
 "Mastercard",
 credit_card_type_visa:
@@ -114,377 +114,371 @@ credit_card_type_visa:
 credit_card_type_amex:
 "American Express",
 months_january:
-"January",
+"Janeiro",
 months_february:
-"February",
+"Fevereiro",
 months_march:
-"March",
+"Março",
 months_april:
-"April",
+"Abril",
 months_may:
-"May",
+"Maio",
 months_june:
-"June",
+"Junho",
 months_july:
-"July",
+"Julho",
 months_august:
-"August",
+"Agosto",
 months_september:
-"September",
+"Setembro",
 months_october:
-"October",
+"Outubro",
 months_november:
-"November",
+"Novembro",
 months_december:
-"December",
+"Dezembro",
 cart_items_table_item:
 "Item",
 cart_items_table_description:
-"Description",
+"Descrição",
 cart_items_table_quantity:
-"Quantity",
+"Quantidade",
 cart_items_table_unit_price:
-"Unit Price",
+"Preço unitário",
 cart_items_table_total_price:
-"Total Price",
+"Preço total",
 cart_empty_text:
-"The cart is now empty. Select some products to buy before checking out.",
+"O carrinho está vazio. Selecione alguns produtos para comprar antes de efetuar o check-out.",
 new_account_form_create_new_account:
-"Create a login",
+"Crie um login",
 new_account_form_create_new_account_action:
-"Create a login",
+"Crie um login",
 login_form_having_an_account:
-"Sign in",
+"Registe-se",
 login_form_login_action:
-"Log in",
+"Login",
 login_title:
 "Login",
 login_form_forgot_password_action:
-"I forgot my password",
+"Esqueci-me da minha senha",
 forgot_password_forgot_your_password:
-"Forgot your password?",
+"Esqueceu a sua senha?",
 forgot_password_please_enter_email:
-"Please enter your email, we will send you an email containing a unique link to reset your password.",
+"Digite o seu e-mail, nós lhe enviaremos um e-mail contendo um link exclusivo para redefinir sua senha.",
 forgot_password_success_email_sent:
-"Email sent",
+"E-mail enviado",
 forgot_password_email_sent_message:
-"An email has been sent to you with instructions about how to reset your password. Go check the email and follow the steps.",
+"Um e-mail foi enviado para voçê com instruções sobre como redefinir sua senha. Verifique seu email e siga os passos.",
 login_checkout_as_guest:
-"Checkout as a guest",
+"Checkout como convidado",
 login_checkout_as_guest_notice:
-"Checkout as a guest if you don't want to create an account for this purchase. Please note that your information won't be saved for your next orders.",
+"Checkout como convidado se você não quiser criar uma conta para esta compra. Tenha em mente que as suas informações não serão guardadas para as próximas encomendas.",
 shipping_address_same_as_billing:
-"Use this address for shipping",
+"Use este endereço para enviar",
 shipping_method_method_name:
-"Shipping method",
+"Método de envio",
 shipping_method_shipping_price:
-"Shipping price",
+"Preço de envio",
 shipping_method_failure_message:
-"We have not been able to find any possible shipping method. Please make sure your shipping address is correct and try again.",
+"Não conseguimos encontrar nenhum método de envio possível. Certifique-se de que o endereço de entrega está correto e tente novamente.",
 shipping_method_failure_click_here_to_edit:
-"Click here to edit your shipping address",
+"Clique aqui para editar seu endereço de cobrança",
 payment_method_card_holder:
-"Name on card",
+"Nome no cartão",
 payment_method_card_type:
-"Card type",
+"Tipo de carta",
 payment_method_card_number:
-"Card number",
+"Número do cartão",
 payment_method_card_cvc:
 "CVC",
 payment_method_card_exp_month:
-"Expiration month",
+"Mês de validade",
 payment_method_card_exp_year:
-"Expiration year",
+"Ano de expiração",
 payment_method_cvc_infos:
-"The CVC is the 3 digits security number behind your credit card, usually at the right of your signature.",
-payment_method_card_exp_date:
-"Expiration date",
-payment_method_card_postal_code:
-"Postal code",
+"O CVC é o número de segurança de 3 dígitos atrás do seu cartão de crédito, geralmente à direita da sua assinatura.",
 payment_status:
-"Payment status",
+"Status do pagamento",
 create_an_account:
-"Create a login",
+"Crie um login",
 why_create_account:
-"For a faster checkout on your next order, just enter a password to create a login.",
+"Para uma compra mais rápida no seu próximo pedido, basta digitar uma senha para criar um login.",
 reset_password:
-"Reset password",
+"Redefinir senha",
 reset_password_success:
-"Reset password completed",
+"Redefinir senha concluída",
 reset_password_changed:
-"Your password has been changed.",
+"Sua senha foi alterada.",
 reset_password_click_here_to_login:
-"Click here to login",
+"Clique aqui para fazer login",
 thankyou_message:
-"Thank you for your order! Your invoice has been sent to you by email, you should receive it soon.",
+"Obrigado pelo seu pedido! Sua fatura foi enviada por e-mail, você deve recebê-la em breve.",
 thankyou_submessage:
-"You will receive a confirmation email soon",
+"Você receberá um email de confirmação em breve",
 account_created_successfully:
-"Account created successfully",
+"Conta criada com sucesso",
 account_created_successfully_message:
-"Your account has been successfully created, thank you.",
+"Sua conta foi criada com sucesso, obrigado.",
 errors_required:
-"This field is required",
+"Este campo é obrigatório",
 errors_passwords_dont_match:
-"Both passwords must match",
+"Ambas as senhas devem corresponder",
 errors_email_must_be_unique:
-"A user with the same email already exists",
+"Um utilizador com o mesmo e-mail já existe",
 errors_both_password_must_match:
-"Both passwords must match",
+"Ambas as senhas devem corresponder",
 errors_email_must_be_valid:
-"The email must be valid",
+"O e-mail deve ser válido",
 errors_email_does_not_match_any_existing_user:
-"No user with this email exists",
+"Nenhum utilizador com este e-mail existe",
 errors_email_does_not_match_reset_password_request:
-"User email does not match any existing reset password request.",
+"O email do utilizador não corresponde a nenhuma solicitação de senha de reinicialização existente.",
 errors_reset_password_token_expired:
-"The reset password token has expired.",
+"O token de senha de redefinição expirou.",
 errors_invalid_authentication_infos:
-"Invalid authentication information",
+"Informações de autenticação inválidas",
 error_payment_items_empty:
-"It seems that your order is invalid, please reload the page. Your credit card has not been charged.",
+"Parece que seu pedido não é válido, recarregue a página. Seu cartão de crédito não foi cobrado.",
 error_email_is_empty:
-"Looks like we got an issue saving your email address, please enter it again and click Next to continue.",
+"Parece que tivemos um problema salvando seu endereço de e-mail, por favor insira-o novamente e clique em Avançar para continuar.",
 error_payment_items_are_invalid:
-"We have not been able to complete your order. It seems that one of the items in your cart has an invalid price.",
+"Não conseguimos completar o seu pedido. Parece que um dos itens no seu carrinho tem um preço inválido.",
 error_crawling_failed:
-"We have not been able to validate your order, your credit card has not been charged, please try again in a few moments.",
+"Não conseguimos validar o seu pedido, o seu cartão de crédito não foi cobrado, tente novamente em alguns momentos.",
 error_discounts_have_expired:
-"Unfortunately one of the discount you had has expired before you completed the checkout process. Please review the order below and try again.",
+"Infelizmente, um dos descontos que você teve expirou antes de concluir o processo de pagamento. Por favor, reveja o pedido abaixo e tente novamente.",
 error_shipping_price_outdated:
-"The shipping option you selected is not valid anymore, please choose another shipping method.",
+"A opção de envio que você selecionou não é mais válida, escolha outro método de envio.",
 powered_by:
-"Powered and secured by",
+"Distribuído e protegido por",
 promocode_rate_format:
-"{0}% discount on your order",
+"{0}% desconto no seu pedido",
 promocode_amount_format:
-"{0} discount on your order",
+"{0} desconto no seu pedido",
 shipping_method_business_days:
-"{0} business days",
+"{0} dias úteis",
 shipping_method_business_day:
-"{0} business day",
+"{0} dias úteis",
 shipping_method_delivery_time:
-"By {0}", // By 2013-11-28
+"De {0}",
 welcome:
-"Welcome",
+"Bem Vindo",
 back:
-"Back",
+"Voltar",
 order_infos:
-"Order info",
+"Informação de pedido",
 generic_error_title:
-"Oops, an error occured.",
+"Ops! Ocorreu um erro.",
 promocode_deleted_at_checkout:
-"The Discount you used has reached its usage limit while you were doing your checkout. Sorry for this inconvenience.",
+"O desconto que você usou atingiu seu limite de uso enquanto fazia seu checkout. Desculpe pelo inconveniente.",
 continue_shopping:
-"Continue shopping",
+"Continuar a comprar",
 payment_required_message:
-"The shopping cart for this website has been disabled. If you are the owner of this website, please login into Snipcart dashboard to resolve the issue.",
+"O carrinho de compras para este site foi desativado. Se você é o proprietário deste site, faça o login no painel do painel Snipcart para resolver o problema.",
 payment_require_title:
-"The shopping cart is disabled.",
+"O carrinho de compras está desativado.",
 configuration_problem:
-"Configuration problem",
+"Problema de configuração",
 additionnal_information:
-"Enter a message below if you want to send feedback or more information about this problem.",
+"Digite uma mensagem abaixo se desejar enviar comentários ou mais informações sobre esse problema.",
 send_error:
-"Send this error to website's owner",
+"Envie este erro ao proprietário do site",
 message_sent:
-"Message sent, thank you",
+"Mensagem enviada, obrigado",
 paypalexpress_loading:
-"Just a few seconds...",
+"Apenas alguns segundos...",
 paypalexpress_cancelled:
-"You cancelled the transaction, you can either click on the button below to try again or simply continue to shop.",
+"Você cancelou a transação, você pode clicar no botão abaixo para tentar novamente ou simplesmente continuar a comprar.",
 retry:
-"Try again",
+"Tente novamente",
 error_crawlingfailed_title:
-"Something went wrong when validating your order, don't worry, you have not been charged.",
+"Aconteceu algum erro ao validar seu pedido, não se preocupe, você não foi cobrado.",
 error_crawling_unreachable:
-"Item <strong>{0}</strong> is unreachable at <strong>{1}</strong>. Make sure the product URL is publicly available.",
+"O item <strong>{0}</strong> é inacessível em <strong>{1}</strong>. Verifique se a URL do produto está disponível publicamente.",
 error_crawling_product_not_found:
-"Item <strong>{0}</strong> has not been found at <strong>{1}</strong>.",
+"O item <strong>{0}</strong> não foi encontrado em <strong>{1}</strong>.",
 error_crawling_price_not_found:
-"Item <strong>{0}</strong> does not have any specified price at <strong>{1}</strong>, specify it with data-item-price.",
+"O item <strong>{0}</strong> não tem nenhum preço especificado em <strong>{1}</strong>, especifique-o com dados-item-preço.",
 error_crawling_price_doesnot_match:
-"Item <strong>{0}</strong> price at <strong>{3}</strong> is <strong>{2}</strong> but should be <strong>{1}</strong>.",
+"O item <strong>{0}</strong> preço em <strong>{3}</strong> é <strong>{2}</strong> mas deve ser <strong>{1}</strong>.",
 error_crawlingfailed_title_test:
-"Something went wrong when validating your order, don't worry, you have not been charged. This website is currently in Test mode.",
+"Aconteceu algum erro ao validar seu pedido, não se preocupe, você não foi cobrado. Este site está atualmente no modo Teste.",
 order_completedon:
-"Placed on",
+"Colocado sobre",
 payment_method_status:
-"Transaction status",
+"Status da transação",
 payment_method_status_approved:
-"Approved",
+"Aprovado",
 order_reference_number:
-"Reference number",
+"Número de referência",
 order_transaction_amount:
-"Transaction amount",
+"Valor da transação",
 order_invoice_number:
-"Invoice number",
+"Número da fatura",
 order_authorization_code:
-"Authorization code",
+"Código de autorização",
 item_is_being_added:
-"Adding item to the cart...",
+"Adicionando item ao carrinho...",
 order_completing_payment:
-"Placing order...",
+"Efetuando pagamento...",
 calculating_shipping_fees:
-"Getting shipping rates...",
+"Obtendo taxas de envio...",
 saving:
-"Saving...",
+"A Salvar...",
 loading:
-"Loading...",
+"A Carregar...",
 free_shipping:
-"Free shipping",
+"Portes grátis",
 cart_plans_name:
-"Plan",
+"Plano",
 cart_plans_interval:
-"Interval",
+"Intervalo",
 cart_plans_interval_count:
-"Count",
+"Contagem",
 cart_plans_quantity:
-"Quantity",
+"Quantidade",
 cart_plans_amount:
-"Amount",
+"Montante",
 cart_plans_total:
 "Total",
 payable_now:
-"Payable now",
-to_be_paid_later:
-"To be paid later",
+"A pagar agora",
 upcoming_payment_for:
-"Subscription",
+"Inscrição",
 upcoming_payment_date:
-"Date",
+"Data",
 upcoming_payment_amount:
 "Total",
 upcoming_payment_subtotal:
 "Subtotal",
 upcoming_payment_shipping:
-"Shipping",
+"cobrança",
 upcoming_payments:
-"Next payments",
+"Próximos pagamentos",
 order_date:
-"Date",
+"Data",
 order_status:
 "Status",
 order_total:
 "Total",
 orders_history:
-"My orders",
+"Meus pedidos",
 subscriptions_history_no_subscriptions:
-"You don't have any subscriptions yet.",
+"Você ainda não possui assinaturas.",
 orders_history_no_orders:
-"You don't have any orders yet.",
+"Ainda não tem pedidos.",
 orders_fetching_orders:
-"Loading your orders...",
+"Carregando seus pedidos...",
 user_nav_orders:
-"My orders",
+"Meus pedidos",
 user_nav_subscriptions:
-"My subscriptions",
+"Minhas assinaturas",
 user_nav_cart:
-"My cart",
+"Meu carrinho",
 subscriptions_history:
-"My subscriptions",
+"Minhas assinaturas",
 subscription_name:
-"Name",
+"Nome",
 subscription_amount:
-"Amount",
+"Montante",
 subscription_quantity:
-"Quantity",
+"Quantidade",
 subscription_total_amount:
 "Total",
 subscriptions_fetching_subscriptions:
-"Loading subscriptions...",
+"Carregando assinaturas...",
 subscriptions_fetching_details:
-"Loading subscription details...",
+"Carregando detalhes da assinatura...",
 subscription_no_invoices:
-"This subscription does not have any invoices yet.",
+"Esta assinatura ainda não possui faturas.",
 subscription_plan_name:
-"Plan name",
+"Nome do plano",
 subscription_plan_interval:
-"Plan interval",
+"Intervalo do plano",
 subscription_plan_interval_count:
-"Plan interval count",
+"Contagem do intervalo do plano",
 subscription_invoice_number:
-"Number",
+"Número",
 subscription_invoice_date:
-"Date",
+"Data",
 subscription_invoice_amount:
-"Amount",
+"Montante",
 subscription_invoice_item:
 "Item",
 subscription_invoice_info:
-"Invoice information",
+"Informação de fatura",
 subscription_invoice_details:
-"Invoice details",
+"Detalhes da fatura",
 subscription_invoice_fetching_details:
-"Loading invoice details...",
+"Carregando detalhes da fatura...",
 subscription_invoices_loading:
-"Loading subscription invoices...",
+"A carregar faturas de assinatura...",
 subscription_invoices_list:
-"Invoices history",
+"Histórico de faturas",
 item_out_of_stock:
-"We are sorry, this item is now out of stock.",
+"Lamentamos, este item está agora fora de stock.",
 click_here_to_remove_it:
-"Click here to remove it from your cart.",
+"Clique aqui para removê-lo do seu carrinho.",
 outofstock_notification:
-"We are sorry, some of the items in your cart went out of stock during your checkout. Please review your order. Don't worry, your card has not been charged.",
+"Lamentamos, alguns dos itens no seu carrinho ficaram fora de estoque durante o check-out. Por favor, reveja seu pedido. Não se preocupe, o seu cartão não foi cobrado.",
 plan_amount_per_day:
-"{0} / day",
+"{0} / dia",
 plan_amount_per_week:
-"{0} / week",
+"{0} / Semana",
 plan_amount_per_month:
-"{0} / month",
+"{0} / Mês",
 plan_amount_per_year:
-"{0} / year",
+"{0} / Ano",
 plan_amount_per_day_plural:
-"{0} / {1} days",
+"{0} / {1} dias",
 plan_amount_per_week_plural:
-"{0} / {1} weeks",
+"{0} / {1} Semanas",
 plan_amount_per_month_plural:
-"{0} / {1} months",
+"{0} / {1} meses",
 plan_amount_per_year_plural:
-"{0} / {1} years",
+"{0} / {1} Anos",
 plan_days_of_trial:
-"{0} days trial",
+"{0} dias de teste",
 subscription_cancel_button:
-"Cancel",
+"Cancelar",
 subscription_pause_button:
-"Pause",
+"Pausar",
 subscription_cancel_confirmation:
-"Are you sure you want to cancel your subscription?",
+"Tem certeza de que deseja cancelar sua assinatura?",
 subscription_cancel_success:
-"Your subscription has been cancelled successfully.",
+"Sua assinatura foi cancelada com sucesso.",
 subscription_cancelled_notice:
-"This subscription is no longer active, it has been cancelled on {0}.",
+"Esta assinatura não está mais ativa, foi cancelada em {0}.",
 subscription_cancelledon:
-"Cancelled on",
+"Cancelado em",
 paypal_express_checkout_link:
-"Pay with Paypal",
+"Pagar com Paypal",
 paypal_express_checkout_title:
-"Pay with PayPal",
+"Pagar com PayPal",
 paypal_express_checkout_explanation:
-"Click on this button if you prefer to process your payment directly through PayPal.",
+"Clique neste botão se você preferir processar seu pagamento diretamente através do PayPal.",
 notifications_item_not_added_due_to_max_quantity:
-"The product has not been added, you already have the maximum quantity in your cart.",
+"O produto não foi adicionado, você já possui a quantidade máxima no seu carrinho.",
 error_impossible_to_calculate_taxes:
-"We have not been able to calculate taxes for the order, it might be due to an invalid address, please ensure you entered a valid address with a 5 digits ZIP code.",
+"Não conseguimos calcular os impostos para o pedido, pode ser devido a um endereço inválido, por favor, assegure-se de ter inserido um endereço válido com um código postal de 8 dígitos.",
 have_a_promocode_question:
-"Promo code?",
+"Código promocional?",
 order_totals_computing:
-"Calculating taxes...",
+"Cálculo de impostos...",
 order_validation_failed:
-"We have not been able to validate your order. Looks like some product prices might have changed since you added them to the cart. Please review your order and try again.",
+"Não conseguimos validar o seu pedido. Parece que alguns preços dos produtos podem ter mudado desde que você os adicionou ao carrinho. Por favor, reveja seu pedido e tente novamente.",
 item_invalid_must_remove:
-"It looks like this item is not available anymore. You may need to contact the merchant to get this resolved as it may be a configuration problem. By continuing this item will be removed from your cart.",
+"Parece que este item não está mais disponível. Talvez seja necessário entrar em contato com o comerciante para que isso seja resolvido, pois pode ser um problema de configuração. Ao continuar este item será removido do seu carrinho.",
 accept_cart_changes:
-"Accept changes and continue",
+"Aceite as mudanças e continue",
 payment_failed_text:
-"Sorry; we haven’t been able to process your payment. You can continue shopping or try again using the buttons below.",
+"Desculpe, não conseguimos processar seu pagamento. Você pode continuar comprando ou tente novamente usando os botões abaixo.",
 payment_method_willbepaidlater:
-"Deferred",
+"Diferido",
 payment_method_paypal:
 "Paypal",
 payment_method_none:
-"None",
+"Nenhum",
 payment_method_sofort:
 "Sofort",
 payment_method_ideal:
@@ -492,9 +486,9 @@ payment_method_ideal:
 payment_method_mistercash:
 "Mister Cash",
 payment_method_banktransfer:
-"Bank transfer",
+"Transferência bancária",
 payment_method_directdebit:
-"Direct debit",
+"Débito Direto",
 payment_method_belfius:
 "Belfius",
 payment_method_bitcoin:
@@ -506,125 +500,103 @@ payment_method_paysafecard:
 payment_method_bancontact:
 "Bancontact",
 payment_method_creditcard:
-"Credit card",
+"Cartão de crédito",
 error_item_stock_exceeded:
-"Sorry! Your request exceeds the available stock for this item.",
+"Desculpe! Seu pedido excede o estoque disponível para este item.",
 error_item_out_of_stock_text:
-"Sorry! Looks like that the product '{0}' is not available anymore. We suggest you check out later or remove it to continue.",
+"Desculpe! Parece que este produto já não está disponível. Sugerimos que você veja mais tarde.",
 item_out_of_stock_with_variant:
-"Sorry! Looks like this variation of the product isn't available anymore. Please select another variation or this item will be removed from the cart.",
+"Desculpe! Parece que esta variação do produto já não está disponível. Selecione outra variação ou este item será removido do carrinho.",
 order_status_processed:
-"Processed",
+"Processado",
 order_status_disputed:
-"Disputed",
+"Disputado",
 order_status_shipped:
-"Shipped",
+"Enviado",
 order_status_delivered:
-"Delivered",
+"Entregue",
 order_status_pending:
-"Pending",
+"Pendente",
 order_status_cancelled:
-"Canceled",
+"Cancelado",
 something_went_wrong_while_fetching_rates:
-"We have not been able to find any shipping methods for the address you specified. Contact us directly if you need help regarding this.",
+"Não foi possível encontrar nenhum método de envio para o endereço que você especificou. Contate-nos diretamente se precisar de ajuda sobre isso.",
 error_must_select_shipping_rate:
-"You must select shipping method to continue.",
+"Você deve selecionar o método de envio para continuar.",
 back_to_orders:
-"Back to orders",
+"Voltar aos pedidos",
 manage_subscriptions:
-"Manage subscriptions",
+"Gerenciar assinaturas",
 back_to_subscriptions_list:
-"Back to subscriptions list",
+"Voltar à lista de assinaturas",
 back_to_subscription_details:
-"Back to subscription details",
+"Voltar aos detalhes da assinatura",
 discount_remove_confirmation_msg:
-"Are you sure you want to remove the discount?",
+"Tem certeza de que deseja remover o desconto?",
 digital_files_not_found:
-"One or more digital files don't exist, contact the store owner for further details.",
+"Não existem um ou mais arquivos digitais, entre em contato com o proprietário da loja para mais detalhes.",
 digital_files_download_button:
-"Download file",
+"Fazer download do arquivo",
 notifications_item_not_modified_due_to_min_quantity:
-"Sorry, you need to order at least {0} of this product.",
+"Desculpe, você precisa solicitar pelo menos {0} deste produto.",
 subscription_resume_buttom:
-"Resume",
+"Resumo",
 subscription_summary:
-"Summary",
+"Resumo",
 subscription_notifications_paused:
-"This subscription is currently paused, you can resume it by clicking on the Resume button.",
+"Esta assinatura está pausada no momento, você pode retomá-la clicando no botão Continuar.",
 subscription_notifications_pause_confirm:
-"Are you sure you want to pause your subscription?",
+"Tem certeza de que deseja pausar sua assinatura?",
 subscription_notifications_resume_confirm:
-"Are you sure you want to resume this subscription?",
+"Tem certeza de que deseja retomar esta assinatura?",
 subscription_status_canceled:
-"Canceled",
+"Cancelado",
 subscription_status_paused:
-"Paused",
+"Pausado",
 refund_line:
-"Refunded",
+"Devolvido",
 stripe_invalid_number:
-"The card number is not a valid credit card number.",
+"O número do cartão é inválido.",
 stripe_invalid_expiry_month:
-"The card's expiration month is invalid.",
+"O mês de vencimento do cartão é inválido.",
 stripe_invalid_expiry_year:
-"The card's expiration year is invalid.",
+"O ano de validade do cartão é inválido.",
 stripe_invalid_cvc:
-"The card's security code is invalid.",
+"O código de segurança do cartão é inválido.",
 stripe_invalid_swipe_data:
-"The card's swipe data is invalid.",
+"Os dados de deslocamento do cartão são inválidos.",
 stripe_incorrect_number:
-"The card number is incorrect.",
+"O número do cartão está incorreto.",
 stripe_expired_card:
-"The card has expired.",
+"O cartão expirou.",
 stripe_incorrect_cvc:
-"The card's security code is incorrect.",
+"O código de segurança do cartão está incorreto.",
 stripe_incorrect_zip:
-"The card's zip code failed validation.",
+"O código postal do cartão falhou na validação.",
 stripe_card_declined:
-"The card was declined.",
+"O cartão foi recusado.",
 stripe_missing:
-"There is no card on a customer that is being charged.",
+"Não há cartão no cliente que esteja sendo carregado.",
 stripe_processing_error:
-"An error occurred while processing the card.",
+"Ocorreu um erro ao processar o cartão.",
 "profile_credit_card":
-"Credit card",
+"Cartão de crédito",
 "profile_current_credit_card":
-"Your current credit card ends with {0} and expires on {1} / {2}.",
+"Seu cartão de crédito atual termina com {0} e expira em {1} / {2}.",
 "profile_update_card":
-"Click here to update it",
+"Clique aqui para atualizar",
 "profile_saved_successfully":
-"Your profile has been saved successfully.",
+"Seu perfil foi salvo com sucesso.",
 "profile_loading":
-"Getting your profile information...",
+"Obtendo suas informações de perfil...",
 "profile_saving":
-"Saving your profile...",
+"Salvando seu perfil...",
 "profile_billing_address":
-"Billing address",
+"Endereço de cobrança",
 "profile_shipping_address":
-"Shipping address",
+"Endereço de entrega",
 "profile_edit_linktitle":
-"Click here to edit your profile.",
+"Clique aqui para editar seu perfil.",
 "feature_not_supported_subscriptions": 
-"We're sorry but subscriptions are not available with your payment gateway. This item can't be added.",
-"profile_title": 
-"Profile",
-profile_edit_link:
-"{0}",
-square_field_cardnumber:
-"Card Number",
-square_field_cvv:
-"CVC",
-square_field_postalcode:
-"Postal Code",
-square_field_expirationdate:
-"Expiration Date",
-square_validation_error:
-"{0} is invalid",
-square_missing_card_data:
-"One or more card data fields was not filled out in the payment form.",
-square_unknown:
-"An unknown error occurred during card validation. Please try again later.",
-square_error_payment_processing:
-"An unexpected error occured when processing the payment, please try again later",
-square_error_payment_method:
-"Credit card validation failed. Please review the provided information."
+"Lamentamos, mas as assinaturas não estão disponíveis no seu gateway de pagamento. Este item não pode ser adicionado."
 });
