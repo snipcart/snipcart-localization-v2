@@ -628,5 +628,7 @@ square_unknown:
 square_error_payment_processing:
 "An unexpected error occured when processing the payment, please try again later",
 square_error_payment_method:
-"Credit card validation failed. Please review the provided information."
+"Credit card validation failed. Please review the provided information.",
+save:
+"Save"
 });
