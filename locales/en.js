@@ -622,7 +622,7 @@ square_field_expirationdate:
 square_validation_error:
 "{0} is invalid",
 square_missing_card_data:
-"One or more card data fields was not filled out in the payment form.",
+"One or more card data fields were not filled out in the payment form.",
 square_unknown:
 "An unknown error occurred during card validation. Please try again later.",
 square_error_payment_processing:
