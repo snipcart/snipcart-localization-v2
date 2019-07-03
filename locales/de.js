@@ -630,5 +630,5 @@ square_error_payment_processing:
 square_error_payment_method:
 "Die Kreditkartenprüfung ist fehlgeschlagen. Bitte überprüfen Sie Ihre Angaben.",
 save:
-"Speichenr"
+"Speichern"
 });
