@@ -587,27 +587,27 @@ stripe_missing:
 "There is no card on a customer that is being charged.",
 stripe_processing_error:
 "An error occurred while processing the card.",
-"profile_credit_card":
+profile_credit_card:
 "Credit card",
-"profile_current_credit_card":
+profile_current_credit_card:
 "Your current credit card ends with {0} and expires on {1} / {2}.",
-"profile_update_card":
+profile_update_card:
 "Click here to update it",
-"profile_saved_successfully":
+profile_saved_successfully:
 "Your profile has been saved successfully.",
-"profile_loading":
+profile_loading:
 "Getting your profile information...",
-"profile_saving":
+profile_saving:
 "Saving your profile...",
-"profile_billing_address":
+profile_billing_address:
 "Billing address",
-"profile_shipping_address":
+profile_shipping_address:
 "Shipping address",
-"profile_edit_linktitle":
+profile_edit_linktitle:
 "Click here to edit your profile.",
-"feature_not_supported_subscriptions": 
+feature_not_supported_subscriptions: 
 "We're sorry but subscriptions are not available with your payment gateway. This item can't be added.",
-"profile_title": 
+profile_title: 
 "Profile",
 profile_edit_link:
 "{0}",
@@ -622,7 +622,7 @@ square_field_expirationdate:
 square_validation_error:
 "{0} is invalid",
 square_missing_card_data:
-"One or more card data fields was not filled out in the payment form.",
+"One or more card data fields were not filled out in the payment form.",
 square_unknown:
 "An unknown error occurred during card validation. Please try again later.",
 square_error_payment_processing:
