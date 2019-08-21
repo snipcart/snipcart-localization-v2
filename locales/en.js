@@ -630,5 +630,13 @@ square_error_payment_processing:
 square_error_payment_method:
 "Credit card validation failed. Please review the provided information.",
 save:
-"Save"
+"Save",
+processing:
+"Processing...",
+preparing_payment:
+"Getting things ready...",
+payment_error_payment_processing:
+"An unexpected error occured when processing the payment, please try again later",
+"payment_error_message":
+"We're sorry but we haven't been able to complete your payment. Please use one of the buttons below to retry or to continue shopping. If you keep experiencing issues during payment, please contact the merchant directly."
 });
