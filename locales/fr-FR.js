@@ -283,7 +283,7 @@ send_error:
 "Envoyer ce message au propriétaire du site",
 message_sent:
 "Message envoyé, merci",
-paypalexpress_loading:
+wait_few_seconds:
 "Vous serez redirigé vers Paypal pour effectuer le paiement dans quelques instants...",
 paypalexpress_cancelled:
 "Vous avez annulé la transaction, cliquez sur le bouton ci-dessous afin de la compléter, ou vous pouvez continuer vos achats.",

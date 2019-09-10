@@ -291,8 +291,6 @@ send_error:
 "Send this error to website's owner",
 message_sent:
 "Message sent, thank you",
-paypalexpress_loading:
-"Just a few seconds...",
 paypalexpress_cancelled:
 "You cancelled the transaction, you can either click on the button below to try again or simply continue to shop.",
 retry:
@@ -638,5 +636,7 @@ preparing_payment:
 payment_error_payment_processing:
 "An unexpected error occured when processing the payment, please try again later",
 "payment_error_message":
-"We're sorry but we haven't been able to complete your payment. Please use one of the buttons below to retry or to continue shopping. If you keep experiencing issues during payment, please contact the merchant directly."
+"We're sorry but we haven't been able to complete your payment. Please use one of the buttons below to retry or to continue shopping. If you keep experiencing issues during payment, please contact the merchant directly.",
+"wait_few_seconds": 
+"Just a few seconds..."
 });

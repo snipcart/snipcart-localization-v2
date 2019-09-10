@@ -281,7 +281,7 @@ send_error:
 "Trimite această eroare deținătorului site-ului",
 message_sent:
 "Mesaj trimis, mulțumim",
-paypalexpress_loading:
+wait_few_seconds:
 "Doar câteva secunde...",
 paypalexpress_cancelled:
 "Ai anulat tranzacția. Poți să dai click pe butonul de mai jos pentru a încerca din nou sau să continui cumpărăturile.",

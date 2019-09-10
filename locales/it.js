@@ -291,7 +291,7 @@ Snipcart.execute('registerLocale', 'it', {
     "Invia questo errore al proprietario/a di questo sito web",
     message_sent:
     "Il messaggio è stato inviato, grazie",
-    paypalexpress_loading:
+    wait_few_seconds:
     "Verrai rediretto al sito di Paypal per effettuare il pagamento.",
     paypalexpress_cancelled:
     "È stata annullata l'operazione, è possibile fare clic sul pulsante qui sotto per riprovare o semplicemente continuare a visitare il negozio.",

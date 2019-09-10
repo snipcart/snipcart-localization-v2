@@ -291,7 +291,7 @@ send_error:
 "Enviar este error al propietario del sitio web.",
 message_sent:
 "Mensaje enviado, gracias",
-paypalexpress_loading:
+wait_few_seconds:
 "Será redirigido a Paypal para hacer el pago.",
 paypalexpress_cancelled:
 "Transacción cancelada. Puede hacer clic en el botón de abajo para intentarlo de nuevo o volver a la tienda.",

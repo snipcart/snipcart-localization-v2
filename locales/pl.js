@@ -365,7 +365,7 @@ paypal_express_checkout_title:
 "Płać za pomocą Paypal",
 paypalexpress_cancelled:
 "Anulowałeś transakcję. Możesz kliknąć na przycisk poniżej, aby spróbować ponownie lub po prostu kontynuować zakupy",
-paypalexpress_loading:
+wait_few_seconds:
 "Trwa ładowanie...",
 phone:
 "Telefon",

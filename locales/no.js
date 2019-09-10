@@ -261,7 +261,7 @@ send_error:
 "Send meldingen til eieren av nettstedet",
 message_sent:
 "Takk for beskjeden",
-paypalexpress_loading:
+wait_few_seconds:
 "Du omdirigeres til PayPal for å gjennomføre betalingen",
 paypalexpress_cancelled:
 "Ordren er annulert.",

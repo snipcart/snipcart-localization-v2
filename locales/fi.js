@@ -263,7 +263,7 @@ send_error:
 "Lähetä virheilmoitus sivuston omistajalle",
 message_sent:
 "Viesti lähetetty, kiitos",
-paypalexpress_loading:
+wait_few_seconds:
 "Sinut ohjataan maksamaan Paypalin sivustolle.",
 paypalexpress_cancelled:
 "Peruutit tapahtuman. Voit klikata allaolevaa painiketta tai siirtyä kauppaan.",

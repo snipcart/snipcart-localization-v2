@@ -349,7 +349,7 @@ send_error:
 "Diesen Fehler an den Webseiten-Administrator senden.",
 message_sent:
 "Die Nachricht wurde gesendet. Danke!",
-paypalexpress_loading:
+wait_few_seconds:
 "Sie werden gleich weitergeleitet, bitte warten...",
 paypalexpress_cancelled:
 "Sie haben die Transaktion abgebrochen. Wenn Sie es nochmals versuchen wollen, klicken Sie auf den Knopf.",

@@ -281,7 +281,7 @@ send_error:
 "Zašlete tuto chybu majiteli stránky",
 message_sent:
 "Zpráva odeslána, děkujeme.",
-paypalexpress_loading:
+"wait_few_seconds":
 "Počejte chvilku...",
 paypalexpress_cancelled:
 "Zrušili jste transakci, zkuste to znovu kliknutím na tlačítko dole nebo pokračujte v nákupu..",

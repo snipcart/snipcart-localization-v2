@@ -178,7 +178,7 @@ Snipcart.execute('registerLocale', 'nl', {
 	paypal_express_checkout_link: "Betaal met PayPal",
 	paypal_express_checkout_title: "Betaal met PayPal",
 	paypalexpress_cancelled: "U heeft de bestelling geannuleerd, u kunt op één van de knoppen hieronder klikken om het opnieuw te proberen of om verder te gaan met winkelen.",
-	paypalexpress_loading: "Een paar seconden...",
+	wait_few_seconds: "Een paar seconden...",
 	phone: "Telefoonnummer",
 	plan_amount_per_day: "{0} / dag",
 	plan_amount_per_day_plural: "{0} / {1} dagen",

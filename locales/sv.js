@@ -292,7 +292,7 @@ send_error:
 "Skicka detta fel till webbplatsens ägare",
 message_sent:
 "Meddelandet har skickats - tack!",
-paypalexpress_loading:
+wait_few_seconds:
 "Du kommer att omdirigeras till PayPal för att göra betalningen inom några ägonblick.",
 paypalexpress_cancelled:
 "Du avbröt affären, du kan antingen klicka på knappen nedan för att försöka igen eller helt enkelt fortsätta att handla.",

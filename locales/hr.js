@@ -291,7 +291,7 @@ send_error:
 "Pošaljite ovaj error vlasniku web stranice",
 message_sent:
 "Poruka je poslana, zahvaljujemo",
-paypalexpress_loading:
+wait_few_seconds:
 "Pričekajte par sekundi...",
 paypalexpress_cancelled:
 "Otkazali ste kupnju, možete kliknuti na donji gumb kako biste pokušali ponovo ili jednostavno nastavite kupovinu.",

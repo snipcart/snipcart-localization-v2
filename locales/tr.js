@@ -259,7 +259,7 @@ send_error:
 "Web sitesi sahibine bu hatayı ilet",
 message_sent:
 "Mesaj iletilmiştir, teşekkürler",
-paypalexpress_loading:
+wait_few_seconds:
 "Birazdan ödeme yapmak için Paypal servisine yönlendirileceksiniz.",
 paypalexpress_cancelled:
 "Siparişi iptal ettiniz. Eğer tekrar alışveriş yapmak istiyorsanız aşağıdaki butona tıklayabilirsiniz.",

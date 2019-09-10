@@ -281,7 +281,7 @@ send_error:
 "Sendu þessa villumeldingu til rekstraraðila vefsins",
 message_sent:
 "Skilaboð send, takk fyrir",
-paypalexpress_loading:
+wait_few_seconds:
 "Augnablik...",
 paypalexpress_cancelled:
 "Þú hættir við færsluna, reyndu aftur eða haltu áfram að versla.",

@@ -281,7 +281,7 @@ send_error:
 "Send this error to website's owner",
 message_sent:
 "Message sent, thank you",
-paypalexpress_loading:
+wait_few_seconds:
 "Just a few seconds...",
 paypalexpress_cancelled:
 "You cancelled the transaction, you can either click on the button below to try again or simply continue to shop.",

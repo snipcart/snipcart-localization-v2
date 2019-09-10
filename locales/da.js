@@ -289,7 +289,7 @@ send_error:
 "Send denne besked til webmasteren",
 message_sent:
 "Tak for beskeden",
-paypalexpress_loading:
+wait_few_seconds:
 "Du vil blive omdirigeret til paypal, for at gennemføre betalingen.",
 paypalexpress_cancelled:
 "Du har annulleret ordren. Klik på knappen forneden eller fortsæt med at bestille",

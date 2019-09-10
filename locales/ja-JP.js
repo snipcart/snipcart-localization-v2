@@ -283,7 +283,7 @@ send_error:
 "サイトの所有者にこのメッセージを送信する",
 message_sent:
 "メッセージが送信されました。ありがとうございます。",
-paypalexpress_loading:
+wait_few_seconds:
 "会計のため、まもなくPaypalへ転送されます…",
 paypalexpress_cancelled:
 "お支払い手続きがキャンセルされました。再開するには、以下のボタンをクリックするか、ショッピングを続けてください。",

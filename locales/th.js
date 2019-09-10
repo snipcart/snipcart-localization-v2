@@ -260,7 +260,7 @@ promo_code_is_expired:
 "ส่งข้อผิดพลาดนี้ให้กับเจ้าของเว็บไซต์",
  message_sent:
 "ข้อความที่ส่ง",
- paypalexpress_loading:
+ wait_few_seconds:
 "คุณจะถูกนำไป Paypal ที่จะทำให้การชำระเงินเร็ว ๆ นี้.",
  paypalexpress_cancelled:
 "คุณได้ยกเลิกการทำธุรกรรม",

@@ -381,7 +381,7 @@ send_error:
 "Diesen Fehler an den Website-Administrator senden.",
 message_sent:
 "Die Nachricht wurde gesendet. Danke!",
-paypalexpress_loading:
+wait_few_seconds:
 "Sie werden für die Zahlung zu Paypal weitergeleitet.",
 paypalexpress_cancelled:
 "Sie haben die Transaktion abgebrochen. Wenn Sie es nochmals versuchen wollen, klicken Sie auf den Knopf.",

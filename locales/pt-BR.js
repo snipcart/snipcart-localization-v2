@@ -287,7 +287,7 @@ send_error:
 "Envie este erro ao proprietário do site",
 message_sent:
 "Mensagem enviada, obrigado",
-paypalexpress_loading:
+wait_few_seconds:
 "Apenas alguns segundos...",
 paypalexpress_cancelled:
 "Você cancelou a transação, você pode clicar no botão abaixo para tentar novamente ou simplesmente continuar a comprar.",
