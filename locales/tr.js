@@ -158,7 +158,7 @@ login_checkout_as_guest:
 login_checkout_as_guest_notice:
 "Checkout as a guest if you don't want to create an account for this purchase. Please note that your information won't be saved for your next orders.",
 shipping_address_same_as_billing:
-"Bu adresi taşıma adresi olarak kullan",
+"Bu adresi kargo adresi olarak kullan",
 shipping_method_method_name:
 "Taşıma yöntemi",
 shipping_method_shipping_price:
