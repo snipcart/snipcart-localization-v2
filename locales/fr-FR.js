@@ -594,5 +594,53 @@ feature_not_supported_subscriptions:
 profile_title:
 "Mon compte",
 profile_edit_link:
-"{0}"
+"{0}",
+payment_method_card_exp_date:
+"Date d'expiration",
+payment_method_card_postal_code:
+"Code Postal",
+error_email_is_empty:
+"Il semble que nous ne parvenons pas à valider l'adresse email. Merci de l'entrer de nouveau et de cliquer sur Suivant pour continuer.",
+error_shipping_price_outdated:
+"L'option de livraison que vous avez choisi n'est plus valide, veuillez en choisir une autre.",
+to_be_paid_later:
+"À payer plus tard",
+upcoming_payment_shipping:
+"Livraison",
+digital_files_not_found:
+"Un ou plusieurs fichiers téléchargeables n'existent pas. Merci de contacter le propriétaire du site pour plus de détails.",
+digital_files_download_button:
+"Télécharger le fichier",
+square_field_cardnumber:
+"Numéro de la carte",
+square_field_cvv:
+"CVC",
+square_field_postalcode:
+"Code Postal",
+square_field_expirationdate:
+"Date d'expiration",
+square_validation_error:
+"{0} est invalide",
+square_missing_card_data:
+"Une ou plusieurs informations n'ont pas été fournies dans le formulaire de paiement.",
+square_unknown:
+"Une erreur inconnue est survenue durant la vérification de la carte. Merci de réessayer plus tard.",
+square_error_payment_processing:
+"Une erreur est survenue durant le paiement. Merci de réessayer plus tard.",
+square_error_payment_method:
+"La validation de la carte a échoué. Merci de vérifier les informations fournies.",
+save:
+"Enregistrer",
+processing:
+"Traitement en cours...",
+preparing_payment:
+"Préparation en cours...",
+payment_error_payment_processing:
+"Une erreur est survenue lors du traitement du paiement, veuillez réesssayer plus tard",
+payment_error_message:
+"Nous sommes désolés votre paiement n'a pas pu aboutir. Veuillez utiliser un des boutons ci-dessous pour réessayer ou continuer vos achats. Si vous continuez à avoir des problèmes durant le paiement, veuillez contacter le marchand directement.",
+payment_error_form_init:
+"Désolé, une erreur inattendue s'est produite. Aucun paiement n'a été traité, nous allons chercher à corriger cela. Veuillez réessayer plus tard.",
+wait_few_seconds:
+"Encore quelques secondes..."
 });

@@ -626,5 +626,21 @@ square_unknown:
 square_error_payment_processing:
 "Une erreur est survenue durant le paiement. Merci de réessayer plus tard.",
 square_error_payment_method:
-"La validation de la carte a échoué. Merci de vérifier les informations fournies."
+"La validation de la carte a échoué. Merci de vérifier les informations fournies.",
+to_be_paid_later:
+"À payer plus tard",
+save:
+"Enregistrer",
+processing:
+"Traitement en cours...",
+preparing_payment:
+"Préparation en cours...",
+payment_error_payment_processing:
+"Une erreur est survenue lors du traitement du paiement, veuillez réesssayer plus tard",
+payment_error_message:
+"Nous sommes désolés votre paiement n'a pas pu aboutir. Veuillez utiliser un des boutons ci-dessous pour réessayer ou continuer vos achats. Si vous continuez à avoir des problèmes durant le paiement, veuillez contacter le marchand directement.",
+payment_error_form_init:
+"Désolé, une erreur inattendue s'est produite. Aucun paiement n'a été traité, nous allons chercher à corriger cela. Veuillez réessayer plus tard.",
+wait_few_seconds:
+"Encore quelques secondes..."
 });
