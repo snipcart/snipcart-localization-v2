@@ -1,7 +1,7 @@
 Snipcart Localization Files
 ===========================
 
-Localization files for [Snipcart](https://snipcart.com) shopping cart.
+Localization files for [Snipcart](https://snipcart.com) shopping cart v2.
 
 Contributing
 ------------
