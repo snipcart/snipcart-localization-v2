@@ -66,7 +66,7 @@ my_cart_content:
 shipping_method:
 "Forsendelse",
 payment_method:
-"Bestillings metode",
+"Betalingsform",
 confirm_order:
 "Bekræft ordren",
 bill_me_later:
