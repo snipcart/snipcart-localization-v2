@@ -1,4 +1,4 @@
-Snipcart.execute('registerLocale', 'en', {
+Snipcart.execute('registerLocale', 'ro', {
 yes:
 "Da",
 no:
@@ -6,11 +6,11 @@ no:
 print:
 "Printează",
 download_as_pdf:
-"Descarcă PDF",
+"Descarcă ca PDF",
 checkout:
-"Plătește",
+"Finalizează comanda",
 close:
-"Închide",
+"închide",
 first_name:
 "Prenume",
 name:
@@ -18,9 +18,9 @@ name:
 last_name:
 "Nume de familie",
 company_name:
-"Companie",
+"Nume companie",
 share_by_email:
-"Împărtășește prin email",
+"Distribuie prin email",
 email:
 "Email",
 password:
@@ -32,9 +32,9 @@ ok:
 send:
 "Trimite",
 address_1:
-"Adresa",
+"Adresă (strada, număr)",
 address_2:
-"Adresa 2",
+"Adresă (bloc, scară, apartament...)",
 city:
 "Oraș",
 postal_code:
@@ -46,55 +46,55 @@ previous:
 next:
 "Pasul următor",
 finalize:
-"Plasează comanda",
+"Trimite comanda",
 country:
-"Țara",
+"Țară",
 subtotal:
 "Subtotal",
 tax_adjustments:
-"Ajustări fiscale",
+"Ajustări TVA",
 rebate:
 "Rabat",
 apply_promo_code:
-"Aplică cod promo",
+"Aplică cod promoțional",
 my_cart:
 "Coșul meu",
 my_cart_content:
-"Conținutul coșului meu",
+"Produsele mele",
 shipping_method:
 "Metoda de livrare",
 payment_method:
-"Modalitate de plată",
+"Metoda de plată",
 confirm_order:
 "Confirmă comanda",
 bill_me_later:
-"Plătesc mai târziu",
+"Plătesc la livrare",
 bill_me_later_action:
-"Plată întârziată",
+"Plată ramburs",
 bill_me_later_explanation:
-"O factură îți va fi trimisă prin email.",
+"Plata se va face în momentul livrării.",
 pay_via_mollie:
-"Alege modalitatea de plată",
+"Choose payment method",
 pay_now_via_mollie:
-"Plătește acum",
+"Plătește online",
 pay_via_mollie_explanation:
-"Vei fi directat către o listă de modalități de plată.",
+"Plătește online prin card bancar.",
 promo_code_applied_successfully:
-"Discountul a fost aplicat cu succes.",
+"Cuponul de reducere a fost aplicat cu succes.",
 promo_code_is_invalid:
-"Codul folosit e invalid.",
+"Acest cupon de reducere este invalid.",
 promo_code_is_expired:
-"Codul folosit e invalid.",
+"Acest cupon de reducere a expirat.",
 promo_code_code:
-"Ai un cod de discount?",
+"Ai un cupon de reducere?",
 promo_code_rate_on_order:
-"discount al comenzii",
+"reducere aplicată",
 promo_code_alternate_price:
-"preț special al produselor",
+"preț special",
 total:
 "Total",
 total_paid:
-"Total plată",
+"Total plătit",
 province_state:
 "Județ",
 billing_address:
@@ -102,13 +102,13 @@ billing_address:
 shipping_address:
 "Adresa de livrare",
 payment_informations:
-"Informații plată",
+"Informații de plată",
 payment_informations_bill_me_later:
-"Voi plăti mai târziu",
+"Plata la livrare",
 payment_informations_no_payment_required:
-"Plata nu e necesară",
+"Nu necesită plată",
 payment_informations_paypalexpress:
-"Plata prin Paypal",
+"Plătește cu PayPal",
 credit_card_type_mastercard:
 "Mastercard",
 credit_card_type_visa:
@@ -126,9 +126,9 @@ months_april:
 months_may:
 "Mai",
 months_june:
-"Iunie",
+"Junie",
 months_july:
-"Iulie",
+"Julie",
 months_august:
 "August",
 months_september:
@@ -140,51 +140,51 @@ months_november:
 months_december:
 "Decembrie",
 cart_items_table_item:
-"Bucată",
+"Produs",
 cart_items_table_description:
 "Descriere",
 cart_items_table_quantity:
 "Cantitate",
 cart_items_table_unit_price:
-"Preț per bucată",
+"Preț unitar",
 cart_items_table_total_price:
 "Preț total",
 cart_empty_text:
-"Coșul este gol. Alege produsele pe care vrei să le cumperi.",
+"Coșul este gol. Adăugați produse în coș pentru a putea cumpăra.",
 new_account_form_create_new_account:
-"Crează cont",
+"Creazăți cont",
 new_account_form_create_new_account_action:
-"Crează cont",
+"Creazăți cont",
 login_form_having_an_account:
-"Intră în cont",
+"Autentificăte",
 login_form_login_action:
-"Intră",
-login_title:
 "Intră în cont",
+login_title:
+"Autentificare",
 login_form_forgot_password_action:
-"Am uitat parola",
+"Nu îmi amintesc parola",
 forgot_password_forgot_your_password:
-"Ai uitat parola?",
+"Ți-ai uitat parola?",
 forgot_password_please_enter_email:
-"Introdu adresa de email. Vei primi un email conținând un link unic pentru resetarea parolei.",
+"Introduceți adresa de email cu care va-ți inregistrat. Un email cu un link unic de resetare va fi trimis în scurt timp.",
 forgot_password_success_email_sent:
-"Email trimis",
+"Email trimis cu succes",
 forgot_password_email_sent_message:
-"Un email cu instrucțiuni pentru resetarea parolei a fost trimis. Verifică-l și urmează pașii.",
+"Un email cu instrucțiunile de resetare a parolei a fost trimis la adresa de email introdusă.",
 login_checkout_as_guest:
-"Plătește fără cont",
+"Finalizează comanda ca vizitator",
 login_checkout_as_guest_notice:
-"Plătește fără cont dacă nu dorești să creezi unul. Informațiile tale nu vor fi salvate pentru comenzi viitoare.",
+"Plasează comanda ca vizitator daca nu dorești să îți creezi cont. Informatiile tale nu vor fi salvate pentru a comanda usor data viitoare.",
 shipping_address_same_as_billing:
-"Folosește adresa pentru livrare",
+"Foloseste aceeași adresă pentru livrare",
 shipping_method_method_name:
 "Metoda de livrare",
 shipping_method_shipping_price:
-"Costul livrării",
+"Costul de livrare",
 shipping_method_failure_message:
-"Nu am găsit o metodă de livrare. Asigură-te că adresa de livrare este corectă și încearcă din nou.",
+"Nu am găsit nici o metodă de livrare pentru adresa introdusa. Asigurăte ca adresa este corectă si încearcă din nou.",
 shipping_method_failure_click_here_to_edit:
-"Click aici pentru a edita metoda de livrare",
+"Apasă aici pentru a modifica adresa de livrare",
 payment_method_card_holder:
 "Numele de pe card",
 payment_method_card_type:
@@ -192,65 +192,75 @@ payment_method_card_type:
 payment_method_card_number:
 "Număr card",
 payment_method_card_cvc:
-"CVC",
+"Cod de securitate (CVC)",
 payment_method_card_exp_month:
-"Lună / An expirare",
+"Expiration month",
 payment_method_card_exp_year:
-"An expirare",
+"Expiration year",
 payment_method_cvc_infos:
-"CVC este un cod de securitate format din 3 cifre aflat pe spatele cardului, de obicei în dreapta semnăturii.",
+"The CVC is the 3 digits security number behind your credit card, usually at the right of your signature.",
+payment_method_card_exp_date:
+"Data expirării (luna/an)",
+payment_method_card_postal_code:
+"Cod poștal",
 payment_status:
 "Status plată",
 create_an_account:
-"Creează cont",
+"Creazăți cont",
 why_create_account:
-"Pentru o plată mai rapidă la următoarea vizită, introdu o parolă pentru a crea un cont.",
+"Pentru a comanda cu usurință data viitoare, creazăți un cont de utilizator.",
 reset_password:
-"Resetare parolă",
+"Reseteză parola",
 reset_password_success:
-"Resetarea parolei este completă",
+"Parola resetată cu succes.",
 reset_password_changed:
 "Parola ta a fost schimbată.",
 reset_password_click_here_to_login:
-"Click aici pentru a intra în cont",
+"Apasă aici pentru a te autentifica",
 thankyou_message:
-"Mulțumim pentru comanda ta! Factura a fost trimisă prin email, ar trebui să ajungă curând.",
+"Mulțumim pentru comandă! Factura și detalii comenzii au fost trimisă pe email.",
 thankyou_submessage:
-"Vei primi un email de confirmare curând",
+"Vei primi un email de confirmare în curând",
 account_created_successfully:
 "Cont creat cu succes",
 account_created_successfully_message:
-"Contul tău a fost creat cu success, mulțumim.",
+"Contul tau a fost creat cu succes, mulțumim!",
 errors_required:
 "Acest câmp e obligatoriu",
+errors_passwords_dont_match:
+"Both passwords must match",
 errors_email_must_be_unique:
-"Un utilizator cu această adresă de email există deja",
+"Există deja un cont cu acestă adresă de email",
 errors_both_password_must_match:
-"Ambele parole trebuie să fie identice",
+"Parolele nu sunt identice",
 errors_email_must_be_valid:
-"Adresa de email trebuie să fie validă",
+"Adresă de email invalidă",
 errors_email_does_not_match_any_existing_user:
-"Nu există utilizator cu această adresă de email",
+"Adresa de email nu există",
 errors_email_does_not_match_reset_password_request:
-"Adresa de email nu a fost folosită pentru recuperarea parolei.",
+"Nu s-a cerut resetarea parolei pentru acestă adresă de email.",
 errors_reset_password_token_expired:
-"Codul unic de resetare a parolei a expirat.",
+"Codul de resetare a parolei a expirat.",
 errors_invalid_authentication_infos:
-"Informație de autentificare invalidă",
+"Parola sau adresa de email este incorectă",
 error_payment_items_empty:
-"Comanda pare invalidă. Reîncarcă pagina. Cardul tău nu a fost creditat.",
+"Comanda ta nu a putut fi plasată. Reîncarcă pagina și încearcă din nou.",
+error_email_is_empty:
+"O eroare a apărut la validarea adresei de email. Reintrodu adresa de email și încearcă din nou.",
 error_payment_items_are_invalid:
-"Nu am reușit să finalizăm comanda. Se pare că un produs din coșul tău are un preț invalid.",
+"Nu am putut finaliza comanda ta. Un produs din coș are preț invalid.",
 error_crawling_failed:
-"Nu am putut valida comanda ta, cardul tău nu a fost creditat. Reîncearcă în câteva momente.",
+"Nu am putut valida comanda dumneavoastră. Vă rugăm încercați din nou în cateva minute.",
 error_discounts_have_expired:
-"Din păcate unul din discounturile foloste a expirat înainte să faci plata. Revezi comanda și reîncearcă.",
+"Din pacate un cupon de reducere a expirat inainte de a plasa comanda. Te rugam verifica comanda și încearca din nou.",
+error_shipping_price_outdated:
+"Metoda de livrare aleasă este indisponibila momentan. Te rugăm sa alegi altă metodă de livrare.",
 powered_by:
-"Alimentat și securizat de",
+"Securizat de,",
 promocode_rate_format:
-"{0}% discount la comanda ta",
+"{0}% reducere",
 promocode_amount_format:
-"{0} discount la comanda ta",
+"{0} reducere",
 shipping_method_business_days:
 "{0} zile lucrătoare",
 shipping_method_business_day:
@@ -258,95 +268,97 @@ shipping_method_business_day:
 shipping_method_delivery_time:
 "Până pe {0}", // By 2013-11-28
 welcome:
-"Bun venit",
+"Bine ai venit!",
 back:
 "Înapoi",
 order_infos:
 "Detalii comandă",
 generic_error_title:
-"A apărut o eroare.",
+"Oops, a apărut o eroare.",
 promocode_deleted_at_checkout:
-"Codul de discout a expirat în timpul finalizării comenzii tale. Ne pare rău pentru asta.",
+"Cuponul de reducere a fost deja utilizat inainte să poți plasa comanda. Ne pare rău pentru neplăcerile cauzate.",
 continue_shopping:
-"Continuă cumpărăturile",
+"Înapoi la magazin",
 payment_required_message:
-"Coșul de cumpărături de pe acest site a fost dezactivat. Dacă ești deținătorul acestuia, loghează-te în panoul de control al SnipCart pentru a rezolva această problemă.",
+"Coșul de cumpăraturi a fost dezactivat. Contactează administratorul pentru mai multe detalii.",
 payment_require_title:
 "Coșul de cumpărături este dezactivat.",
 configuration_problem:
-"Problemă de configurare",
+"Problemă de configurație",
 additionnal_information:
-"Introdu un mesaj mai jos dacă vrei să trimiți feedback sau mai multe informații legate de această problemă.",
+"Scrie-ne un mesaj daca doresti să ne trimiți feedback legat de acestă problemă.",
 send_error:
-"Trimite această eroare deținătorului site-ului",
+"Raportează eroarea",
 message_sent:
-"Mesaj trimis, mulțumim",
-wait_few_seconds:
-"Doar câteva secunde...",
+"Mesajul a fost trimis cu succes, mulțumim!",
 paypalexpress_cancelled:
-"Ai anulat tranzacția. Poți să dai click pe butonul de mai jos pentru a încerca din nou sau să continui cumpărăturile.",
+"Ai anulat tranzacția. Poți încerca din nou sau poți continua cumpărăturile.",
 retry:
 "Încearcă din nou",
 error_crawlingfailed_title:
-"A apărut o eroare la validarea comenzii tale, nu-ți face griji, nu ai fost taxat.",
+"O eroare a aparut în timp ce validam comanda.",
 error_crawling_unreachable:
-"Produsul <strong>{0}</strong> e inaccesibil la <strong>{1}</strong>. Asigură-te că URL-ul produsului e accesibil public.",
+"Produsul <strong>{0}</strong> nu a fost gasit la <strong>{1}</strong>. Asigurăte ca URL-ul este public.",
 error_crawling_product_not_found:
 "Produsul <strong>{0}</strong> nu a fost găsit la <strong>{1}</strong>.",
 error_crawling_price_not_found:
-"Produsul <strong>{0}</strong> nu are specificat prețul la <strong>{1}</strong>, specifică-l folosind data-item-price.",
+"Produsul <strong>{0}</strong> nu are un preț specificat la <strong>{1}</strong>, specificăl folosind data-item-price.",
 error_crawling_price_doesnot_match:
-"Produsul <strong>{0}</strong> de la <strong>{3}</strong> are prețul <strong>{2}</strong> dar ar trebui să fie <strong>{1}</strong>.",
+"Produsul <strong>{0}</strong> are prețul la <strong>{3}</strong> de <strong>{2}</strong>, dar trebue șă fie <strong>{1}</strong>.",
 error_crawlingfailed_title_test:
-"A apărut o eroare la validarea comenzii. Nu-ți face griji, nu ai fost taxat. Acest site este momentan în modul Test.",
+"Acest website este in modul de test. Comanda nu a fost plasată.",
 order_completedon:
-"Plasată la",
+"Comandă plasată pe data de",
 payment_method_status:
-"Status tranzacție",
+"Statusul plății",
 payment_method_status_approved:
-"Aprobat",
+"Aprobată",
 order_reference_number:
 "Număr de referință",
 order_transaction_amount:
-"Sumă tranzacție",
+"Total plătit",
 order_invoice_number:
 "Numărul facturii",
 order_authorization_code:
 "Cod de autorizare",
 item_is_being_added:
-"Adăugare produs în coș...",
+"Adaugăm produsul în coș...",
 order_completing_payment:
-"Plasare comandă...",
+"Plasăm comanda...",
 calculating_shipping_fees:
-"Calculare taxe de transport...",
+"Calculam costul de livrare...",
 saving:
-"Salvare...",
+"Se salvează...",
 loading:
-"Încărcare...",
+"Se încarcă...",
 free_shipping:
-"Transport gratuit",
+"Livrare gratuită",
 cart_plans_name:
 "Plan",
 cart_plans_interval:
 "Interval",
 cart_plans_interval_count:
-"Contele",
+"Număr",
 cart_plans_quantity:
 "Cantitate",
 cart_plans_amount:
-"Sumă",
+"Suma",
 cart_plans_total:
 "Total",
 payable_now:
-"De plătit",
+"De plătit acum",
+to_be_paid_later:
+"De plătit mai târziu",
 upcoming_payment_for:
-"Abonare",
+"Abonament",
 upcoming_payment_date:
 "Data",
 upcoming_payment_amount:
 "Total",
 upcoming_payment_subtotal:
 "Subtotal",
+upcoming_payment_shipping:
+"Livrare",
 upcoming_payments:
 "Următoarele plăți",
 order_date:
@@ -357,10 +369,12 @@ order_total:
 "Total",
 orders_history:
 "Comenzile mele",
+subscriptions_history_no_subscriptions:
+"Nu ai nici un abonament.",
 orders_history_no_orders:
-"Nu ai nicio comandă.",
+"Nu ai plasat nici o comandă.",
 orders_fetching_orders:
-"Încărcare comezi...",
+"Încărcam comenzile tale...",
 user_nav_orders:
 "Comenzile mele",
 user_nav_subscriptions:
@@ -368,7 +382,7 @@ user_nav_subscriptions:
 user_nav_cart:
 "Coșul meu",
 subscriptions_history:
-"Abonările mele",
+"Abonamentele mele",
 subscription_name:
 "Nume",
 subscription_amount:
@@ -378,17 +392,17 @@ subscription_quantity:
 subscription_total_amount:
 "Total",
 subscriptions_fetching_subscriptions:
-"Încărcare abonamentes...",
+"Încarcăm abonamentele...",
 subscriptions_fetching_details:
-"Încărcare detalii abonamente...",
+"Se încarca detaliile...",
 subscription_no_invoices:
-"Acest abonament nu are încă facturi.",
+"Acest abonament nu are nici o factură.",
 subscription_plan_name:
-"Nume abonament",
+"Numele planului",
 subscription_plan_interval:
-"Interval abonament",
+"Intervalul de plată",
 subscription_plan_interval_count:
-"Contele de interval planul",
+"Numărul intervalului de plată",
 subscription_invoice_number:
 "Număr",
 subscription_invoice_date:
@@ -396,27 +410,27 @@ subscription_invoice_date:
 subscription_invoice_amount:
 "Suma",
 subscription_invoice_item:
-"Numărul",
+"Produs",
 subscription_invoice_info:
 "Informații factură",
 subscription_invoice_details:
 "Detalii factură",
 subscription_invoice_fetching_details:
-"Încărcare detalii factură...",
+"Se încarcă detaliile facturii...",
 subscription_invoices_loading:
-"Încărcare facturi abonament...",
+"Se încarca facturile abonamentelor...",
 subscription_invoices_list:
-"istoric facturi",
+"Lista facturi",
 item_out_of_stock:
-"Ne pare rău, acest produs nu mai este în stoc.",
+"Ne pare rău dar acest produs nu mai există în oferta noastră.",
 click_here_to_remove_it:
-"Click aici pentru a-l șterge din coș.",
+"Apasă aici pentru al șterge din coș.",
 outofstock_notification:
-"Ne pare rău dar unele produse din coșul tău au rămas fără stoc în timp ce plasai tu comanda. Verifică din nou comanda. Cardul tău nu a fost creditat.",
+"Ne pare rău dar unele produse au ieșit din oferta noastră pana ai reusit șă plasezi comanda. Te rugăm verifică coșul și încercă din nou.",
 plan_amount_per_day:
 "{0} / zi",
 plan_amount_per_week:
-"{0} / săptămână",
+"{0} / săptămânâ",
 plan_amount_per_month:
 "{0} / lună",
 plan_amount_per_year:
@@ -424,49 +438,51 @@ plan_amount_per_year:
 plan_amount_per_day_plural:
 "{0} / {1} zile",
 plan_amount_per_week_plural:
-"{0} / {1} saptamani",
+"{0} / {1} șăptămâni",
 plan_amount_per_month_plural:
 "{0} / {1} luni",
 plan_amount_per_year_plural:
 "{0} / {1} ani",
 plan_days_of_trial:
-"{0} zile probă",
+"{0} zile gratuite",
 subscription_cancel_button:
-"Anulează acest abonament",
+"Anulează",
+subscription_pause_button:
+"Pauză",
 subscription_cancel_confirmation:
-"Ești sigur că vrei să anulezi amonamentul tău?",
+"Esti sigur că vrei să anulezi abonamentul??",
 subscription_cancel_success:
 "Abonamentul tău a fost anulat cu succes.",
 subscription_cancelled_notice:
-"Acest abonament nu mai e activ, a fost anulat în data de {0}.",
+"Acest abonament nu mai este activ. Va fi anulat pe data de {0}.",
 subscription_cancelledon:
-"Anulat pe",
+"Anulat pe data de",
 paypal_express_checkout_link:
-"Plătește cu Paypal",
-paypal_express_checkout_title:
 "Plătește cu PayPal",
+paypal_express_checkout_title:
+"Pay with PayPal",
 paypal_express_checkout_explanation:
-"Click aici dacă preferi ca plata să fie procesată direct prin PayPal.",
+"Apăsă acest buton daca dorești să procesezi comanda direct cu PayPal.",
 notifications_item_not_added_due_to_max_quantity:
-"Produsul nu a fost adăugat, ai deja numărul maxim de produse în coș.",
+"Produsul nu a fost adaugat în coș. Contitatea maxima permisă a fost depașită.",
 error_impossible_to_calculate_taxes:
-"Nu am putut calcula taxele pentru comanda ta, probabil din cauza adresei invalide. Asigură-te că ai introdus o adresă validă cu un cod poștal de 5 cifre.",
+"Nu am reusit să calculam taxele pentru acestă adresă. Te rugăm verifică daca codul poștal este corect.",
 have_a_promocode_question:
-"Cod promo?",
+"Cupon de reducere?",
 order_totals_computing:
-"Calculare taxe...",
+"Calculăm taxe...",
 order_validation_failed:
-"Nu am putut valida comanda ta. Se pare că prețul unor produse s-a schimbat de când le-ai adăugat în coș. Verifică din nou comanda și încearcă încă o dată.",
+"Prețul produselor a fost modificat inainte de a plasa comanda. Te rugăm verifică coșul și încearcă din nou.",
 item_invalid_must_remove:
-"Se pare că acest produs nu mai este disponibil. Este posibil să fie nevoie să contactezi vânzătorul pentru a rezolva ce pare a fi o problemă de configurare. Continuând acest produs va fi scos din coș.",
+"Produsul acestă nu mai este disponibil în ofertă și a fost sters din coș automat.",
 accept_cart_changes:
-"Acceptă modificările și continuă",
+"Accepță modificările și conținuă.",
 payment_failed_text:
-"Ne pare rău, nu am putut să procesăm plata. Poți continua cumpărăturile sau să încerci să folosești butoanele de mai jos.",
+"Ne pare rău dar metoda ta de plată nu a fost acceptată. Poți continua cumpărăturile sau șă încerci altă metodă de plată",
 payment_method_willbepaidlater:
-"Amânat",
+"Ramburs",
 payment_method_paypal:
-"Paypal",
+"PayPal",
 payment_method_none:
 "Niciuna",
 payment_method_sofort:
@@ -476,9 +492,9 @@ payment_method_ideal:
 payment_method_mistercash:
 "Mister Cash",
 payment_method_banktransfer:
-"Bank transfer",
+"Transfer bancar",
 payment_method_directdebit:
-"Direct debit",
+"Direct Debit",
 payment_method_belfius:
 "Belfius",
 payment_method_bitcoin:
@@ -490,23 +506,139 @@ payment_method_paysafecard:
 payment_method_bancontact:
 "Bancontact",
 payment_method_creditcard:
-"Credit card",
+"Card bancar",
 error_item_stock_exceeded:
-"Ne pare rău, cererea ta este peste stocul existent.",
+"Ne pare rău dar cantitatea comandată depășeste stocul.",
 error_item_out_of_stock_text:
-"Ne pare rău, se pare că acest produs nu mai e disponibil. Îți sugerăm să încerci mai târziu.",
+"Ne pare rău dar produsul '{0}' nu mai este disponibil în ofertă. Poți încerca mai tărziu sau ștergel din coș pentru a continua.",
 item_out_of_stock_with_variant:
-"Ne pare rău, se  pare că această variantă de produs nu mai este disponibilă. Selectează altă variantă sau acest produs va fi scos din coș.",
+"Ne pare rău dar acestă varintă nu mai este disponibilă. Vă rugam alegeți altă variantă sau produsul va fi scos din coș automat.",
 order_status_processed:
-"Procesat",
+"Comandă procesată",
 order_status_disputed:
-"Disputat",
+"Dispută in curs",
 order_status_shipped:
-"Trimis",
+"Trimis la curier",
 order_status_delivered:
 "Livrat",
 order_status_pending:
 "În așteptare",
 order_status_cancelled:
-"Anulat"
+"Comandă anulată",
+something_went_wrong_while_fetching_rates:
+"Nu am găsit nici o metoda de livrare disponibilă pentru adresa introdusă.",
+error_must_select_shipping_rate:
+"Trebue să alegi o metodă de livrare.",
+back_to_orders:
+"Înapoi la comenzi",
+manage_subscriptions:
+"Administrează abonamentele",
+back_to_subscriptions_list:
+"Înapoi la lista de abonamente",
+back_to_subscription_details:
+"Înapoi la detalii abonament",
+discount_remove_confirmation_msg:
+"Esti sigur că vrei să ștegi reducerea?",
+digital_files_not_found:
+"Fișierele digitale nu există. Contacteză-ne pentru mai multe detalii.",
+digital_files_download_button:
+"Descarcă fișier",
+notifications_item_not_modified_due_to_min_quantity:
+"Ne pare rău, comanda minimă este de  {0} pentru acest produs.",
+subscription_resume_buttom:
+"Reactiveză",
+subscription_summary:
+"Detalii",
+subscription_notifications_paused:
+"Acest abonament este inactiv. Poți să îl reactivezi apasănd butonul 'Reactivează'.",
+subscription_notifications_pause_confirm:
+"Ești sigur ca vrei să oprești temporar abonamentul?",
+subscription_notifications_resume_confirm:
+"Esti sigur că vrei să reactivezi abonamentul?",
+subscription_status_canceled:
+"Anulat",
+subscription_status_paused:
+"Dezactivat",
+refund_line:
+"Stornat",
+stripe_invalid_number:
+"Numărul cardului este invalid.",
+stripe_invalid_expiry_month:
+"Luna de expirare a cardului este incorectă.",
+stripe_invalid_expiry_year:
+"Anul de expirare a cardului este incorect.",
+stripe_invalid_cvc:
+"Codul de securitare a cardului (CVC) este invalid.",
+stripe_invalid_swipe_data:
+"Datele cardului (Swipe Data) sunt invalide.",
+stripe_incorrect_number:
+"Numărul cardului este incorect.",
+stripe_expired_card:
+"Acest card a expirat.",
+stripe_incorrect_cvc:
+"Codul de securitare a cardului (CVC) este invalid.",
+stripe_incorrect_zip:
+"Codul postal al cardului este incorect.",
+stripe_card_declined:
+"Cardul a fost refuzat.",
+stripe_missing:
+"Nu există nici un card salvat pentru acest client.",
+stripe_processing_error:
+"O eroare a aparut în timp ce procesam plata.",
+"profile_credit_card":
+"Card bancar",
+"profile_current_credit_card":
+"Cardul bancar salvat se termină în {0} și expiră pe {1} / {2}.",
+"profile_update_card":
+"Apăsă aici pentru a schimba cardul bancar",
+"profile_saved_successfully":
+"Profilul tau a fost actualizat cu succes.",
+"profile_loading":
+"Datele tale se încarcă...",
+"profile_saving":
+"Profilul tau se salvează...",
+"profile_billing_address":
+"Adresa de facturare",
+"profile_shipping_address":
+"Adresa de livrare",
+"profile_edit_linktitle":
+"Apașă aici pentru ați edita profilul.",
+"feature_not_supported_subscriptions": 
+"Ne pare rău dar acest procesator de plăti nu suportă abonamente.",
+"profile_title": 
+"Profil",
+profile_edit_link:
+"{0}",
+square_field_cardnumber:
+"Număr card",
+square_field_cvv:
+"Cod de securitate (CVV)",
+square_field_postalcode:
+"Cod poștal",
+square_field_expirationdate:
+"Data de expirare",
+square_validation_error:
+"{0} e invalid",
+square_missing_card_data:
+"Unul sau mai multe câmpuri obligatorii de plată nu au fost completate.",
+square_unknown:
+"A aparut o eroare in timpul validării plătii. Te rugăm încearcă mai târziu.",
+square_error_payment_processing:
+"A aparut o eroare neasteptată in timpul validării plătii. Te rugăm încearcă mai târziu.",
+square_error_payment_method:
+"Nu sa putut valida cardul. Te rugăm verifică datele cardului.",
+save:
+"Salvează",
+processing:
+"Procesare...",
+preparing_payment:
+"Pregatim comanda...",
+payment_error_payment_processing:
+"A aparut o eroare neasteptată in timpul procesării comenzii. Te rugăm încearcă mai târziu.",
+payment_error_message:
+"Ne pare rău dar nu am putut finaliza plata dumneavostră. Puteți încerca alta metodă de plată sau continuați cumpărăturile. Dacă problema persistă contactaține direct.",
+payment_error_form_init:
+"Ne cerem scuze dar a apărut o eroare în timp ce procesam plata. Vă rugăm încercați din nou mai târziu.",
+wait_few_seconds: 
+"Câteva momente..."
 });
