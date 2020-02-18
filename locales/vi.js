@@ -238,25 +238,25 @@ Snipcart.execute('registerLocale', 'vi', {
     errors_email_does_not_match_any_existing_user:
     "Email này không khớp với tài khoản nào",
     errors_email_does_not_match_reset_password_request:
-    "User email does not match any existing reset password request.",
+    "Email người dùng không khớp với yêu cầu đặt lại mật khẩu đang khả dụng nào.",
     errors_reset_password_token_expired:
-    "The reset password token has expired.",
+    "Mã thông báo đặt lại mật khẩu đã hết hạn",
     errors_invalid_authentication_infos:
-    "Invalid authentication information",
+    "Thông tin xác thực không hợp lệ",
     error_payment_items_empty:
-    "It seems that your order is invalid, please reload the page. Your credit card has not been charged.",
+    "Đơn đặt hàng của bạn không hợp lệ, vui lòng tải lại trang. Thẻ tín dụng của bạn chưa bị tính phí.",
     error_email_is_empty:
-    "Looks like we got an issue saving your email address, please enter it again and click Next to continue.",
+    "Chúng tôi gặp sự cố khi lưu email của bạn, vui lòng nhập lại email và nhấn Tiếp tục",
     error_payment_items_are_invalid:
-    "We have not been able to complete your order. It seems that one of the items in your cart has an invalid price.",
+    "Chúng tôi chưa thể hoàn thành đơn hàng của bạn. Một trong các sản phẩm trong giỏ hàng có giá sản phẩm không hợp lệ.",
     error_crawling_failed:
-    "We have not been able to validate your order, your credit card has not been charged, please try again in a few moments.",
+    "Chúng tôi chưa thể xác thực đơn hàng của bạn, thẻ tín dụng của bạn chưa bị tính phí, vui lòng thử lại sau ít phút.",
     error_discounts_have_expired:
-    "Unfortunately one of the discount you had has expired before you completed the checkout process. Please review the order below and try again.",
+    "Xin lỗi, mã giảm giá bạn dùng đã hết hạn trước khi bạn hoàn thành thanh toán. Vui lòng xem lại đơn hàng và thử lại.",
     error_shipping_price_outdated:
-    "The shipping option you selected is not valid anymore, please choose another shipping method.",
+    "Kênh giao hàng bạn chọn không còn hợp lệ, vui lòng chọn kênh giao hàng khác.",
     powered_by:
-    "Powered and secured by",
+    "Cung cấp và bảo mật bởi",
     promocode_rate_format:
     "{0}% giảm giá cho đơn hàng",
     promocode_amount_format:
@@ -336,9 +336,9 @@ Snipcart.execute('registerLocale', 'vi', {
     cart_plans_name:
     "Gói",
     cart_plans_interval:
-    "Interval",
+    "Khoảng cách",
     cart_plans_interval_count:
-    "Count",
+    "Tổng số",
     cart_plans_quantity:
     "Số lượng",
     cart_plans_amount:
@@ -416,9 +416,9 @@ Snipcart.execute('registerLocale', 'vi', {
     subscription_invoice_details:
     "Chi tiết hoá đơn",
     subscription_invoice_fetching_details:
-    "Loading invoice details...",
+    "Đang tải chi tiết hoá đơn...",
     subscription_invoices_loading:
-    "Loading subscription invoices...",
+    "Đang tải hoá đơn cho subscriptions...",
     subscription_invoices_list:
     "Lịch sử hoá đơn",
     item_out_of_stock:
@@ -506,7 +506,7 @@ Snipcart.execute('registerLocale', 'vi', {
     payment_method_bancontact:
     "Bancontact",
     payment_method_creditcard:
-    "Credit card",
+    "Thẻ Tín dụng/Ghi nợ",
     error_item_stock_exceeded:
     "Xin lỗi! Yêu cầu của bạn vượt quá số lượng có sẵn trong kho cho sản phẩm này.",
     error_item_out_of_stock_text:
