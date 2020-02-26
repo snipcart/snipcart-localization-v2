@@ -4,23 +4,23 @@ yes:
 no:
 "没有",
 print:
-"打印",
+"列印",
 download_as_pdf:
-"以PDF格式下載",
+"以 PDF 格式下載",
 checkout:
 "結帳",
 close:
 "關閉",
 first_name:
-"姓",
+"名字",
 name:
-"名字",
+"姓名",
 last_name:
-"名字",
+"姓氏",
 company_name:
 "公司名稱",
 share_by_email:
-"分享到電子信箱",
+"透過電子信箱分享",
 email:
 "電子信箱",
 password:
@@ -30,15 +30,15 @@ confirm_password:
 ok:
 "確認",
 send:
-"寄送",
+"送出",
 address_1:
-"街道地址",
+"地址",
 address_2:
-"街道地址2",
+"地址 2",
 city:
 "城市",
 postal_code:
-"郵政編碼",
+"郵遞區號",
 phone:
 "電話",
 previous:
@@ -52,7 +52,7 @@ country:
 subtotal:
 "小計",
 tax_adjustments:
-"税收调整",
+"稅收調整",
 rebate:
 "折扣",
 apply_promo_code:
@@ -68,11 +68,11 @@ payment_method:
 confirm_order:
 "確認訂單",
 bill_me_later:
-"一會兒再結帳",
+"晚點寄送帳單",
 bill_me_later_action:
-"請稍後為您撥打電話",
+"晚點結帳",
 bill_me_later_explanation:
-"發票將電子郵件發送給您",
+"發票將透過電子郵件發送給您",
 pay_via_mollie:
 "選擇付款方式",
 pay_now_via_mollie:
@@ -82,11 +82,11 @@ pay_via_mollie_explanation:
 promo_code_is_invalid:
 "促銷代碼無效.",
 promo_code_applied_successfully:
-"您的折扣已成功應用",
+"您的折扣已成功使用",
 promo_code_is_expired:
-"此促銷代碼已過期.",
+"此促銷代碼已過期",
 promo_code_code:
-"有折扣嗎?",
+"有促銷代碼嗎?",
 promo_code_rate_on_order:
 "訂單折扣",
 promo_code_alternate_price:
@@ -102,19 +102,19 @@ billing_address:
 shipping_address:
 "收件地址",
 payment_informations:
-"支付訊息",
+"付款訊息",
 payment_informations_bill_me_later:
-"我稍後會付款",
+"稍後付款",
 payment_informations_no_payment_required:
 "無須付款",
 payment_informations_paypalexpress:
-"用Paypal付款",
+"用 Paypal 付款",
 credit_card_type_mastercard:
-"萬事通",
+"萬事達卡",
 credit_card_type_visa:
-"信用卡",
+"Visa 信用卡",
 credit_card_type_amex:
-"美國通",
+"美國運通",
 months_january:
 "一月",
 months_february:
@@ -150,47 +150,47 @@ cart_items_table_unit_price:
 cart_items_table_total_price:
 "總價",
 cart_empty_text:
-"購物車現在是空的.",
+"購物車現在是空的",
 new_account_form_create_new_account:
-"建立一個登錄",
+"建立一個帳號",
 new_account_form_create_new_account_action:
-"建立一個登錄",
+"建立一個帳號",
 login_form_having_an_account:
-"登錄",
+"登入",
 login_form_login_action:
-"登錄",
+"登入",
 login_title:
-"登錄",
+"登入",
 login_form_forgot_password_action:
 "我忘記我的密碼",
 forgot_password_forgot_your_password:
 "忘記密碼了嗎?",
 forgot_password_please_enter_email:
-"請輸入您的電子郵件,我們將會發送一封電子郵件，其中包含重置密碼的唯一連接.",
+"請輸入您的電子郵件，我們將會發送一封電子郵件，其中包含重置密碼的唯一連結",
 forgot_password_success_email_sent:
 "郵件已發送",
 forgot_password_email_sent_message:
-"已向您發送了一封電子郵件，其中包含有關如何重置密碼的說明。查看電子郵件並按照步驟操作.",
+"已向您發送了一封電子郵件，其中包含有關如何重置密碼的說明。查看電子郵件並按照步驟操作",
 login_checkout_as_guest:
-"結帳為客人",
+"以客人的身份結帳",
 login_checkout_as_guest_notice:
-"如果您不需要購物，可以登出如同用訪客模式瀏覽，請注意，我們將不會保留您的資訊直到您訂購. ",
+"如果您不需要購物，可以登出如同用訪客模式瀏覽，請注意，我們並不會保留您的資訊直到您訂購",
 shipping_address_same_as_billing:
-"使用此地址進行運輸",
+"帳單地址同收件地址",
 shipping_method_method_name:
 "郵寄方式",
 shipping_method_shipping_price:
-"郵寄價錢",
+"郵寄費率",
 shipping_method_failure_message:
-"再試一次，請確保您的送貨地址正確無誤.",
+"再試一次，請確保您的收件地址正確無誤",
 shipping_method_failure_click_here_to_edit:
-"點擊此處編輯您的送貨地址",
+"點擊此處編輯您的收件地址",
 payment_method_card_holder:
-"卡片上名字",
+"卡片上的名字",
 payment_method_card_type:
-"卡片種類",
+"發卡組織",
 payment_method_card_number:
-"卡片號碼",
+"信用卡號碼",
 payment_method_card_cvc:
 "CVC",
 payment_method_card_exp_month:
@@ -198,63 +198,63 @@ payment_method_card_exp_month:
 payment_method_card_exp_year:
 "到期年份",
 payment_method_cvc_infos:
-"ＣＶＣ是三位數，通常在您簽名的右側",
+"CVC 是三位數，通常在您簽名欄的右側",
 payment_method_card_exp_date:
 "信用卡有效期限",
 payment_method_card_postal_code:
-"郵政編碼",
+"郵遞區號",
 payment_status:
 "支付狀態",
 create_an_account:
-"建立一個登錄",
+"建立一個帳號",
 why_create_account:
-"為了更快地結帳下一個訂單，只需輸入密碼即可創建登錄信息",
+"設定快速結帳，只需輸入密碼即可建立會員帳號",
 reset_password:
 "重設密碼",
 reset_password_success:
 "重設密碼已完成",
 reset_password_changed:
-"您的密碼已被更改.",
+"您的密碼已被更改",
 reset_password_click_here_to_login:
 "點擊此處登錄",
 thankyou_message:
-"謝謝您的訂單! 您的發票已通過電子郵件發速給您, 您很快就會收到.",
+"謝謝您的訂單! 您的發票已通過電子郵件發速給您，您很快就會收到",
 thankyou_submessage:
 "您很快就會收到一封確認的電子郵件",
 account_created_successfully:
-"帳戶建立成功",
+"帳號已建立成功",
 account_created_successfully_message:
-"您的帳戶以建立成功, 謝謝您.",
+"您的帳號已建立成功，謝謝您",
 errors_required:
-"這個是必填欄",
+"此為必填欄",
 errors_passwords_dont_match:
-"這兩個密碼必須相符",
+"密碼不相符",
 errors_email_must_be_unique:
-"已存在具有相同電子郵件的帳戶",
+"相同電子郵件的帳號已存在",
 errors_both_password_must_match:
-"兩個密碼必須相配",
+"兩個密碼必須相同",
 errors_email_must_be_valid:
-"電子郵件必須有效",
+"電子郵件無效",
 errors_email_does_not_match_any_existing_user:
-"沒有此電子郵件的用戶存在",
+"沒有此電子郵件的會員存在",
 errors_email_does_not_match_reset_password_request:
-"用戶電子郵件與任何現有的重置密碼請求不相符.",
+"電子郵件與任何現有的重置密碼請求不相符.",
 errors_reset_password_token_expired:
-"重置密碼已過期.",
+"重置密碼已過期",
 errors_invalid_authentication_infos:
-"身份驗證信息無效",
+"身份驗證訊息無效",
 error_payment_items_empty:
-"您的訂單似乎無效, 請重新載入頁面. 您的信用卡尚未收費.",
+"您的訂單似乎無效，請重新載入頁面，您的信用卡尚未收費",
 error_email_is_empty:
-"看起來我們在保存您的電子郵件地址時出現問題,",
+"看起來我們在儲存您的電子郵件時出現問題",
 error_payment_items_are_invalid:
-"我們無法完成您的訂單. 您的購物車其中一件商品價格似乎無效.",
+"我們無法完成您的訂單。您的購物車其中一件商品價格似乎已經失效。",
 error_crawling_failed:
-"我們無法驗證您的訂單, 您的信用卡尚未收費,請稍後重試.",
+"我們無法驗證您的訂單，您的信用卡尚未收費，請稍後重試",
 error_discounts_have_expired:
-"不幸的是，再您完成結帳流程以前，您的折扣已過期. 請查看以下訂單然後重試.",
+"不幸的是，在您完成結帳流程以前折扣已過期，請查看以下訂單然後重試",
 error_shipping_price_outdated:
-"您選擇的送貨選項不再有效， 請選擇其他送貨方式.",
+"您選擇的送貨選項已經失效，請選擇其他送貨方式",
 powered_by:
 "可靠的安全來源來自於",
 promocode_rate_format:
@@ -266,47 +266,47 @@ shipping_method_business_days:
 shipping_method_business_day:
 "{0} 工作日",
 shipping_method_delivery_time:
-"By {0}", // 宅配於 2013-11-28
+"宅配於 {0}", // 宅配於 2013-11-28
 welcome:
 "歡迎",
 back:
 "後面",
 order_infos:
-"訂單信息", 
+"訂單訊息", 
 generic_error_title:
 "哎呀，發生錯誤",
 promocode_deleted_at_checkout:
-"您在結帳時，使用的折扣已達到限制. 很抱歉給您帶來不便.",
+"您在結帳時，使用的折扣已達到限制。很抱歉給您帶來不便。",
 continue_shopping:
 "繼續購物",
 payment_required_message:
-"網站的購物車已被禁用， 如果您是本網站者, 請登錄Snipcart儀錶板以解決問題.",
+"網站的購物車已被禁用，如果您是本網站者。請登入 Snipcart 以解決問題",
 payment_require_title:
 "購物車已停用.",
 configuration_problem:
-"配置問題",
+"設定有問題",
 additionnal_information:
-"如果要發送有關此問題的反饋或更多信息，請再下面輸入訊息.",
+"如果要發送有關此問題的回饋或更多訊息，請在下面輸入訊息.",
 send_error:
 "將此錯誤發送給網站所有者",
 message_sent:
-"消息已發送，謝謝",
+"訊息已發送，謝謝",
 paypalexpress_cancelled:
-"您取消了交易, 您可以點擊下面再試一次，或者繼續購物.",
+"您取消了交易，您可以點擊下面再試一次，或者繼續購物",
 retry:
 "再試一次",
 error_crawlingfailed_title:
-"驗證訂單時出了一點問題,別擔心,您不會被收取費用.",
+"驗證訂單時出了一點問題，別擔心，您不會被收取費用",
 error_crawling_unreachable:
-"項目 <strong>{0}</strong> 無法到達的<strong>{1}</strong>. 確保產品URL公開可用.",
+"項目 <strong>{0}</strong> 無法到達的 <strong>{1}</strong>。確保產品 URL 公開可用",
 error_crawling_product_not_found:
-"項目 <strong>{0}</strong> 還沒有找到 <strong>{1}</strong>.",
+"項目 <strong>{0}</strong> 還沒有找到 <strong>{1}</strong>",
 error_crawling_price_not_found:
-"Item <strong>{0}</strong> 沒有任何指定價格 <strong>{1}</strong>, specify it with data-item-price.",
+"項目 <strong>{0}</strong> 沒有任何指定價格 <strong>{1}</strong>，請確保每個項目有指定價格",
 error_crawling_price_doesnot_match:
-"Item <strong>{0}</strong> price at <strong>{3}</strong> is <strong>{2}</strong> but should be <strong>{1}</strong>.",
+"項目 <strong>{0}</strong> 於 <strong>{3}</strong> 的價格為 <strong>{2}</strong> 但應該是 <strong>{1}</strong>",
 error_crawlingfailed_title_test:
-"驗證訂單時出了點問題,別擔心, 您不會被收取費用. 該網站目前處於測試模式.",
+"驗證訂單時出了點問題，別擔心，您不會被收取費用，該網站目前處於測試模式",
 order_completedon:
 "放在",
 payment_method_status:
@@ -322,17 +322,17 @@ order_invoice_number:
 order_authorization_code:
 "授權碼",
 item_is_being_added:
-"將商品添加到購物車",
+"將商品加入至購物車",
 order_completing_payment:
 "下訂單",
 calculating_shipping_fees:
-"獲得運費",
+"試算運費",
 saving:
-"保存",
+"儲存中",
 loading:
 "載入中",
 free_shipping:
-"免費送貨",
+"免運費",
 cart_plans_name:
 "計畫",
 cart_plans_interval:
@@ -346,7 +346,7 @@ cart_plans_amount:
 cart_plans_total:
 "總計",
 payable_now:
-"現在支付",
+"支付",
 to_be_paid_later:
 "稍後付款",
 upcoming_payment_for:
@@ -370,9 +370,9 @@ order_total:
 orders_history:
 "我的訂單",
 subscriptions_history_no_subscriptions:
-"您還沒有認訂閱.",
+"您還沒有認訂閱",
 orders_history_no_orders:
-"你還沒有訂單.",
+"你還沒有訂單",
 orders_fetching_orders:
 "稍等您的訂單...",
 user_nav_orders:
@@ -384,7 +384,7 @@ user_nav_cart:
 subscriptions_history:
 "我的訂閱",
 subscription_name:
-"名字",
+"訂閱項目",
 subscription_amount:
 "量",
 subscription_quantity:
@@ -392,17 +392,17 @@ subscription_quantity:
 subscription_total_amount:
 "總金額",
 subscriptions_fetching_subscriptions:
-"正在加載訂閱...",
+"正在載入訂閱項目...",
 subscriptions_fetching_details:
-"加載訂閱詳情...",
+"載入訂閱項目詳情...",
 subscription_no_invoices:
-"此訂閱還沒有任何發票.",
+"此訂閱項目還沒有任何發票",
 subscription_plan_name:
-"計畫名稱",
+"訂閱項目名稱",
 subscription_plan_interval:
-"計畫間隔",
+"訂閱項目間隔",
 subscription_plan_interval_count:
-"計畫間隔計數",
+"訂閱項目間隔計數",
 subscription_invoice_number:
 "數字",
 subscription_invoice_date:
@@ -412,21 +412,21 @@ subscription_invoice_amount:
 subscription_invoice_item:
 "項目",
 subscription_invoice_info:
-"發票信息",
+"發票訊息",
 subscription_invoice_details:
 "發票明細",
 subscription_invoice_fetching_details:
-"加載發票明細...",
+"載入發票明細...",
 subscription_invoices_loading:
-"加載訂閱發票...",
+"載入訂閱發票...",
 subscription_invoices_list:
-"發票由來",
+"發票清單",
 item_out_of_stock:
-"很抱歉，此商品現在缺貨。",
+"很抱歉，此商品現在缺貨",
 click_here_to_remove_it:
-"點擊此處將其從購物車中刪除.",
+"點擊此處將其從購物車中刪除",
 outofstock_notification:
-"我們很抱歉,您購物車內的商品已沒有，請重新訂購庫存. 請檢查您的訂單。 別擔心，您的卡片尚未收費。",
+"我們很抱歉，您購物車內的商品已沒有庫存，請重新訂購。別擔心，您的卡片尚未收費",
 plan_amount_per_day:
 "{0} / 天",
 plan_amount_per_week:
@@ -458,27 +458,27 @@ subscription_cancelled_notice:
 subscription_cancelledon:
 "取消了",
 paypal_express_checkout_link:
-"付款於Paypal",
+"付款於 Paypal",
 paypal_express_checkout_title:
-"用PayPal付款",
+"用 PayPa l付款",
 paypal_express_checkout_explanation:
-"如果您希望直接通過PayPal處理付款，請單擊此按鈕.",
+"如果您希望直接通過 PayPal 處理付款，請單擊此按鈕.",
 notifications_item_not_added_due_to_max_quantity:
-"此產品選購的已是購物車的最大數量,所以無法載購買.",
+"此產品選購的已是購物車的最大數量，所以無法再購買",
 error_impossible_to_calculate_taxes:
-"我們無法計算訂單的稅金, 可能是由於地址無效, 請確保您輸入五位郵政編碼是有效地址.",
+"我們無法計算訂單的稅金, 可能是由於地址無效, 請確保您輸入五位郵遞區號是有效地址",
 have_a_promocode_question:
 "促銷代碼？",
 order_totals_computing:
 "計算稅額......",
 order_validation_failed:
-"我們無法驗證您的訂單.看起來某些產品價格可能已經改變，因為您已將它們添加到購物車中. 請檢查您的訂單，然後重試。",
+"我們無法驗證您的訂單。看起來某些您已將它們加入至購物車中產品價格可能已經改變。請檢查您的訂單，然後重試",
 item_invalid_must_remove:
-"看起來這個項目不再使用了。您可能需要聯繫商家以解決此問題，因為這可能是配置問題。繼續此項目將從您的購物車中刪除.",
+"看起來這個項目不再使用了。您可能需要聯繫商家以解決此問題，因為這可能是配置問題。繼續此項目將從您的購物車中刪除",
 accept_cart_changes:
 "接受更改並繼續",
 payment_failed_text:
-"抱歉; 我們無法處理您的付款. 您可以繼續購物或使用下面的按鈕重試。",
+"抱歉。我們無法處理您的付款。您可以繼續購物或使用下面的按鈕重試",
 payment_method_willbepaidlater:
 "延期",
 payment_method_paypal:
@@ -508,27 +508,27 @@ payment_method_bancontact:
 payment_method_creditcard:
 "信用卡",
 error_item_stock_exceeded:
-"抱歉! 您的請求超出了此商品的可用庫存.",
+"抱歉! 您的購買超出了此商品的庫存.",
 error_item_out_of_stock_text:
-"抱歉! 看起來該產品不再可用'{0}' 我們建議您稍後退房或將其刪除以繼續.",
+"抱歉! 看起來該產品不再販售'{0}' 我們建議您稍後訂購或將其刪除以繼續",
 item_out_of_stock_with_variant:
-"抱歉!看起來這個產品的變化不能再使用.請選擇其他，否則此商品將從購物車中刪除.",
+"抱歉! 看起來這個此產品不再販售，請選擇其他產品，此商品將從購物車中刪除",
 order_status_processed:
-"處理",
+"訂單已處理",
 order_status_disputed:
-"爭議",
+"訂單有爭議",
 order_status_shipped:
-"運",
+"訂單已運送",
 order_status_delivered:
-"交付",
+"訂單已支付",
 order_status_pending:
-"未決定",
+"訂單處理中",
 order_status_cancelled:
-"取消",
+"訂單已取消",
 something_went_wrong_while_fetching_rates:
-"我們無法找到您任何指定地址的送貨方式。 如果您需要幫助，請直接與我們聯繫。",
+"我們無法找到您指定地址的送貨方式。如果您需要幫助，請直接與我們聯繫",
 error_must_select_shipping_rate:
-"如果您需要幫助，請直接與我們聯繫。",
+"如果您需要幫助，請直接與我們聯繫",
 back_to_orders:
 "回到訂單",
 manage_subscriptions:
@@ -540,17 +540,17 @@ back_to_subscription_details:
 discount_remove_confirmation_msg:
 "您確定要刪除折扣嗎？",
 digital_files_not_found:
-"One or more digital files don't exist, 聯繫店長了解更多詳情.",
+"此檔案已不存在，請聯繫店長了解更多詳情",
 digital_files_download_button:
 "下載文件",
 notifications_item_not_modified_due_to_min_quantity:
-"抱歉, 您需要訂購此產品 {0}.",
+"抱歉，您訂購至少 {0} 件產品",
 subscription_resume_buttom:
 "恢復",
 subscription_summary:
 "簡介",
 subscription_notifications_paused:
-"此訂閱目前已暫停, 您可以通過單擊“繼續”按鈕來恢復它.",
+"此訂閱目前已暫停，您可以通過「繼續」按鈕來恢復它",
 subscription_notifications_pause_confirm:
 "您確定要暫停訂閱嗎？",
 subscription_notifications_resume_confirm:
@@ -562,33 +562,33 @@ subscription_status_paused:
 refund_line:
 "退款",
 stripe_invalid_number:
-"這個卡號不是有效的信用卡號。",
+"這個卡號不是有效的信用卡號碼",
 stripe_invalid_expiry_month:
-"卡的到期月份無效。",
+"信用卡到期月份無效",
 stripe_invalid_expiry_year:
-"該卡的到期年份無效。",
+"信用卡到期年份無效",
 stripe_invalid_cvc:
-"該卡的安全代碼無效。",
+"信用卡安全代碼無效",
 stripe_invalid_swipe_data:
-"卡的滑動數據無效。",
+"信用卡無法刷卡",
 stripe_incorrect_number:
-"卡號不正確。",
+"卡號不正確",
 stripe_expired_card:
-"卡片已過期。",
+"卡片已過期",
 stripe_incorrect_cvc:
-"卡的安全代碼不正確。",
+"卡的安全代碼不正確",
 stripe_incorrect_zip:
-"卡的郵政編碼驗證失敗。",
+"卡的郵遞區號驗證失敗",
 stripe_card_declined:
-"該卡被拒絕了。",
+"該卡被拒絕交易",
 stripe_missing:
-"There is no card on a customer that is being charged.",
+"此卡並沒有被收費",
 stripe_processing_error:
-"處理卡時發生錯誤.",
+"刷卡時發生錯誤",
 profile_credit_card:
 "信用卡",
 profile_current_credit_card:
-"您當前的信用卡結束並過期{0} {1} / {2}.",
+"您當前的信用卡已過期{0} {1} / {2}.",
 profile_update_card:
 "點擊這裡更新",
 profile_saved_successfully:
@@ -604,9 +604,9 @@ profile_shipping_address:
 profile_edit_linktitle:
 "點擊此處編輯您的個人資料",
 feature_not_supported_subscriptions:
-"很抱歉，您的付款網關無法使用訂閱.",
+"很抱歉，您的付款方式無法使用訂閱",
 profile_title:
-"側影",
+"個人資料標題",
 profile_edit_link:
 "{0}",
 square_field_cardnumber:
@@ -614,7 +614,7 @@ square_field_cardnumber:
 square_field_cvv:
 "CVC",
 square_field_postalcode:
-"郵政編碼",
+"郵遞區號",
 square_field_expirationdate:
 "截止日期",
 square_validation_error:
@@ -622,9 +622,9 @@ square_validation_error:
 square_missing_card_data:
 "付款表格中未填寫一個或多個卡片數據字段.",
 square_unknown:
-"卡驗證期間發生未知錯誤。請稍後再試.",
+"卡驗證期間發生未知錯誤，請稍後再試",
 square_error_payment_processing:
-"處理付款時發生錯誤，請稍後再試.",
+"處理付款時發生錯誤，請稍後再試",
 square_error_payment_method:
-"信用卡驗證失敗。 請查看提供的信息。"
+"信用卡驗證失敗。 請查看提供的訊息。"
 });
