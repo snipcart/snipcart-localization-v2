@@ -637,6 +637,8 @@ payment_error_payment_processing:
 "An unexpected error occured when processing the payment, please try again later",
 payment_error_message:
 "We're sorry but we haven't been able to complete your payment. Please use one of the buttons below to retry or to continue shopping. If you keep experiencing issues during payment, please contact the merchant directly.",
+error_subscription_payment_failed:
+"This card was not accepted. Please try a different card.",
 payment_error_form_init:
 "Apologies - unexpected error occurred. No payment processed, we're looking into it. Try again later.",
 wait_few_seconds: 
