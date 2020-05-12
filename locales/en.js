@@ -642,5 +642,11 @@ error_subscription_payment_failed:
 payment_error_form_init:
 "Apologies - unexpected error occurred. No payment processed, we're looking into it. Try again later.",
 wait_few_seconds: 
-"Just a few seconds..."
+"Just a few seconds...",
+payment_method_paypal:
+"Paypal",
+payment_method_card:
+"Credit card",
+payment_method_pay_with:
+"Pay with {0}"
 });
