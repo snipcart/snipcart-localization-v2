@@ -648,5 +648,9 @@ payment_method_paypal:
 payment_method_card:
 "Credit card",
 payment_method_pay_with:
-"Pay with {0}"
+"Pay with {0}",
+payment_method_payment_not_completed:
+"You haven't completed your payment, please pick another payment method.",
+payment_method_payment_being_processed:
+"Your payment is currently being processed. You'll receive an email once it's completed, or you can refresh this page."
 });
