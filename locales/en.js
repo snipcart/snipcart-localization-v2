@@ -649,6 +649,8 @@ payment_method_card:
 "Credit card",
 payment_method_pay_with:
 "Pay with {0}",
+payment_method_payment_status_open:
+"Your order has been completed but the payment is not fully processed yet. You should receive an order confirmation in the next minutes and a complete invoice once the payment is confirmed.",
 payment_method_payment_not_completed:
 "You haven't completed your payment, please pick another payment method.",
 payment_method_payment_being_processed:
