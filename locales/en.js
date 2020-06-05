@@ -654,5 +654,7 @@ payment_method_payment_status_open:
 payment_method_payment_not_completed:
 "You haven't completed your payment, please pick another payment method.",
 payment_method_payment_being_processed:
-"Your payment is currently being processed. You'll receive an email once it's completed, or you can refresh this page."
+"Your payment is currently being processed. You'll receive an email once it's completed, or you can refresh this page.",
+"Processor Declined":
+"The card was declined. Please validate card details, or contact your credit card issuer."
 });
