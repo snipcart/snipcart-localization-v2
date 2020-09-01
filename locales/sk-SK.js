@@ -4,19 +4,19 @@ yes:
 no:
 "Nie",
 print:
-"Print",
+"Vytlačiť",
 download_as_pdf:
 "Stiahnuť PDF",
 checkout:
-"Checkout",
+"K objednávke",
 close:
 "Zavrieť",
 first_name:
 "Meno",
 name:
-"Priezvisko",
+"Meno",
 last_name:
-"Last name",
+"Priezvisko",
 company_name:
 "Firma",
 share_by_email:
@@ -26,7 +26,7 @@ email:
 password:
 "Heslo",
 confirm_password:
-"Confirm password",
+"Potvrdiť heslo",
 ok:
 "OK",
 send:
@@ -34,7 +34,7 @@ send:
 address_1:
 "Adresa",
 address_2:
-" ",
+"Adresa 2",
 city:
 "Mesto",
 postal_code:
@@ -54,7 +54,7 @@ subtotal:
 tax_adjustments:
 "Daňové úpravy",
 rebate:
-"Rebate",
+"Zníženie",
 apply_promo_code:
 "Použiť promo kód",
 my_cart:
@@ -74,25 +74,25 @@ bill_me_later_action:
 bill_me_later_explanation:
 "Potvrdenie objednávky vám prijde do mailu.",
 pay_via_mollie:
-"Choose payment method",
+"Zvoľte spôsob platby",
 pay_now_via_mollie:
-"Pay now",
+"Platba ihneď",
 pay_via_mollie_explanation:
-"You'll be redirected to a list of available payment options.",
+"Budete presmerovaný k zoznamu možností platby.",
 promo_code_applied_successfully:
-"Your Discount has been applied successfully.",
+"Vaša zľava bola zarátaná úspešne.",
 promo_code_is_invalid:
-"Tento kód je nesprávny.",
+"Tento zľavový kód je nesprávny.",
 promo_code_is_expired:
-"This promo code has expired.",
+"Platnosť tohto zľavového kódu už vypršala.",
 promo_code_code:
-"Have a Discount?",
+"Máte zľavový kód?",
 promo_code_rate_on_order:
-"discount on the order",
+"Vaša zľava na objednávke",
 promo_code_alternate_price:
-"special price on products",
+"špeciálna cena produktov",
 total:
-"Total",
+"Spolu",
 total_paid:
 "Celková cena objednávky",
 province_state:
@@ -104,11 +104,11 @@ shipping_address:
 payment_informations:
 "Platba",
 payment_informations_bill_me_later:
-"I will pay later",
+"Platba na dobierku",
 payment_informations_no_payment_required:
-"No payment required",
+"Platba nieje požadovaná",
 payment_informations_paypalexpress:
-"Payment with Paypal",
+"Platba cez PayPal",
 credit_card_type_mastercard:
 "Mastercard",
 credit_card_type_visa:
@@ -120,21 +120,21 @@ months_january:
 months_february:
 "Február",
 months_march:
-"March",
+"Marec",
 months_april:
-"April",
+"Apríl",
 months_may:
-"May",
+"Máj",
 months_june:
-"June",
+"Jún",
 months_july:
-"July",
+"Júl",
 months_august:
 "August",
 months_september:
 "September",
 months_october:
-"October",
+"Október",
 months_november:
 "November",
 months_december:
@@ -142,7 +142,7 @@ months_december:
 cart_items_table_item:
 "Tovar",
 cart_items_table_description:
-"Description",
+"Popis",
 cart_items_table_quantity:
 "Množstvo",
 cart_items_table_unit_price:
@@ -152,267 +152,267 @@ cart_items_table_total_price:
 cart_empty_text:
 "Váš košík je prázdny",
 new_account_form_create_new_account:
-"Create a login",
+"Vytvoriť účet",
 new_account_form_create_new_account_action:
-"Create a login",
+"Vytvoriť účet",
 login_form_having_an_account:
-"Sign in",
+"Prihlásiť sa",
 login_form_login_action:
-"Log in",
+"Prihlásiť sa",
 login_title:
-"Login",
+"Prihlásiť",
 login_form_forgot_password_action:
-"I forgot my password",
+"Zabudnuté heslo",
 forgot_password_forgot_your_password:
-"Forgot your password?",
+"Zabudli ste heslo?",
 forgot_password_please_enter_email:
-"Please enter your email, we will send you an email containing a unique link to reset your password.",
+"Prosím zadajte váš email, zašleme vám mail s odkazom na resetovanie vášho hesla.",
 forgot_password_success_email_sent:
-"Email sent",
+"Email odoslaný",
 forgot_password_email_sent_message:
-"An email has been sent to you with instructions about how to reset your password. Go check the email and follow the steps.",
+"Bol vám odoslaný email s inštrukciami ako zresetovať heslo. Pozrite si email a nasledujte kroky.",
 login_checkout_as_guest:
-"Checkout as a guest",
+"Pokračovať bez registrácie",
 login_checkout_as_guest_notice:
-"Checkout as a guest if you don't want to create an account for this purchase. Please note that your information won't be saved for your next orders.",
+"Pokračovať v objednávke bez registrácie, ak nechcete pre tento nákup vytvárať účet. Vaše údaje nebudú uložené pre ďaľšie objednávky.",
 shipping_address_same_as_billing:
 "Uvedená adresa je zároveň adresou dodania",
 shipping_method_method_name:
-"Shipping method",
+"Spôsob dopravy",
 shipping_method_shipping_price:
-"Shipping price",
+"Cena dopravy",
 shipping_method_failure_message:
 "Neboli sme schopní overiť Vašu objednávku. Vyzerá to, že niektorý z tovarov vo vašom košíku nemá korektne nastavené parametre.",
 shipping_method_failure_click_here_to_edit:
-"Click here to edit your shipping address",
+"Kliknite sem pre zmenu adresy dodania",
 payment_method_card_holder:
-"Name on card",
+"Meno na karte",
 payment_method_card_type:
-"Túto záložku preskočte / Card type",
+"Typ karty",
 payment_method_card_number:
-"----r",
+"Číslo karty",
 payment_method_card_cvc:
-"---",
+"CVC",
 payment_method_card_exp_month:
-"----",
+"Mesiac konca platnosti karty",
 payment_method_card_exp_year:
-"----",
+"Rok konca platnosti karty",
 payment_method_cvc_infos:
-"The CVC is the 3 digits security number behind your credit card, usually at the right of your signature.",
+"CVC je 3-miestny bezpečnostný kód na zadnej strane vašej karty, zvyčajne býva za podpisom.",
 payment_status:
-"Payment status",
+"Stav platby",
 create_an_account:
-"Create a login",
+"Registrovať sa",
 why_create_account:
-"For a faster checkout on your next order, just enter a password to create a login.",
+"Pre rýchlejšie dokončenie ďaľšej objednávky, zadajte prosím heslo a zaregistrujte sa.",
 reset_password:
-"Reset password",
+"Resetovať heslo",
 reset_password_success:
-"Reset password completed",
+"Resetovanie hesla dokončené",
 reset_password_changed:
-"Your passsword has been changed.",
+"Vače heslo bolo zmenené.",
 reset_password_click_here_to_login:
-"Click here to login",
+"Kliknite tu pre prihlásenie",
 thankyou_message:
 "Ďakujeme vám za vašu objednávku!",
 thankyou_submessage:
-"You will receive a confirmation email soon",
+"Za chvílku obdržíte email s potvrdením objednávky.",
 account_created_successfully:
-"Account created successfully",
+"Váš účet bol úspešne vytvorený",
 account_created_successfully_message:
-"Your account has been successfully created, thank you.",
+"Váš účet bol úspešne vytvorený, ďakujeme.",
 errors_required:
 "Povinný údaj",
 errors_email_must_be_unique:
-"An user with the same email already exists",
+"Užívateľ s rovnakým emailom už existuje.",
 errors_both_password_must_match:
-"Both passwords must match",
+"Obe heslá sa musia zhodovať",
 errors_email_must_be_valid:
-"The email must be valid",
+"Email musí byť platný",
 errors_email_does_not_match_any_existing_user:
-"No user with this email exists",
+"Žiaden používateľ s týmto emailom neexistuje",
 errors_email_does_not_match_reset_password_request:
-"User email does not match any existing reset password request.",
+"Užívateľský email nezodpovedá žiadnej existujúcej požiadavke o resetovanie hesla.",
 errors_reset_password_token_expired:
-"The reset password token has expired.",
+"Žiadosť o resetovanie hesla vypršala.",
 errors_invalid_authentication_infos:
-"Invalid authentication information",
+"Neplatné autorizačné informácie",
 error_payment_items_empty:
-"It seems that your order is invalid, please reload the page. Your credit card has not been charged.",
+"Vaša objednávka je pravdepodobne neplatná, načítajte stránku znovu. Platba nebola účtovaná.",
 error_payment_items_are_invalid:
-"We have not been able to complete your order. It seems that one of the items in your cart has an invalid price.",
+"Neboli sme schopní dokončiť vašu objednávku. Vyzerá to tak, že niektorá z položiek v košíku nemá platnú cenu.",
 error_crawling_failed:
-"We have not been able to validate your order, your credit card has not been charged, please try again in a few moments.",
+"Nemohli sme potvrdiť vašu objednávku, platba nebola účtovaná, prosím skúste znova za chvílku.",
 error_discounts_have_expired:
-"Unfortunately one of the discount you had has expired before you completed the checkout process. Please review the order below and try again.",
+"Bohužiaľ, zlava vypršala predtým ako ste stihli dokončit objednávku, skontrolujte ju prosím a skúste znovu.",
 powered_by:
 "Powered and secured by",
 promocode_rate_format:
-"{0}% discount on your order",
+"{0}% zľava na vašu objednávku",
 promocode_amount_format:
-"{0} discount on your order",
+"{0} zľava na vašu objednávku",
 shipping_method_business_days:
-"{0}-3 pracovné dni",
+"{0} pracovné dni",
 shipping_method_business_day:
-"{0} business day",
+"{0} pracovný deň",
 shipping_method_delivery_time:
-"By {0}", // By 2013-11-28
+"Dňa {0}", // By 2013-11-28
 welcome:
-"Welcome",
+"Vitajte",
 back:
-"Back",
+"Späť",
 order_infos:
-"Order info",
+"Informácie o objednávke",
 generic_error_title:
-"Oops, an error occured.",
+"Ups, došlo k chybe.",
 promocode_deleted_at_checkout:
-"The Discount you used has reached its usage limit while you were doing your checkout. Sorry for this inconvenience.",
+"Počet použití zliav bol vyčerpaný. Ospravedlňujeme sa za starosti.",
 continue_shopping:
-"Continue shopping",
+"Pokračovať v nákupe",
 payment_required_message:
-"The shopping cart for this website has been disabled. If you are the owner of this website, please login into Snipcart dashboard to resolve the issue.",
+"Nákupný košík pre túto stránku bol zakázaný. Ak ste majiteľom stránky, prihláste sa do Snipcartu a opravte chybu.",
 payment_require_title:
-"The shopping cart is disabled.",
+"Nákupný košík je zakázaný.",
 configuration_problem:
-"Configuration problem",
+"Problém s konfiguráciou",
 additionnal_information:
-"Enter a message below if you want to send feedback or more information about this problem.",
+"Zadajte správu dole, ak chcete spätnú väzbu alebo viac informácií o tomto probléme.",
 send_error:
-"Send this error to website's owner",
+"Odoslať túto chybu majiteľovi stránky",
 message_sent:
-"Message sent, thank you",
+"Správa odoslaná, ďakujeme.",
 wait_few_seconds:
-"Just a few seconds...",
+"Počkajte chvíľku...",
 paypalexpress_cancelled:
-"You cancelled the transaction, you can either click on the button below to try again or simply continue to shop.",
+"Zrušili ste tranzakciu, skúste to znovu kliknutím na tlačítko dole alebo pokračujte v nákupe.",
 retry:
-"Try again",
+"Skúsiť znova",
 error_crawlingfailed_title:
-"Something went wrong when validating your order, don't worry, you have not been charged.",
+"Niečo sa pokazilo pri overovaní vašej objednávky, nebojte, peniaze neboli strhnuté.",
 error_crawling_unreachable:
-"Item <strong>{0}</strong> is unreachable at <strong>{1}</strong>. Make sure the product URL is publicly available.",
+"Položka <strong>{0}</strong> nieje dostupná na <strong>{1}</strong>. Uistite sa, že URL adresa je verejne dostupná.",
 error_crawling_product_not_found:
-"Item <strong>{0}</strong> has not been found at <strong>{1}</strong>.",
+"Položka <strong>{0}</strong> nebola nájdená na <strong>{1}</strong>.",
 error_crawling_price_not_found:
-"Item <strong>{0}</strong> does not have any specified price at <strong>{1}</strong>, specify it with data-item-price.",
+"Položka <strong>{0}</strong> nemá zadanú cenu <strong>{1}</strong>, zadajte ju s data-item-price.",
 error_crawling_price_doesnot_match:
-"Item <strong>{0}</strong> price at <strong>{3}</strong> is <strong>{2}</strong> but should be <strong>{1}</strong>.",
+"Položka <strong>{0}</strong> za cenu <strong>{3}</strong> je <strong>{2}</strong> ale mala by mať <strong>{1}</strong>.",
 error_crawlingfailed_title_test:
 "Something went wrong when validating your order, don't worry, you have not been charged. This website is currently in Test mode.",
 order_completedon:
-"Placed on",
+"Objednané dňa",
 payment_method_status:
-"Transaction status",
+"Stav platby",
 payment_method_status_approved:
-"Approved",
+"Schválené",
 order_reference_number:
-"Reference number",
+"Referenčné číslo",
 order_transaction_amount:
-"Transaction amount",
+"Čiastka",
 order_invoice_number:
 "Číslo faktúry",
 order_authorization_code:
-"Authorization code",
+"Autorizačný kód",
 item_is_being_added:
 "Vkladám tovar do košíka...",
 order_completing_payment:
-"Placing order...",
+"Objednávam...",
 calculating_shipping_fees:
 "Prejsť na dopravu...",
 saving:
 "Ukladám...",
 loading:
-"Loading...",
+"Načítavam...",
 free_shipping:
-"Free shipping",
+"Doprava zadarmo",
 cart_plans_name:
-"Plan",
+"Plán",
 cart_plans_interval:
-"Interval",
+"Obdobie",
 cart_plans_interval_count:
 "Počet",
 cart_plans_quantity:
-"Quantity",
+"Počet",
 cart_plans_amount:
-"Amount",
+"Čiastka",
 cart_plans_total:
-"Total",
+"Celkovo",
 payable_now:
-"Payable now",
+"Ihneď k úhrade",
 upcoming_payment_for:
-"Subscription",
+"Predplatné",
 upcoming_payment_date:
-"Date",
+"Dátum",
 upcoming_payment_amount:
-"Total",
+"Celkovo",
 upcoming_payment_subtotal:
-"Subtotal",
+"Medzisúčet",
 upcoming_payments:
-"Next payments",
+"Nasledujúce platby",
 order_date:
 "Dátum",
 order_status:
-"Status",
+"Stav",
 order_total:
-"Total",
+"Celkovo",
 orders_history:
-"My orders",
+"Moje objednávky",
 orders_history_no_orders:
-"You don't actually have any orders.",
+"Nemáte žiadne objednávky.",
 orders_fetching_orders:
-"Loading your orders...",
+"Načítavam objednávky...",
 user_nav_orders:
-"My orders",
+"Moje objednávky",
 user_nav_subscriptions:
-"My subscriptions",
+"Moje predplatné",
 user_nav_cart:
 "Môj košík",
 subscriptions_history:
-"My subscriptions",
+"Moje predplatné",
 subscription_name:
 "Meno",
 subscription_amount:
-"Amount",
+"Suma",
 subscription_quantity:
 "Množstvo",
 subscription_total_amount:
 "Celkom:",
 subscriptions_fetching_subscriptions:
-"Loading subscriptions...",
+"Načítavam predplatné...",
 subscriptions_fetching_details:
-"Loading subscrition details...",
+"Načítavam detaily predplatného...",
 subscription_no_invoices:
-"This subscription does not have any invoices yet.",
+"Toto predplatné zatiaľ nemá žiadne faktúry.",
 subscription_plan_name:
-"Plan name",
+"Názov predplatného",
 subscription_plan_interval:
-"Plan interval",
+"Interval predplatného",
 subscription_plan_interval_count:
 "Plán interval počítať",
 subscription_invoice_number:
-"Number",
+"Číslo",
 subscription_invoice_date:
-"Date",
+"Dátum",
 subscription_invoice_amount:
-"Amount",
+"Čiastka",
 subscription_invoice_item:
-"Item",
+"Položka",
 subscription_invoice_info:
-"Invoice information",
+"Informácie o faktúre",
 subscription_invoice_details:
-"Invoice details",
+"Detaily faktúry",
 subscription_invoice_fetching_details:
-"Loading invoice details...",
+"Načítavam detaily faktúry...",
 subscription_invoices_loading:
-"Loading subscription invoices...",
+"Načítavam faktúry predplatného...",
 subscription_invoices_list:
-"Invoices history",
+"História faktúr",
 item_out_of_stock:
-"We are sorry, this item is now out of stock.",
+"Ľutujeme, táto položka je vypredaná.",
 click_here_to_remove_it:
-"Click here to remove it from your cart.",
+"Kliknite sem pre odstránenie položky z košíka.",
 outofstock_notification:
-"We are sorry, some of the items in your cart went out of stock during your checkout. Please review your order. Don't worry, your card has not been charged.",
+"Ľutujeme, niektoré položky vo vašom košíku sa vypredali počas dokončovania objednávky. Zkontrolujte ju prosím. Peniaze sme vám nestrhli.",
 plan_amount_per_day:
 "{0} / deň",
 plan_amount_per_week:
@@ -430,45 +430,45 @@ plan_amount_per_month_plural:
 plan_amount_per_year_plural:
 "{0} / {1} rokov",
 plan_days_of_trial:
-"{0} days trial",
+"{0} dní skušobne",
 subscription_cancel_button:
-"Cancel this subscription",
+"Zrušiť predplatné",
 subscription_cancel_confirmation:
-"Are you sure you want to cancel your subscription ?",
+"Ste si istý, že chcete zrušiť predplatné?",
 subscription_cancel_success:
-"Your subscription has been cancelled successfully.",
+"Vaše predplatné bolo úspešne zrušené.",
 subscription_cancelled_notice:
-"This subscription is no longer active, it has been cancelled on {0}.",
+"Toto predplatné už nieje aktívne, bolo zružené dňa {0}.",
 subscription_cancelledon:
-"Cancelled on",
+"Zrušené dňa",
 paypal_express_checkout_link:
-"Pay with Paypal",
+"Zaplatiť cez Paypal",
 paypal_express_checkout_title:
-"Pay with PayPal",
+"Zaplatiť cez PayPal",
 paypal_express_checkout_explanation:
-"Click on this button if you prefer to process your payment directly through PayPal.",
+"Kliknite na toto tlačítko ak preferujete zaplatiť priamo cez PayPal.",
 notifications_item_not_added_due_to_max_quantity:
-"The product has not been added, you already have the maximum quantity in your cart.",
+"Produkt nebol pridaný, už máte maximálny možný počet daného produktu.",
 error_impossible_to_calculate_taxes:
 "We have not been able to calculate taxes for the order, it might be due to an invalid address, please ensure you entered a valid address with a 5 digits ZIP code.",
 have_a_promocode_question:
 "Zľavový kód?",
 order_totals_computing:
-"Calculating taxes...",
+"Počítam daň...",
 order_validation_failed:
 "We have not been able to validate your order. Looks like some product prices might have changed since you added them to the cart. Please review your order and try again.",
 item_invalid_must_remove:
-"Vyzerá to tak, ze táto položka momentálne nie je k dispozicii. Problém je pravdepodobne v konfig. systému, nie v dostupnosti. Pre odstránenie problému, prosím, kontaktujte nás mailom obchod@autobenex.sk alebo telefonicky na 0904 185 821.",
+"Vyzerá to tak, ze táto položka momentálne nie je k dispozicii. Problém je pravdepodobne v konfig. systému, nie v dostupnosti.",
 accept_cart_changes:
-"Accept changes and continue",
+"Prijať zmeny a pokračovať",
 payment_failed_text:
-"Sorry; we haven’t been able to process your payment. You can continue shopping or try again using the buttons below.",
+"Ospravedlňujeme sa ale nebolo možné strhnúť peniaze za objednávku. Pokračujte v nákupe alebo skúste znova pomocou tlačítiek dole.",
 payment_method_willbepaidlater:
-"Deferred",
+"Odložená",
 payment_method_paypal:
 "Paypal",
 payment_method_none:
-"None",
+"Žiadna",
 payment_method_sofort:
 "Sofort",
 payment_method_ideal:
@@ -476,7 +476,7 @@ payment_method_ideal:
 payment_method_mistercash:
 "Mister Cash",
 payment_method_banktransfer:
-"Bank transfer",
+"Bankový prevod",
 payment_method_directdebit:
 "Direct debit",
 payment_method_belfius:
@@ -490,27 +490,27 @@ payment_method_paysafecard:
 payment_method_bancontact:
 "Bancontact",
 payment_method_creditcard:
-"Credit card",
+"Kreditná karta",
 error_item_stock_exceeded:
-"Sorry! Your request exceeds the available stock for this item.",
+"Ospravedlňujeme sa, no vami požadované množstvo presahuje počet produktov na sklade.",
 error_item_out_of_stock_text:
-"Sorry! Looks like this product is not available anymore. We suggest you check out later.",
+"Ospravedlňujeme sa, no vyzerá to tak, že vami vybraný produkt už nieje k dispozícii. Skúste to neskôr prosím.",
 item_out_of_stock_with_variant:
-"Sorry! Looks like this variation of the product isn't available anymore. Please select another variation or this item will be removed from the cart.",
+"Ospravedlňujeme sa, no vyzerá to tak, že vybraná varianta produktu už nieje k dispozícii. Vyberte prosím inú variantu alebo produkt odstránime z košíka.",
 order_status_processed:
-"Processed",
+"Zpracovaná",
 order_status_disputed:
-"Disputed",
+"Odmietnutá",
 order_status_shipped:
-"Shipped",
+"Odoslaná",
 order_status_delivered:
-"Delivered",
+"Doručená",
 order_status_pending:
-"Pending",
+"Čakajúca",
 order_status_cancelled:
-"Canceled",
+"Zrušená",
 something_went_wrong_while_fetching_rates:
-"Something went wrong while getting shipping rates for your order. Please make sure you entered a valid shipping address. The error is: ",
+"Niečo sa pokazilo pri počítaní dopravného pre vašu objednávku. Skontrolujte či ste zadali platnú adresu. Chyba je: ",
 error_must_select_shipping_rate:
-"You must select shipping method to continue."
+"Pre pokračovanie musíte vybrať spôsob dopravy."
 });
