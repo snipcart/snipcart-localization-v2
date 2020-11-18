@@ -518,5 +518,139 @@ paypal_express_checkout_explanation:
 notifications_item_not_added_due_to_max_quantity:
 "Der Artikel wurde nicht hinzugefügt, weil Sie die maximal zulässige Anzahl überschreiten würden.",
 error_impossible_to_calculate_taxes:
-"Wir konnten keine Steuer für diese Bestellung berechnen. Das kann an einer ungültigen Adresse liegen. Bitte stellen Sie sicher, dass Ihre Adresse eine gültige Postleitzahl enthält."
+"Wir konnten keine Steuer für diese Bestellung berechnen. Das kann an einer ungültigen Adresse liegen. Bitte stellen Sie sicher, dass Ihre Adresse eine gültige Postleitzahl enthält.",
+payment_method_card_exp_date:
+"gültig bis",
+payment_method_card_postal_code:
+"PLZ",
+error_email_is_empty:
+"E-Mail-Adresse fehlt",
+error_shipping_price_outdated:
+"Versandkosten sind nicht mehr aktuell",
+to_be_paid_later:
+"wird später bezahlt",
+upcoming_payment_shipping:
+"Versand",
+subscriptions_history_no_subscriptions:
+"Sie haben noch kein Abonnement",
+subscription_pause_button:
+"Abonnement pausieren",
+manage_subscriptions:
+"Abonnement verwalten",
+back_to_subscriptions_list:
+"zurück zur Abo-Liste",
+back_to_subscription_details:
+"zurück zu den Abo-Details",
+digital_files_not_found:
+"digitale Artikel nicht vorhanden",
+digital_files_download_button:
+"digitale Artikel herunterladen",
+notifications_item_not_modified_due_to_min_quantity:
+"Sie müssen mindestens {0} Artikel bestellen",
+subscription_resume_buttom:
+"aktivieren",
+subscription_summary:
+"Zusammenfassung",
+subscription_notifications_paused:
+"Dieses Abonnement ist zurzeit pausiert. Sie können es aktivieren indem Sie auf \"aktivieren\" klicken",
+subscription_notifications_pause_confirm:
+"Sind Sie sicher, dass Sie dieses Abo pausieren möchten?",
+subscription_notifications_resume_confirm:
+"Sind Sie sicher, dass Sie dieses Abo aktivieren möchten?",
+subscription_status_canceled:
+"storniert",
+subscription_status_paused:
+"pausiert",
+refund_line:
+"gutgeschrieben",
+stripe_invalid_number:
+"Kartennummer ungültig",
+stripe_invalid_expiry_month:
+"Ablaufmonat ungültig",
+stripe_invalid_expiry_year:
+"Ablaufjahr ungültig",
+stripe_invalid_cvc:
+"Sicherheits-Code ungültig",
+stripe_invalid_swipe_data:
+"Kartenangaben ungültig",
+stripe_incorrect_number:
+"Kartenummer falsch",
+stripe_expired_card:
+"Karte abgelaufen",
+stripe_incorrect_cvc:
+"CVC-Nummer falsch",
+stripe_incorrect_zip:
+"PLZ falsch",
+stripe_card_declined:
+"Karte abgelehnt",
+stripe_missing:
+"keine Karte angegeben",
+stripe_processing_error:
+"ein Fehler ist während der Kartenüberprüfung aufgetreten",
+profile_credit_card:
+"Kreditkarte",
+profile_current_credit_card:
+"Die aktuelle Karte endet mit {0} und läuft am {1}/{2} ab.",
+profile_update_card:
+"Kartenangaben aktualisieren",
+profile_saved_successfully:
+"Profil gespeichert",
+profile_loading:
+"Profil wird geladen…",
+profile_saving:
+"Profil wird gespeichert",
+profile_billing_address:
+"Rechnungsadresse",
+profile_shipping_address:
+"Lieferadresse",
+profile_edit_linktitle:
+"Hier klicken um das Profil zu bearbeiten.",
+feature_not_supported_subscriptions:
+"Es tut uns leid, aber die Abonnements sind für die gewählte Zahlungsmethode nicht verfügbar. Der Artikel kann nicht hinzugefügt werden.",
+profile_title:
+"Mein Konto",
+profile_edit_link:
+"{0}",
+square_field_cardnumber:
+"Kartennummer",
+square_field_cvv:
+"CVC",
+square_field_postalcode:
+"PLZ",
+square_field_expirationdate:
+"gültig bis",
+square_validation_error:
+"{0} ist ungüktig",
+square_missing_card_data:
+"fehlende Informationen im Zahlungsformular",
+square_unknown:
+"Ein unbekannter Fehler ist während der Überprüfung der Karte aufgetreten. Bitte versuchen Sie es später erneut.",
+square_error_payment_processing:
+"Ein Fehler ist während des Zahlungsvorgangs aufgetreten. Bitte versuchen Sie es später erneut.",
+square_error_payment_method:
+"Die Überprüfung der Karte ist fehlgeschlagen. Bitte überprüfen Sie die Angaben.",
+save:
+"speichern",
+processing,
+"in Bearbeitung…",
+preparing_payment:
+"wird vorbereitet…",
+payment_error_payment_processing:
+"Ein Fehler ist während des Zahlungsvorgangs aufgetreten. Bitte versuchen Sie es später erneut",
+payment_error_message:
+"Es tut uns leid, der Zahlungsvorgang war nicht erfolgreich. Bitte verwenden Sie eine der untenstehenden Optionen um es erneut zu versuchen oder den Einkauf fortzusetzen. Wenn der Fehler weiterhin besteht, kontaktieren Sie die Shopbetreiber bitte direkt.",
+error_subscription_payment_failed:
+"Ein Fehler ist während des Zahlungsvorgangs aufgetreten. Bitte versuchen Sie es später erneut.",
+payment_error_form_init:
+"Es tut uns leid, eine unbekannter Fehler ist aufgetreten. Es wurde keine Zahlung getätigt. Wir sind bemüht den Fehler zu beheben. Bitte versuchen Sie es später erneut.",
+payment_method_card:
+"Karte",
+payment_method_pay_with:
+"zahlen mit",
+payment_method_payment_status_open:
+"offen",
+payment_method_payment_not_completed:
+"bezahlt",
+payment_method_payment_being_processed:
+"in Bearbeitung"
 });
