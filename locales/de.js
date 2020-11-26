@@ -631,7 +631,7 @@ square_error_payment_method:
 "Die Überprüfung der Karte ist fehlgeschlagen. Bitte überprüfen Sie die Angaben.",
 save:
 "speichern",
-processing,
+processing:
 "in Bearbeitung…",
 preparing_payment:
 "wird vorbereitet…",
