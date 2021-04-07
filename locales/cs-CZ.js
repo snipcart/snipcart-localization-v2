@@ -458,7 +458,7 @@ order_totals_computing:
 order_validation_failed:
 "We have not been able to validate your order. Looks like some product prices might have changed since you added them to the cart. Please review your order and try again.",
 item_invalid_must_remove:
-"Vypadá to tak, že tato položka momentálně není k dispozicii. Problém je pravděpodobne v konfig. systému, ne v dostupnosti. Pro odstránění problému, prosím, kontaktujte nás mailem na david@3dsimo.com",
+"Vypadá to, že tato položka již není k dispozici. Možná budete muset kontaktovat obchodníka, aby to vyřešili, protože to může být problém s konfigurací. Pokračováním bude tato položka odstraněna z vašeho košíku.",
 accept_cart_changes:
 "Přijmout změny a pokračovat",
 payment_failed_text:
