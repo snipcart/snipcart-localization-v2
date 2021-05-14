@@ -656,5 +656,18 @@ payment_method_payment_not_completed:
 payment_method_payment_being_processed:
 "Your payment is currently being processed. You'll receive an email once it's completed, or you can refresh this page.",
 "Processor Declined":
-"The card was declined. Please validate card details, or contact your credit card issuer."
+"The card was declined. Please validate card details, or contact your credit card issuer.",
+
+payment_form_deferred_payment_title: "Deferred Payment",
+payment_form_deferred_payment_instructions: "By placing this order, you agree to pay later through the payment method identified by the merchant.",
+payment_form_card_label: "Credit card",
+payment_form_card_number: "Card number",
+payment_form_card_expiration: "MM/YY",
+payment_form_card_cvv: "CVV",
+payment_form_card_postal_code: "Postal code",
+payment_form_invalid_number: "Card number is invalid",
+payment_form_invalid_expiration: "Expiration date is invalid",
+payment_form_invalid_cvv: "CVV is invalid",
+payment_form_invalid_postal_code: "Postal code is invalid"
+
 });

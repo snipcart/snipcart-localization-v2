@@ -642,5 +642,14 @@ payment_error_message:
 payment_error_form_init:
 "Désolé, une erreur inattendue s'est produite. Aucun paiement n'a été traité, nous allons chercher à corriger cela. Veuillez réessayer plus tard.",
 wait_few_seconds:
-"Encore quelques secondes..."
+"Encore quelques secondes...",
+
+payment_form_deferred_payment_title: "Paiement differé",
+payment_form_deferred_payment_instructions: "En passant cette commande, vous acceptez de payer plus tard via le moyen de paiement identifié par le commerçant.",
+payment_form_card_label: "Carte de crédit",
+payment_form_card_number: "Numéro de carte",
+payment_form_card_expiration: "MM/AA",
+payment_form_card_cvv: "CVV",
+payment_form_card_postal_code: "Code postal"
+
 });
