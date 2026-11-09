@@ -85,6 +85,8 @@ promo_code_is_invalid:
 "The promo code is invalid.",
 promo_code_is_expired:
 "This promo code has expired.",
+promocode_already_in_cart:
+"This promo code is already applied.",
 promo_code_code:
 "Have a Discount?",
 promo_code_rate_on_order:
